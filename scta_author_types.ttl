@@ -1,0 +1,68 @@
+@prefix scta: <http://scta.info/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dbpedia: <http://dbpedia.org/ontology/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix role: <http://www.loc.gov/loc.terms/relators/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix sctar: <http://scta.info/resource/> .
+@prefix sctap: <http://scta.info/property/> .
+
+sctar:scholastic
+	rdf:type sctar:personType ;
+	dc:title "Scholastic" ;
+	dc:description "A attribute for describing a person as a member of the Scholastic Tradition" ;
+	sctap:shortId "scholastic" .
+
+sctar:patristic
+	rdf:type sctar:personType ;
+	dc:title "Patristic" ;
+	dc:description "A attribute for describing a person as a member of the Patristic Tradition" ;
+	sctap:shortId "patristic" .
+
+sctar:classical
+	rdf:type sctar:personType ;
+	dc:title "Classical" ;
+	dc:description "A attribute for describing a person as a member of the Classic Tradition" ;
+	sctap:shortId "classical" .
+
+sctar:biblical
+	rdf:type sctar:personType ;
+	dc:title "Biblical" ;
+	dc:description "A attribute for describing a person as a member of the Biblical Tradition" ;
+	sctap:shortId "biblical" .
+
+sctar:Dominican
+	rdf:type sctar:personType ;
+	dc:title "Dominican" ;
+	dc:description "A attribute for describing a person as a member of the Dominican Order" ;
+	sctap:shortId "Dominican" .
+
+sctar:Franciscan
+  rdf:type sctar:personType ;
+  dc:title "Franciscan" ;
+  dc:description "A attribute for describing a person as a member of the Franciscan Order" ;
+  sctap:shortId "Franciscan" .
+
+sctar:Augustinian
+  rdf:type sctar:personType ;
+  dc:title "Augustinian" ;
+  dc:description "A attribute for describing a person as a member of the Augustinian Order" ;
+  sctap:shortId "Augustinian" .
+
+sctar:Victorine
+  rdf:type sctar:personType ;
+  dc:title "Victorine" ;
+  dc:description "A attribute for describing a person as a member of the Victorine tradition" ;
+  sctap:shortId "Victorine" .
+
+sctar:Carmelite
+  rdf:type sctar:personType ;
+  dc:title "Carmelite" ;
+  dc:description "A attribute for describing a person as a member of the Carmelite tradition" ;
+  sctap:shortId "Victorine" .

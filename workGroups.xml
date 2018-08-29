@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workGroup id="scta">
+  <title>Scholastic Commentaries and Texts Archive</title>
+  <description>A Top Level Work Group for all Work Groups in the SCTA</description>
+  <workGroups>
+    <workGroup id="sententiae">
+      <title>Sentences Commentaries</title>
+      <description>A Work Group for all commentaries on the Sentences of Peter Lombard</description>
+    </workGroup>
+    <workGroup id="deanima">
+      <title>De Anima Commentaries</title>
+      <description>A Work Group for all commentaries on Aristotle's De Anima</description>
+    </workGroup>
+    <workGroup id="metaphysics">
+      <title>Metaphysics Commentaries</title>
+      <description>A Work Group for all commentaries on Aristotle's Metaphysics</description>
+    </workGroup>
+    <workGroup id="summulaelogicales">
+      <title>Summalae Logicales</title>
+      <description>A Work Group for the Summulae Logicales and the Commentary Tradition</description>
+    </workGroup>
+    <workGroup id="dionysiuscommentarius">
+      <title>Commentaries on Pseudo-Dionysius</title>
+      <description>Commentaries on the corpus of Pseudo-Dionysius</description>
+    </workGroup>
+    <workGroup id="locicommunes">
+      <title>Loci Communes</title>
+      <description>A work group for Loci Communes</description>
+    </workGroup>
+    <workGroup id="canonlaw">
+      <title>Canon Law</title>
+      <description>A Work Group for the Canon Law Tradition</description>
+      <workGroups>
+        <workGroup id="statutes">
+          <title>Canon Law Statutes</title>
+          <description>A Work Group for Statutes in Canon Law Tradition</description>
+        </workGroup>
+      </workGroups>
+    </workGroup>
+    <workGroup id="quodlibeta">
+      <title>Quodlibeta</title>
+      <description>A Work Group for Quodlibetal Questions</description>
+    </workGroup>
+    <workGroup id="biblicalcommentaries">
+      <title>Biblical Commentaries</title>
+      <description>A Work Group for Biblical Commentaries</description>
+    </workGroup>
+    <workGroup id="florilegia">
+      <title>Florilegia</title>
+      <description>A Work Group for Florilegia</description>
+    </workGroup>
+    <workGroup id="uncategorized">
+      <title>Uncategorized</title>
+      <description>A Work Group for Uncategorized Texts</description>
+    </workGroup>
+  </workGroups>
+</workGroup>

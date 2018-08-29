@@ -1,0 +1,105 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dbpedia: <http://dbpedia.org/ontology/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix role: <http://www.loc.gov/loc.terms/relators/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+@prefix sctar: <http://scta.info/resource/>
+@prefix sctap: <http://scta.info/property/>
+
+# sctar:pp-about
+# 	rdf:type sctar:article ;
+# 	dc:title "About the Petrus Plaoul Edition" ;
+# 	sctap:articleType sctar:about ;
+# 	sctap:shortId "pp-about" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/pp-about/raw/master/pp-about.xml" ;
+# 	sctap:gitRepository "https://bitbucket.org/jeffreycwitt/pp-about" ;
+# 	sctap:isArticleOf sctar:plaoulcommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/peter-plaoul> .
+#
+# sctar:pp-biography
+# 	rdf:type sctar:article ;
+# 	dc:title "Plaoul Biography" ;
+# 	sctap:articleType sctar:biography ;
+# 	sctap:shortId "pp-biography" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/biography/raw/master/PlaoulBiography.xml" ;
+# 	sctap:gitRepository "https://bitbucket.org/jeffreycwitt/biography" ;
+# 	sctap:isArticleOf sctar:plaoulcommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/peter-plaoul> .
+#
+# sctar:pp-timeline
+# 	rdf:type sctar:article ;
+# 	dc:title "Plaoul Timeline" ;
+# 	sctap:articleType sctar:timeline ;
+# 	sctap:shortId "pp-timeline" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/biography/raw/master/PlaoulTimeLineTEI.xml" ;
+# 	sctap:gitRepository "https://bitbucket.org/jeffreycwitt/biography" ;
+# 	sctap:isArticleOf sctar:plaoulcommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/peter-plaoul> .
+#
+# sctar:pp-bibliography
+# 	rdf:type sctar:article ;
+# 	dc:title "Plaoul Bibliography" ;
+# 	sctap:articleType sctar:bibliography ;
+# 	sctap:shortId "pp-bibliography" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/bibliography/raw/master/bibliography.xml" ;
+# 	sctap:gitRepository "https://bitbucket.org/jeffreycwitt/bibliography" ;
+# 	sctap:isArticleOf sctar:plaoulcommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/peter-plaoul> .
+#
+# sctar:pp-manuscriptlist
+# 	rdf:type sctar:article ;
+# 	dc:title "Plaoul Manuscript List" ;
+# 	sctap:articleType sctar:manuscriptlist ;
+# 	sctap:shortId "pp-manuscriptlist" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/bibliography/raw/master/PlaoulTexts.xml" ;
+# 	sctap:gitRepository "https://bitbucket.org/jeffreycwitt/bibliography" ;
+# 	sctap:isArticleOf sctar:plaoulcommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/peter-plaoul> .
+#
+# sctar:aw-about
+# 	rdf:type sctar:article ;
+# 	dc:title "About the Wodeham Ordinatio Edition" ;
+# 	sctap:articleType sctar:about ;
+# 	sctap:shortId "aw-about" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/aw-about/raw/master/aw-about.xml" ;
+# 	sctap:gitRepository "https://bibucket.org/jeffreycwitt/aw-about" ;
+# 	sctap:isArticleOf sctar:wodehamordinatio ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/Wodeham> .
+
+# sctar:aw-bibliography
+# 	rdf:type sctar:article ;
+# 	dc:title "Bibliography" ;
+# 	sctap:articleType sctar:bibliography ;
+# 	sctap:shortId "aw-bibliography" ;
+# 	#sctap:hasXML "https://api.zotero.org/users/215671/collections/G36DFQAG/items/?key=ZhI5ePm4lw328NxGmVAGKYEp&format=tei" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/aw-bibliography/raw/master/aw-bibliography.xml" ;
+# 	sctap:gitRepository "https://bibucket.org/jeffreycwitt/aw-bibliography" ;
+# 	sctap:isArticleOf sctar:wodehamordinatio ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/Wodeham> .
+
+# sctar:aw-manuscriptlist
+# 	rdf:type sctar:article ;
+# 	dc:title "Manuscript List" ;
+# 	sctap:articleType sctar:standard ;
+# 	sctap:shortId "aw-manuscriptlist" ;
+# 	sctap:hasXML "https://bitbucket.org/jeffreycwitt/aw-manuscripts/raw/master/aw-manuscripts.xml" ;
+# 	sctap:gitRepository "https://bibucket.org/jeffreycwitt/aw-manuscripts" ;
+# 	sctap:isArticleOf sctar:wodehamordinatio ;
+# 	sctap:isArticleOf sctar:wodehamabbreviatio ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/Wodeham> .
+
+# sctar:pg-bib
+# 	rdf:type sctar:article ;
+# 	dc:title "Bibliography" ;
+# 	sctap:articleType sctar:bibliography ;
+# 	sctap:shortId "pg-bib" ;
+# 	#sctap:hasXML "https://api.zotero.org/users/215671/collections/G36DFQAG/items/?key=ZhI5ePm4lw328NxGmVAGKYEp&format=tei" ;
+# 	sctap:hasXML "https://api.zotero.org/groups/555244/collections/GE4AB4QB/items?format=tei" ;
+# 	sctap:isArticleOf sctar:graciliscommentary ;
+# 	sctap:isArticleOf <http://scta.info/resource/person/PetrusGracilis> .

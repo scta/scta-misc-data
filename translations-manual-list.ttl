@@ -1,0 +1,99 @@
+# This is a temporary list
+# and should eventually be automated with xslt stylesheets
+
+@prefix scta: <http://scta.info/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dbpedia: <http://dbpedia.org/ontology/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix role: <http://www.loc.gov/loc.terms/relators/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix sctar: <http://scta.info/resource/> .
+@prefix sctap: <http://scta.info/property/> .
+
+
+sctar:lectio1
+	sctap:hasTranslation <http://scta.info/resource/lectio1/en> ;
+  sctap:hasTranslation <http://scta.info/resource/lectio1/de> .
+
+<http://scta.info/resource/lectio1/en>
+  dc:title "Lecture 1" ;
+  dc:language "en" ;
+  rdf:type sctar:translation ;
+  sctap:hasTranscription <http://scta.info/resource/lectio1/en/transcription> ;
+  sctap:hasCanonicalTranscription <http://scta.info/resource/lectio1/en/transcription> ;
+  sctap:isTranslationOf <http://scta.info/resource/lectio1> ;
+  sctap:shortId "lectio1/en" ;
+  sctap:hasSlug "en" .
+
+<http://scta.info/resource/lectio1/en/transcription>
+  dc:title "Lecture 1 Transcription" ;
+  dc:language "en" ;
+  rdf:type sctar:transcription ;
+  sctap:isTranscriptionOf <http://scta.info/resource/lectio1/en> ;
+  sctap:hasDocument <https://bitbucket.org/jeffreycwitt/en_lectio1/raw/master/en_lectio1.xml> ;
+  sctap:transcriptionType "translation" ;
+  sctap:shortId "lectio1/en/transcription" .
+
+<http://scta.info/resource/lectio1/de> 
+  dc:title "Lecture 1" ;
+  dc:language "de" ;
+  rdf:type sctar:translation ;
+  sctap:hasTranscription <http://scta.info/resource/lectio1/de/transcription> ;
+  sctap:hasCanonicalTranscription <http://scta.info/resource/lectio1/de/transcription> ;
+  sctap:isTranslationOf <http://scta.info/resource/lectio1> ;
+  sctap:shortId "lectio1/de" ;
+  sctap:hasSlug "de" .
+
+<http://scta.info/resource/lectio1/de/transcription>
+  dc:title "Lecture 1 Transcription" ;
+  dc:language "de" ;
+  rdf:type sctar:transcription ;
+  sctap:isTranscriptionOf <http://scta.info/resource/lectio1/de> ;
+  sctap:hasDocument <https://bitbucket.org/jeffreycwitt/de_lectio1/raw/master/de_lectio1.xml> ;
+  sctap:transcriptionType "translation" ;
+  sctap:shortId "lectio1/de/transcription" .
+  
+
+<http://scta.info/resource/b1-d3-qun/en>
+  dc:title "Distinction 3, Question 1" ;
+  dc:language "en" ;
+  rdf:type sctar:translation ;
+  sctap:hasTranscription <http://scta.info/resource/b1-d3-qun/en/transcription> ;
+  sctap:hasCanonicalTranscription <http://scta.info/resource/b1-d3-qun/en/transcription> ;
+  sctap:isTranslationOf <http://scta.info/resource/b1-d3-qun> ;
+  sctap:shortId "b1-d3-qun/en" ;
+  sctap:hasSlug "en" .
+
+<http://scta.info/resource/b1-d3-qun/en/transcription>
+  dc:title "Distinction 3, Question 1 Translation" ;
+  dc:language "en" ;
+  rdf:type sctar:transcription ;
+  sctap:isTranscriptionOf <http://scta.info/resource/b1-d3-qun/en> ;
+  sctap:hasDocument <https://bitbucket.org/jeffreycwitt/en_b1-d3-qun/raw/master/en_b1-d3-qun.xml> ;
+  sctap:transcriptionType "translation" ;
+  sctap:shortId "b1-d3-qun/en/transcription" .
+
+<http://scta.info/resource/b1-d3-qun/es> 
+  dc:title "Distinction 3, Question 1" ;
+  dc:language "es" ;
+  rdf:type sctar:translation ;
+  sctap:hasTranscription <http://scta.info/resource/b1-d3-qun/es/transcription> ;
+  sctap:hasCanonicalTranscription <http://scta.info/resource/b1-d3-qun/es/transcription> ;
+  sctap:isTranslationOf <http://scta.info/resource/b1-d3-qun> ;
+  sctap:shortId "b1-d3-qun/es" ;
+  sctap:hasSlug "es" .
+
+<http://scta.info/resource/b1-d3-qun/es/transcription>
+  dc:title "Distinction 3, Question 1 Translation" ;
+  dc:language "es" ;
+  rdf:type sctar:transcription ;
+  sctap:isTranscriptionOf <http://scta.info/resource/b1-d3-qun/es> ;
+  sctap:hasDocument <https://bitbucket.org/jeffreycwitt/es_b1-d3-qun/raw/master/es_b1-d3-qun.xml> ;
+  sctap:transcriptionType "translation" ;
+  sctap:shortId "b1-d3-qun/es/transcription" .  

@@ -1,0 +1,391 @@
+@prefix scta: <http://scta.info/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dbpedia: <http://dbpedia.org/ontology/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix role: <http://www.loc.gov/loc.terms/relators/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix sctar: <http://scta.info/resource/> .
+@prefix sctap: <http://scta.info/property/> .
+
+sctar:sentences-commentary
+	rdf:type sctar:expressionType ;
+	dc:title "Sentences Commentary" ;
+	dc:description "Sentences Commentary" .
+
+sctar:deanima-commentary
+	rdf:type sctar:expressionType ;
+	dc:title "De Anima Commentary" ;
+	dc:description "De Anima Commentary" .
+
+sctar:metaphysics-commentary
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Commentary" ;
+	dc:description "Metaphysics Commentary" .
+
+sctar:liber
+	rdf:type sctar:expressionType ;
+	dc:title "Book Division" ;
+	dc:description "The typical top level division of a medieval text" .
+
+sctar:liber1
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Division" ;
+	dc:description "Book 1 division of Sentences and Sentences Commentaries; deals with questions of the divine nature" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "liber1" ;
+	sctap:hasPart sctar:liber1-prologus ;
+	sctap:hasPart sctar:liber1-distinctio1 ;
+	sctap:hasPart sctar:liber1-distinctio2 ;
+	sctap:hasPart sctar:liber1-distinctio3 ;
+	sctap:hasPart sctar:liber1-distinctio4 ;
+	sctap:hasPart sctar:liber1-distinctio5 ;
+	sctap:hasPart sctar:liber1-distinctio6 ;
+	sctap:hasPart sctar:liber1-distinctio7 ;
+	sctap:hasPart sctar:liber1-distinctio8 ;
+	sctap:hasPart sctar:liber1-distinctio9 ;
+	sctap:hasPart sctar:liber1-distinctio10 ;
+	sctap:hasPart sctar:liber1-distinctio11 ;
+	sctap:hasPart sctar:liber1-distinctio12 ;
+	sctap:hasPart sctar:liber1-distinctio13 ;
+	sctap:hasPart sctar:liber1-distinctio14 ;
+	sctap:hasPart sctar:liber1-distinctio15 ;
+	sctap:hasPart sctar:liber1-distinctio16 ;
+	sctap:hasPart sctar:liber1-distinctio17 ;
+	sctap:hasPart sctar:liber1-distinctio18 ;
+	sctap:hasPart sctar:liber1-distinctio19 ;
+	sctap:hasPart sctar:liber1-distinctio20 ;
+	sctap:hasPart sctar:liber1-distinctio21 ;
+	sctap:hasPart sctar:liber1-distinctio22 ;
+	sctap:hasPart sctar:liber1-distinctio23 ;
+	sctap:hasPart sctar:liber1-distinctio24 ;
+	sctap:hasPart sctar:liber1-distinctio25 ;
+	sctap:hasPart sctar:liber1-distinctio26 ;
+	sctap:hasPart sctar:liber1-distinctio27 .
+	# and so on
+
+sctar:liber2
+	rdf:type sctar:expressionType ;
+	dc:title "Book 2 Division" ;
+	dc:description "Book 2 division of Sentences and Sentences Commentaries; deals with questions about creation" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "liber2" .
+
+
+sctar:liber3
+	rdf:type sctar:expressionType ;
+	dc:title "Book 3 Division" ;
+	dc:description "Book 3 division of Sentences and Sentences Commentaries; deals with questions about Christ" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "liber3" .
+
+sctar:liber4
+	rdf:type sctar:expressionType ;
+	dc:title "Book 4 Division" ;
+	dc:description "Book 4 division of Sentences and Sentences Commentaries; deals with questions about Church and Sacraments" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "liber4" .
+
+
+sctar:prologus
+	rdf:type sctar:expressionType ;
+	dc:title "Prologus Division" ;
+	dc:description "Basic prologue division that usually precedes distinctions in a book" .
+
+
+sctar:liber1-prologus
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Prologue" ;
+	dc:description "Division of Book 1 that usually discusses theological science and faith" ;
+	sctap:expressionType sctar:prologus ;
+	sctap:shortId "liber1-prologus" ;
+	sctap:next sctar:liber1-distinctio1 ;
+	dcterms:isPartOf sctar:liber1 .
+
+sctar:distinctio
+	rdf:type sctar:expressionType ;
+	dc:title "Distinction Division" ;
+	dc:description "A basic division of a book type in a Sentences Commentary" .
+
+sctar:liber1-distinctio1
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 1" ;
+	dc:description "Division of Book 1 that usually discusses use and enjoyment" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio1" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-prologus ;
+	sctap:next sctar:liber1-distinctio2 .
+
+sctar:liber1-distinctio2
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 2" ;
+	dc:description "Division of Book 1 that usually discusses God's existence" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio2" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio1 ;
+	sctap:next sctar:liber1-distinctio3 .
+
+sctar:liber1-distinctio3
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 3" ;
+	dc:description "Division of Book 1 that usually discusses the imago dei" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio3" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio2 ;
+	sctap:next sctar:liber1-distinctio4 .
+
+sctar:liber1-distinctio4
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 4" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio4" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio3 ;
+	sctap:next sctar:liber1-distinctio5 .
+
+sctar:liber1-distinctio5
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 5" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio5" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio4 ;
+	sctap:next sctar:liber1-distinctio6 .
+
+sctar:liber1-distinctio6
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 6" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio6" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio5 ;
+	sctap:next sctar:liber1-distinctio7 .
+
+sctar:liber1-distinctio7
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 7" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio7" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio6 ;
+	sctap:next sctar:liber1-distinctio8 .
+
+sctar:liber1-distinctio8
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 8" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio8" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio7 ;
+	sctap:next sctar:liber1-distinctio9 .
+
+
+sctar:liber1-distinctio9
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 9" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio9" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio8 ;
+	sctap:next sctar:liber1-distinctio10 .
+
+sctar:liber1-distinctio10
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 10" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio10" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio9 ;
+	sctap:next sctar:liber1-distinctio11 .
+
+sctar:liber1-distinctio11
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 11" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio11" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio10 ;
+	sctap:next sctar:liber1-distinctio12 .
+
+sctar:liber1-distinctio12
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 12" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio12" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio11 ;
+	sctap:next sctar:liber1-distinctio13 .
+
+sctar:liber1-distinctio13
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 13" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio13" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio12 ;
+	sctap:next sctar:liber1-distinctio14 .
+
+sctar:liber1-distinctio14
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 14" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio14" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio13 ;
+	sctap:next sctar:liber1-distinctio15 .
+
+sctar:liber1-distinctio15
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 15" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio15" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio14 ;
+	sctap:next sctar:liber1-distinctio16 .
+
+sctar:liber1-distinctio16
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 16" ;
+	dc:description "Division of Book 1 that usually discusses " ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio16" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio15 ;
+	sctap:next sctar:liber1-distinctio17 .
+
+sctar:liber1-distinctio17
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 17" ;
+	dc:description "Division of Book 1 that usually discusses caritas" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio17" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio16 ;
+	sctap:next sctar:liber1-distinctio18 .
+
+
+
+sctar:da-liber1
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Division" ;
+	dc:description "Book 1 division of De Anima Commentaries; deals with general considerations about a science of the soul" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "da-liber1" .
+
+sctar:da-liber2
+	rdf:type sctar:expressionType ;
+	dc:title "Book 2 Division" ;
+	dc:description "Book 2 division of De Anima Commentaries; deals with definitions of the soul and the sensitive soul" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "da-liber2" .
+
+sctar:da-liber3
+	rdf:type sctar:expressionType ;
+	dc:title "Book 3 Division" ;
+	dc:description "Book 3 division of De Anima Commentaries; deals with the rational soul" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "da-liber3" .
+
+sctar:met-liber1
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 1 Division" ;
+	dc:description "Book 1 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber1" .
+
+sctar:met-liber2
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 2 Division" ;
+	dc:description "Book 2 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber2" .
+
+sctar:met-liber3
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 3 Division" ;
+	dc:description "Book 3 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber3" .
+
+sctar:met-liber4
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 4 Division" ;
+	dc:description "Book 4 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber4" .
+
+sctar:met-liber5
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 5 Division" ;
+	dc:description "Book 5 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber5" .
+
+sctar:met-liber6
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 6 Division" ;
+	dc:description "Book 6 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber6" .
+
+sctar:met-liber7
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 7 Division" ;
+	dc:description "Book 7 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber7" .
+
+sctar:met-liber8
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 8 Division" ;
+	dc:description "Book 8 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber8" .
+
+sctar:met-liber9
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 9 Division" ;
+	dc:description "Book 9 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber9" .
+
+sctar:met-liber10
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 10 Division" ;
+	dc:description "Book 10 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber3" .
+
+sctar:met-liber11
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 11 Division" ;
+	dc:description "Book 11 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber11" .
+
+sctar:met-liber12
+	rdf:type sctar:expressionType ;
+	dc:title "Metaphysics Book 12 Division" ;
+	dc:description "Book 12 division of Metaphysics Commentaries" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "met-liber12" .
