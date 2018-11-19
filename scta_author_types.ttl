@@ -64,5 +64,11 @@ sctar:Victorine
 sctar:Carmelite
   rdf:type sctar:personType ;
   dc:title "Carmelite" ;
-  dc:description "A attribute for describing a person as a member of the Carmelite tradition" ;
-  sctap:shortId "Victorine" .
+  dc:description "A attribute for describing a person as a member of the Carmelite order" ;
+  sctap:shortId "Carmelite" .
+
+sctar:Jesuit
+  rdf:type sctar:personType ;
+  dc:title "Jesuit" ;
+  dc:description "A attribute for describing a person as a member of the Jesuit Order" ;
+  sctap:shortId "Jesuit" .
