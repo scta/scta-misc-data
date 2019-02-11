@@ -389,3 +389,45 @@ sctar:met-liber12
 	dc:description "Book 12 division of Metaphysics Commentaries" ;
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "met-liber12" .
+
+sctar:decretales-liber1
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 1 Division" ;
+	dc:description "Book 1 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber1" .
+
+sctar:decretales-liber2
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 2 Division" ;
+	dc:description "Book 2 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber2" .
+
+sctar:decretales-liber3
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 3 Division" ;
+	dc:description "Book 3 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber3" .
+
+sctar:decretales-liber4
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 4 Division" ;
+	dc:description "Book 4 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber4" .
+
+sctar:decretales-liber4
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 4 Division" ;
+	dc:description "Book 4 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber4" .
+
+sctar:decretales-liber5
+	rdf:type sctar:expressionType ;
+	dc:title "Decretales Book 5 Division" ;
+	dc:description "Book 5 division for Decretales and Commentaries on the Decretales" ;
+	sctap:expressionType sctar:liber ;
+	sctap:shortId "decretales-liber5" .
