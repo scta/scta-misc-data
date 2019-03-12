@@ -37,6 +37,10 @@
         </workGroup>
       </workGroups>
     </workGroup>
+    <workGroup id="civillaw">
+      <title>Civil Law</title>
+      <description>A Work Group for the Civil Law Tradition</description>
+    </workGroup>
     <workGroup id="quodlibeta">
       <title>Quodlibeta</title>
       <description>A Work Group for Quodlibetal Questions</description>
