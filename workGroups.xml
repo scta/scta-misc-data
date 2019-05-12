@@ -53,6 +53,10 @@
       <title>Florilegia</title>
       <description>A Work Group for Florilegia</description>
     </workGroup>
+    <workGroup id="liturgica">
+      <title>Liturgica</title>
+      <description>A Work Group for Liturgical Texts</description>
+    </workGroup>
     <workGroup id="uncategorized">
       <title>Uncategorized</title>
       <description>A Work Group for Uncategorized Texts</description>
