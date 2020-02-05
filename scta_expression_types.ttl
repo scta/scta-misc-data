@@ -431,3 +431,15 @@ sctar:decretales-liber5
 	dc:description "Book 5 division for Decretales and Commentaries on the Decretales" ;
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber5" .
+
+sctar:lit-temporale
+  rdf:type sctar:expressionType ;
+  dc:title "Liturgica Temporale " ;
+  dc:description "A type for classifying all prayers that belong in the category temporale " ;
+  sctap:shortId "lit-temporale" .
+
+sctar:lit-votive-masses
+  rdf:type sctar:expressionType ;
+  dc:title "Liturgica Votive Masses " ;
+  dc:description "A type for classifying all prayers that belong in the category Votive Masses " ;
+  sctap:shortId "lit-votive-masses" .
