@@ -443,3 +443,15 @@ sctar:lit-votive-masses
   dc:title "Liturgica Votive Masses " ;
   dc:description "A type for classifying all prayers that belong in the category Votive Masses " ;
   sctap:shortId "lit-votive-masses" .
+
+sctar:lit-canon-missae
+  rdf:type sctar:expressionType ;
+  dc:title "Liturgica Canon Missae " ;
+  dc:description "A type for classifying all prayers that belong in the category of Canon Missae " ;
+  sctap:shortId "lit-canon-missae" .
+
+sctar:lit-sanctorale
+  rdf:type sctar:expressionType ;
+  dc:title "Liturgica Sanctorale " ;
+  dc:description "A type for classifying all prayers that belong in the category of Sanctorale " ;
+  sctap:shortId "lit-sanctorale" .
