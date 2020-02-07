@@ -455,3 +455,87 @@ sctar:lit-sanctorale
   dc:title "Liturgica Sanctorale " ;
   dc:description "A type for classifying all prayers that belong in the category of Sanctorale " ;
   sctap:shortId "lit-sanctorale" .
+
+sctar:lit-dom-prima-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "First Sunday After Passover" ;
+  dc:description "First Sunday After Passover" ;
+  sctap:shortId "lit-dom-prima-pascha" .
+
+sctar:lit-dom-secunda-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "Second Sunday After Passover" ;
+  dc:description "Second Sunday After Passover" ;
+  sctap:shortId "lit-dom-secunda-pascha" .
+
+sctar:lit-dom-secunda-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "Second Sunday After Passover" ;
+  dc:description "Second Sunday After Passover" ;
+  sctap:shortId "lit-dom-secunda-pascha" .
+
+sctar:lit-dom-tertia-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "Third Sunday After Passover" ;
+  dc:description "Third Sunday After Passover" ;
+  sctap:shortId "lit-dom-tertia-pascha" .
+
+sctar:lit-dom-quarta-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "Fourth Sunday After Passover" ;
+  dc:description "Fourth Sunday After Passover" ;
+  sctap:shortId "lit-dom-quarta-pascha" .
+
+sctar:lit-dom-quinta-pascha
+  rdf:type sctar:expressionType ;
+  dc:title "Fifth Sunday After Passover" ;
+  dc:description "Fifth Sunday After Passover" ;
+  sctap:shortId "lit-dom-quinta-pascha" .
+
+sctar:lit-dom-prima-adventus
+  rdf:type sctar:expressionType ;
+  dc:title "First Sunday of Advent" ;
+  dc:description "First Sunday of Advent" ;
+  sctap:shortId "lit-dom-prima-adventus" .
+
+sctar:lit-dom-secunda-adventus
+  rdf:type sctar:expressionType ;
+  dc:title "Second Sunday of Advent" ;
+  dc:description "Second Sunday of Advent" ;
+  sctap:shortId "lit-dom-secunda-adventus" .
+
+sctar:lit-dom-tertia-adventus
+  rdf:type sctar:expressionType ;
+  dc:title "Third Sunday of Advent" ;
+  dc:description "Third Sunday of Advent" ;
+  sctap:shortId "lit-dom-tertia-adventus" .
+
+sctar:lit-dom-quarta-adventus
+  rdf:type sctar:expressionType ;
+  dc:title "Fourth Sunday of Advent" ;
+  dc:description "Fourth Sunday of Advent" ;
+  sctap:shortId "lit-dom-quarta-adventus" .
+
+sctar:lit-dom-prima-epiph
+  rdf:type sctar:expressionType ;
+  dc:title "First Sunday of Ephiphany" ;
+  dc:description "First Sunday of Ephiphany" ;
+  sctap:shortId "lit-dom-prima-epiph" .
+
+sctar:lit-dom-secunda-epiph
+  rdf:type sctar:expressionType ;
+  dc:title "Second Sunday of Ephiphany" ;
+  dc:description "Second Sunday of Ephiphany" ;
+  sctap:shortId "lit-dom-secunda-epiph" .
+
+sctar:lit-dom-tertia-epiph
+  rdf:type sctar:expressionType ;
+  dc:title "Third Sunday of Ephiphany" ;
+  dc:description "Third Sunday of Ephiphany" ;
+  sctap:shortId "lit-dom-tertia-epiph" .
+
+sctar:lit-dom-quarta-epiph
+  rdf:type sctar:expressionType ;
+  dc:title "Fourth Sunday of Ephiphany" ;
+  dc:description "Fourth Sunday of Ephiphany" ;
+  sctap:shortId "lit-dom-quarta-epiph" .
