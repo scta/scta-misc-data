@@ -539,3 +539,9 @@ sctar:lit-dom-quarta-epiph
   dc:title "Fourth Sunday of Ephiphany" ;
   dc:description "Fourth Sunday of Ephiphany" ;
   sctap:shortId "lit-dom-quarta-epiph" .
+
+sctar:gd-dicta
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian Dicta" ;
+  dc:description "Gratian Dicta" ;
+  sctap:shortId "gd-dicta" .
