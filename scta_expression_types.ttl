@@ -542,6 +542,31 @@ sctar:lit-dom-quarta-epiph
 
 sctar:gd-dicta
   rdf:type sctar:expressionType ;
-  dc:title "Gratian Dicta" ;
-  dc:description "Gratian Dicta" ;
+  dc:title "Gratian Dicta Type" ;
+  dc:description "Gratian Dicta Type" ;
   sctap:shortId "gd-dicta" .
+
+sctar:gd-p2c6q1da1-et
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian p2c6q1da1 Dicta Type" ;
+  dc:description "Gratian P2c6a1c1 Dicta Type" ;
+  sctap:shortId "gd-p2c6q1da1-et" ;
+	sctap:isMemberOf "gd-dicta" .
+
+sctar:gd-p2c6q1c1-et
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian p2c6q1c1 type" ;
+  dc:description "Gratian p2c6q1c1 type" ;
+  sctap:shortId "gd-p2c6q1c1-et" .
+
+sctar:gd-p2c6q1c2-et
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian p2c6q1c2 type" ;
+  dc:description "Gratian p2c6q1c2 type" ;
+  sctap:shortId "gd-p2c6q1c2-et" .
+
+sctar:gd-p2c6q1c3-et
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian p2c6q1c3 type" ;
+  dc:description "Gratian p2c6q1c3 type" ;
+  sctap:shortId "gd-p2c6q1c3-et" .
