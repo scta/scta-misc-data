@@ -551,7 +551,7 @@ sctar:gd-p2c6q1da1-et
   dc:title "Gratian p2c6q1da1 Dicta Type" ;
   dc:description "Gratian P2c6a1c1 Dicta Type" ;
   sctap:shortId "gd-p2c6q1da1-et" ;
-	sctap:isMemberOf "gd-dicta" .
+	sctap:isMemberOf sctar:gd-dicta .
 
 sctar:gd-p2c6q1c1-et
   rdf:type sctar:expressionType ;
