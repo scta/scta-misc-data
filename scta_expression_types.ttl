@@ -540,33 +540,72 @@ sctar:lit-dom-quarta-epiph
   dc:description "Fourth Sunday of Ephiphany" ;
   sctap:shortId "lit-dom-quarta-epiph" .
 
+## Dicta types
 sctar:gd-dicta
   rdf:type sctar:expressionType ;
   dc:title "Gratian Dicta Type" ;
   dc:description "Gratian Dicta Type" ;
   sctap:shortId "gd-dicta" .
 
-sctar:gd-p2c6q1da1-et
+sctar:gd-p2c6q1dac1-et
   rdf:type sctar:expressionType ;
-  dc:title "Gratian p2c6q1da1 Dicta Type" ;
-  dc:description "Gratian P2c6a1c1 Dicta Type" ;
-  sctap:shortId "gd-p2c6q1da1-et" ;
+  dc:title "Gratian p2c6q1dac1 Dicta Type" ;
+  dc:description "Gratian P2c6ac1 Dicta Type" ;
+  sctap:shortId "gd-p2c6q1dac1-et" ;
 	sctap:isMemberOf sctar:gd-dicta .
+
+sctar:gd-p2c4q1dac1-et
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian p2c4q1dac1 Dicta Type" ;
+  dc:description "Gratian p2c4q1dac1 Dicta Type" ;
+  sctap:shortId "gd-p2c4q1dac1-et" ;
+	sctap:isMemberOf sctar:gd-dicta .
+
+## Canon Types
+sctar:gd-canon
+  rdf:type sctar:expressionType ;
+  dc:title "Gratian Canon Type" ;
+  dc:description "Gratian Canon Type" ;
+  sctap:shortId "gd-canon" .
 
 sctar:gd-p2c6q1c1-et
   rdf:type sctar:expressionType ;
   dc:title "Gratian p2c6q1c1 type" ;
   dc:description "Gratian p2c6q1c1 type" ;
-  sctap:shortId "gd-p2c6q1c1-et" .
+  sctap:shortId "gd-p2c6q1c1-et" ;
+	sctap:isMemberOf sctar:gd-canon .
 
 sctar:gd-p2c6q1c2-et
   rdf:type sctar:expressionType ;
   dc:title "Gratian p2c6q1c2 type" ;
   dc:description "Gratian p2c6q1c2 type" ;
-  sctap:shortId "gd-p2c6q1c2-et" .
+  sctap:shortId "gd-p2c6q1c2-et" ;
+	sctap:isMemberOf sctar:gd-canon .
 
 sctar:gd-p2c6q1c3-et
   rdf:type sctar:expressionType ;
   dc:title "Gratian p2c6q1c3 type" ;
   dc:description "Gratian p2c6q1c3 type" ;
-  sctap:shortId "gd-p2c6q1c3-et" .
+  sctap:shortId "gd-p2c6q1c3-et" ;
+	sctap:isMemberOf sctar:gd-canon .
+
+sctar:gd-p2c6q1c4-et
+	rdf:type sctar:expressionType ;
+	dc:title "Gratian p2c6q1c4 type" ;
+	dc:description "Gratian p2c6q1c4 type" ;
+	sctap:shortId "gd-p2c6q1c4-et" ;
+	sctap:isMemberOf sctar:gd-canon .
+
+sctar:gd-p2c4q1c1-et
+	rdf:type sctar:expressionType ;
+	dc:title "Gratian p2c4q1c1 type" ;
+	dc:description "Gratian p2c4q1c1 type" ;
+	sctap:shortId "gd-p2c4q1c1-et" ;
+	sctap:isMemberOf sctar:gd-canon .
+
+sctar:gd-p2c4q1c2-et
+	rdf:type sctar:expressionType ;
+	dc:title "Gratian p2c4q1c2 type" ;
+	dc:description "Gratian p2c4q1c2 type" ;
+	sctap:shortId "gd-p2c4q1c2-et" ;
+	sctap:isMemberOf sctar:gd-canon .
