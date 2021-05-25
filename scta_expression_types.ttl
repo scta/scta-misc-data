@@ -66,8 +66,28 @@ sctar:liber1
 	sctap:hasPart sctar:liber1-distinctio24 ;
 	sctap:hasPart sctar:liber1-distinctio25 ;
 	sctap:hasPart sctar:liber1-distinctio26 ;
-	sctap:hasPart sctar:liber1-distinctio27 .
-	# and so on
+	sctap:hasPart sctar:liber1-distinctio27 ;
+	sctap:hasPart sctar:liber1-distinctio28 ;
+	sctap:hasPart sctar:liber1-distinctio29 ;
+	sctap:hasPart sctar:liber1-distinctio30 ;
+	sctap:hasPart sctar:liber1-distinctio31 ;
+	sctap:hasPart sctar:liber1-distinctio32 ;
+	sctap:hasPart sctar:liber1-distinctio33 ;
+	sctap:hasPart sctar:liber1-distinctio34 ;
+	sctap:hasPart sctar:liber1-distinctio35 ;
+	sctap:hasPart sctar:liber1-distinctio36 ;
+	sctap:hasPart sctar:liber1-distinctio37 ;
+	sctap:hasPart sctar:liber1-distinctio38 ;
+	sctap:hasPart sctar:liber1-distinctio39 ;
+	sctap:hasPart sctar:liber1-distinctio40 ;
+	sctap:hasPart sctar:liber1-distinctio41 ;
+	sctap:hasPart sctar:liber1-distinctio42 ;
+	sctap:hasPart sctar:liber1-distinctio43 ;
+	sctap:hasPart sctar:liber1-distinctio44 ;
+	sctap:hasPart sctar:liber1-distinctio45 ;
+	sctap:hasPart sctar:liber1-distinctio46 ;
+	sctap:hasPart sctar:liber1-distinctio47 ;
+	sctap:hasPart sctar:liber1-distinctio48 .
 
 sctar:liber2
 	rdf:type sctar:expressionType ;
@@ -283,7 +303,334 @@ sctar:liber1-distinctio17
 	sctap:previous sctar:liber1-distinctio16 ;
 	sctap:next sctar:liber1-distinctio18 .
 
+sctar:liber1-distinctio18
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 18" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio18" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio17 ;
+	sctap:next sctar:liber1-distinctio19 .
 
+sctar:liber1-distinctio19
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 19" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio19" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio18 ;
+	sctap:next sctar:liber1-distinctio20 .
+
+sctar:liber1-distinctio20
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 20" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio20" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio19 ;
+	sctap:next sctar:liber1-distinctio21 .
+
+sctar:liber1-distinctio21
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 21" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio21" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio20 ;
+	sctap:next sctar:liber1-distinctio22 .
+
+sctar:liber1-distinctio22
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 22" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio22" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio21 ;
+	sctap:next sctar:liber1-distinctio23 .
+
+sctar:liber1-distinctio23
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 23" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio23" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio22 ;
+	sctap:next sctar:liber1-distinctio24 .
+
+sctar:liber1-distinctio24
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 24" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio24" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio23 ;
+	sctap:next sctar:liber1-distinctio25 .
+
+sctar:liber1-distinctio25
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 25" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio25" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio24 ;
+	sctap:next sctar:liber1-distinctio26 .
+
+sctar:liber1-distinctio26
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 26" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio26" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio25 ;
+	sctap:next sctar:liber1-distinctio27 .
+
+sctar:liber1-distinctio27
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 27" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio27" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio26 ;
+	sctap:next sctar:liber1-distinctio28 .
+
+sctar:liber1-distinctio28
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 28" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio28" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio27 ;
+	sctap:next sctar:liber1-distinctio29 .
+
+sctar:liber1-distinctio29
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 29" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio29" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio28 ;
+	sctap:next sctar:liber1-distinctio30 .
+
+sctar:liber1-distinctio29
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 29" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio29" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio28 ;
+	sctap:next sctar:liber1-distinctio30 .
+
+sctar:liber1-distinctio30
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 30" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio30" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio29 ;
+	sctap:next sctar:liber1-distinctio31 .
+
+sctar:liber1-distinctio31
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 31" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio31" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio30 ;
+	sctap:next sctar:liber1-distinctio32 .
+
+sctar:liber1-distinctio32
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 32" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio32" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio31 ;
+	sctap:next sctar:liber1-distinctio33 .
+
+sctar:liber1-distinctio33
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 33" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio33" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio32 ;
+	sctap:next sctar:liber1-distinctio34 .
+
+sctar:liber1-distinctio34
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 34" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio34" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio33 ;
+	sctap:next sctar:liber1-distinctio35 .
+
+sctar:liber1-distinctio34
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 34" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio34" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio33 ;
+	sctap:next sctar:liber1-distinctio35 .
+
+sctar:liber1-distinctio35
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 35" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio35" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio34 ;
+	sctap:next sctar:liber1-distinctio36 .
+
+sctar:liber1-distinctio36
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 36" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio36" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio35 ;
+	sctap:next sctar:liber1-distinctio37 .
+
+sctar:liber1-distinctio37
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 37" ;
+	dc:description "Division of Book 1 usually discussing whether God is everywhere" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio37" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio36 ;
+	sctap:next sctar:liber1-distinctio38 .
+
+sctar:liber1-distinctio38
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 38" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio38" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio37 ;
+	sctap:next sctar:liber1-distinctio39 .
+
+sctar:liber1-distinctio39
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 39" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio39" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio38 ;
+	sctap:next sctar:liber1-distinctio40 .
+
+sctar:liber1-distinctio40
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 40" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio40" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio39 ;
+	sctap:next sctar:liber1-distinctio41 .
+
+sctar:liber1-distinctio41
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 41" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio41" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio40 ;
+	sctap:next sctar:liber1-distinctio42 .
+
+sctar:liber1-distinctio42
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 42" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio42" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio41 ;
+	sctap:next sctar:liber1-distinctio43 .
+
+sctar:liber1-distinctio43
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 43" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio43" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio42 ;
+	sctap:next sctar:liber1-distinctio44 .
+
+sctar:liber1-distinctio44
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 44" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio44" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio43 ;
+	sctap:next sctar:liber1-distinctio45 .
+
+sctar:liber1-distinctio45
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 45" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio45" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio44 ;
+	sctap:next sctar:liber1-distinctio46 .
+
+sctar:liber1-distinctio46
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 46" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio46" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio45 ;
+	sctap:next sctar:liber1-distinctio47 .
+
+sctar:liber1-distinctio47
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 47" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio47" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio46 ;
+	sctap:next sctar:liber1-distinctio48 .
+
+sctar:liber1-distinctio48
+	rdf:type sctar:expressionType ;
+	dc:title "Book 1 Distinctio 48" ;
+	dc:description "Division of Book 1" ;
+	sctap:expressionType sctar:distinctio ;
+	sctap:shortId "liber1-distinctio48" ;
+	dcterms:isPartOf sctar:liber1 ;
+	sctap:previous sctar:liber1-distinctio47 .
 
 sctar:da-liber1
 	rdf:type sctar:expressionType ;
