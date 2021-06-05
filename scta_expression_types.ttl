@@ -956,3 +956,22 @@ sctar:gd-p2c4q1c2-et
 	dc:description "Gratian p2c4q1c2 type" ;
 	sctap:shortId "gd-p2c4q1c2-et" ;
 	sctap:isMemberOf sctar:gd-canon .
+
+sctar:et-000001
+	rdf:type sctar:expressionType ;
+	dc:title "Utrum Deus sit presens extra caelum" ;
+	dc:description "Any question asking about God's presence outside the present world, oftened concerned with God's presence in an imagined or imaginary void beyond the boundaries of this universe" ;
+	sctap:shortId "et-000001" .
+
+sctar:et-000002
+	rdf:type sctar:expressionType ;
+	dc:title "Utrum Deus sit ubique" ;
+	dc:description "Any question aksing about whether God is everywhere" ;
+	sctap:shortId "et-000002" .
+
+sctar:et-000003
+	rdf:type sctar:expressionType ;
+	dc:title "Utrum Deus sit ubique" ;
+	dc:description "Utrum esse ubique sit proprium solius Dei" ;
+	sctap:shortId "et-000003" .
+	
