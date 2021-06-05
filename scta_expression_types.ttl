@@ -966,12 +966,12 @@ sctar:et-000001
 sctar:et-000002
 	rdf:type sctar:expressionType ;
 	dc:title "Utrum Deus sit ubique" ;
-	dc:description "Any question aksing about whether God is everywhere" ;
+	dc:description "Any question asking about whether God is everywhere" ;
 	sctap:shortId "et-000002" .
 
 sctar:et-000003
 	rdf:type sctar:expressionType ;
-	dc:title "Utrum Deus sit ubique" ;
-	dc:description "Utrum esse ubique sit proprium solius Dei" ;
+	dc:title "Utrum esse ubique sit proprium solius Dei" ;
+	dc:description "Any question asking about whether the ability to be everywhere is a capability unique to God alone" ;
 	sctap:shortId "et-000003" .
 	
