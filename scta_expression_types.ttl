@@ -974,4 +974,12 @@ sctar:et-000003
 	dc:title "Utrum esse ubique sit proprium solius Dei" ;
 	dc:description "Any question asking about whether the ability to be everywhere is a capability unique to God alone" ;
 	sctap:shortId "et-000003" .
-	
+
+sctar:et-000004
+	rdf:type sctar:expressionType ;
+	dc:title "Magnetica" ;
+	dc:description "Any text division classified as a treatise on the the theme of magnets (magnetica)" ;
+	sctap:shortId "et-000004" .
+
+# temp manual assertion 
+sctar:M8ag89 sctap:expressionType sctar:et-000004 .
