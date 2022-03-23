@@ -983,3 +983,4 @@ sctar:et-000004
 
 # temp manual assertion 
 sctar:M8ag89 sctap:expressionType sctar:et-000004 .
+sctar:p9i7y5 sctap:expressionType sctar:et-000004 .
