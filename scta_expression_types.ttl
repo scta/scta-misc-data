@@ -1950,12 +1950,521 @@ sctar:decretales-liber1
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber1" .
 
+sctar:decretales-l1t1
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 1" ;
+  dc:description "Decretales Book 1 Titulus 1" ;
+  sctap:shortId "decretales-l1t1" .
+
+
+sctar:decretales-l1t2
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 2" ;
+  dc:description "Decretales Book 1 Titulus 2" ;
+  sctap:shortId "decretales-l1t2" .
+
+
+sctar:decretales-l1t3
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 3" ;
+  dc:description "Decretales Book 1 Titulus 3" ;
+  sctap:shortId "decretales-l1t3" .
+
+
+sctar:decretales-l1t4
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 4" ;
+  dc:description "Decretales Book 1 Titulus 4" ;
+  sctap:shortId "decretales-l1t4" .
+
+
+sctar:decretales-l1t5
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 5" ;
+  dc:description "Decretales Book 1 Titulus 5" ;
+  sctap:shortId "decretales-l1t5" .
+
+
+sctar:decretales-l1t6
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 6" ;
+  dc:description "Decretales Book 1 Titulus 6" ;
+  sctap:shortId "decretales-l1t6" .
+
+
+sctar:decretales-l1t7
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 7" ;
+  dc:description "Decretales Book 1 Titulus 7" ;
+  sctap:shortId "decretales-l1t7" .
+
+
+sctar:decretales-l1t8
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 8" ;
+  dc:description "Decretales Book 1 Titulus 8" ;
+  sctap:shortId "decretales-l1t8" .
+
+
+sctar:decretales-l1t9
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 9" ;
+  dc:description "Decretales Book 1 Titulus 9" ;
+  sctap:shortId "decretales-l1t9" .
+
+
+sctar:decretales-l1t10
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 10" ;
+  dc:description "Decretales Book 1 Titulus 10" ;
+  sctap:shortId "decretales-l1t10" .
+
+
+sctar:decretales-l1t11
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 11" ;
+  dc:description "Decretales Book 1 Titulus 11" ;
+  sctap:shortId "decretales-l1t11" .
+
+
+sctar:decretales-l1t12
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 12" ;
+  dc:description "Decretales Book 1 Titulus 12" ;
+  sctap:shortId "decretales-l1t12" .
+
+
+sctar:decretales-l1t13
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 13" ;
+  dc:description "Decretales Book 1 Titulus 13" ;
+  sctap:shortId "decretales-l1t13" .
+
+
+sctar:decretales-l1t14
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 14" ;
+  dc:description "Decretales Book 1 Titulus 14" ;
+  sctap:shortId "decretales-l1t14" .
+
+
+sctar:decretales-l1t15
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 15" ;
+  dc:description "Decretales Book 1 Titulus 15" ;
+  sctap:shortId "decretales-l1t15" .
+
+
+sctar:decretales-l1t16
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 16" ;
+  dc:description "Decretales Book 1 Titulus 16" ;
+  sctap:shortId "decretales-l1t16" .
+
+
+sctar:decretales-l1t17
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 17" ;
+  dc:description "Decretales Book 1 Titulus 17" ;
+  sctap:shortId "decretales-l1t17" .
+
+
+sctar:decretales-l1t18
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 18" ;
+  dc:description "Decretales Book 1 Titulus 18" ;
+  sctap:shortId "decretales-l1t18" .
+
+
+sctar:decretales-l1t19
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 19" ;
+  dc:description "Decretales Book 1 Titulus 19" ;
+  sctap:shortId "decretales-l1t19" .
+
+
+sctar:decretales-l1t20
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 20" ;
+  dc:description "Decretales Book 1 Titulus 20" ;
+  sctap:shortId "decretales-l1t20" .
+
+
+sctar:decretales-l1t21
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 21" ;
+  dc:description "Decretales Book 1 Titulus 21" ;
+  sctap:shortId "decretales-l1t21" .
+
+
+sctar:decretales-l1t22
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 22" ;
+  dc:description "Decretales Book 1 Titulus 22" ;
+  sctap:shortId "decretales-l1t22" .
+
+
+sctar:decretales-l1t23
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 23" ;
+  dc:description "Decretales Book 1 Titulus 23" ;
+  sctap:shortId "decretales-l1t23" .
+
+
+sctar:decretales-l1t24
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 24" ;
+  dc:description "Decretales Book 1 Titulus 24" ;
+  sctap:shortId "decretales-l1t24" .
+
+
+sctar:decretales-l1t25
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 25" ;
+  dc:description "Decretales Book 1 Titulus 25" ;
+  sctap:shortId "decretales-l1t25" .
+
+
+sctar:decretales-l1t26
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 26" ;
+  dc:description "Decretales Book 1 Titulus 26" ;
+  sctap:shortId "decretales-l1t26" .
+
+
+sctar:decretales-l1t27
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 27" ;
+  dc:description "Decretales Book 1 Titulus 27" ;
+  sctap:shortId "decretales-l1t27" .
+
+
+sctar:decretales-l1t28
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 28" ;
+  dc:description "Decretales Book 1 Titulus 28" ;
+  sctap:shortId "decretales-l1t28" .
+
+
+sctar:decretales-l1t29
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 29" ;
+  dc:description "Decretales Book 1 Titulus 29" ;
+  sctap:shortId "decretales-l1t29" .
+
+
+sctar:decretales-l1t30
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 30" ;
+  dc:description "Decretales Book 1 Titulus 30" ;
+  sctap:shortId "decretales-l1t30" .
+
+
+sctar:decretales-l1t31
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 31" ;
+  dc:description "Decretales Book 1 Titulus 31" ;
+  sctap:shortId "decretales-l1t31" .
+
+
+sctar:decretales-l1t32
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 32" ;
+  dc:description "Decretales Book 1 Titulus 32" ;
+  sctap:shortId "decretales-l1t32" .
+
+
+sctar:decretales-l1t33
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 33" ;
+  dc:description "Decretales Book 1 Titulus 33" ;
+  sctap:shortId "decretales-l1t33" .
+
+
+sctar:decretales-l1t34
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 34" ;
+  dc:description "Decretales Book 1 Titulus 34" ;
+  sctap:shortId "decretales-l1t34" .
+
+
+sctar:decretales-l1t35
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 35" ;
+  dc:description "Decretales Book 1 Titulus 35" ;
+  sctap:shortId "decretales-l1t35" .
+
+
+sctar:decretales-l1t36
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 36" ;
+  dc:description "Decretales Book 1 Titulus 36" ;
+  sctap:shortId "decretales-l1t36" .
+
+
+sctar:decretales-l1t37
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 37" ;
+  dc:description "Decretales Book 1 Titulus 37" ;
+  sctap:shortId "decretales-l1t37" .
+
+
+sctar:decretales-l1t38
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 38" ;
+  dc:description "Decretales Book 1 Titulus 38" ;
+  sctap:shortId "decretales-l1t38" .
+
+
+sctar:decretales-l1t39
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 39" ;
+  dc:description "Decretales Book 1 Titulus 39" ;
+  sctap:shortId "decretales-l1t39" .
+
+
+sctar:decretales-l1t40
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 40" ;
+  dc:description "Decretales Book 1 Titulus 40" ;
+  sctap:shortId "decretales-l1t40" .
+
+
+sctar:decretales-l1t41
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 41" ;
+  dc:description "Decretales Book 1 Titulus 41" ;
+  sctap:shortId "decretales-l1t41" .
+
+
+sctar:decretales-l1t42
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 42" ;
+  dc:description "Decretales Book 1 Titulus 42" ;
+  sctap:shortId "decretales-l1t42" .
+
+
+sctar:decretales-l1t43
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 1 Titulus 43" ;
+  dc:description "Decretales Book 1 Titulus 43" ;
+  sctap:shortId "decretales-l1t43" .
+
 sctar:decretales-liber2
 	rdf:type sctar:expressionType ;
 	dc:title "Decretales Book 2 Division" ;
 	dc:description "Book 2 division for Decretales and Commentaries on the Decretales" ;
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber2" .
+
+sctar:decretales-l2t1
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 1" ;
+  dc:description "Decretales Book 2 Titulus 1" ;
+  sctap:shortId "decretales-l2t1" .
+
+
+sctar:decretales-l2t2
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 2" ;
+  dc:description "Decretales Book 2 Titulus 2" ;
+  sctap:shortId "decretales-l2t2" .
+
+
+sctar:decretales-l2t3
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 3" ;
+  dc:description "Decretales Book 2 Titulus 3" ;
+  sctap:shortId "decretales-l2t3" .
+
+
+sctar:decretales-l2t4
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 4" ;
+  dc:description "Decretales Book 2 Titulus 4" ;
+  sctap:shortId "decretales-l2t4" .
+
+
+sctar:decretales-l2t5
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 5" ;
+  dc:description "Decretales Book 2 Titulus 5" ;
+  sctap:shortId "decretales-l2t5" .
+
+
+sctar:decretales-l2t6
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 6" ;
+  dc:description "Decretales Book 2 Titulus 6" ;
+  sctap:shortId "decretales-l2t6" .
+
+
+sctar:decretales-l2t7
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 7" ;
+  dc:description "Decretales Book 2 Titulus 7" ;
+  sctap:shortId "decretales-l2t7" .
+
+
+sctar:decretales-l2t8
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 8" ;
+  dc:description "Decretales Book 2 Titulus 8" ;
+  sctap:shortId "decretales-l2t8" .
+
+
+sctar:decretales-l2t9
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 9" ;
+  dc:description "Decretales Book 2 Titulus 9" ;
+  sctap:shortId "decretales-l2t9" .
+
+
+sctar:decretales-l2t10
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 10" ;
+  dc:description "Decretales Book 2 Titulus 10" ;
+  sctap:shortId "decretales-l2t10" .
+
+
+sctar:decretales-l2t11
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 11" ;
+  dc:description "Decretales Book 2 Titulus 11" ;
+  sctap:shortId "decretales-l2t11" .
+
+
+sctar:decretales-l2t12
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 12" ;
+  dc:description "Decretales Book 2 Titulus 12" ;
+  sctap:shortId "decretales-l2t12" .
+
+
+sctar:decretales-l2t13
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 13" ;
+  dc:description "Decretales Book 2 Titulus 13" ;
+  sctap:shortId "decretales-l2t13" .
+
+
+sctar:decretales-l2t14
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 14" ;
+  dc:description "Decretales Book 2 Titulus 14" ;
+  sctap:shortId "decretales-l2t14" .
+
+
+sctar:decretales-l2t15
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 15" ;
+  dc:description "Decretales Book 2 Titulus 15" ;
+  sctap:shortId "decretales-l2t15" .
+
+
+sctar:decretales-l2t16
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 16" ;
+  dc:description "Decretales Book 2 Titulus 16" ;
+  sctap:shortId "decretales-l2t16" .
+
+
+sctar:decretales-l2t17
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 17" ;
+  dc:description "Decretales Book 2 Titulus 17" ;
+  sctap:shortId "decretales-l2t17" .
+
+
+sctar:decretales-l2t18
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 18" ;
+  dc:description "Decretales Book 2 Titulus 18" ;
+  sctap:shortId "decretales-l2t18" .
+
+
+sctar:decretales-l2t19
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 19" ;
+  dc:description "Decretales Book 2 Titulus 19" ;
+  sctap:shortId "decretales-l2t19" .
+
+
+sctar:decretales-l2t20
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 20" ;
+  dc:description "Decretales Book 2 Titulus 20" ;
+  sctap:shortId "decretales-l2t20" .
+
+
+sctar:decretales-l2t21
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 21" ;
+  dc:description "Decretales Book 2 Titulus 21" ;
+  sctap:shortId "decretales-l2t21" .
+
+
+sctar:decretales-l2t22
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 22" ;
+  dc:description "Decretales Book 2 Titulus 22" ;
+  sctap:shortId "decretales-l2t22" .
+
+
+sctar:decretales-l2t23
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 23" ;
+  dc:description "Decretales Book 2 Titulus 23" ;
+  sctap:shortId "decretales-l2t23" .
+
+
+sctar:decretales-l2t24
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 24" ;
+  dc:description "Decretales Book 2 Titulus 24" ;
+  sctap:shortId "decretales-l2t24" .
+
+
+sctar:decretales-l2t25
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 25" ;
+  dc:description "Decretales Book 2 Titulus 25" ;
+  sctap:shortId "decretales-l2t25" .
+
+
+sctar:decretales-l2t26
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 26" ;
+  dc:description "Decretales Book 2 Titulus 26" ;
+  sctap:shortId "decretales-l2t26" .
+
+
+sctar:decretales-l2t27
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 27" ;
+  dc:description "Decretales Book 2 Titulus 27" ;
+  sctap:shortId "decretales-l2t27" .
+
+
+sctar:decretales-l2t28
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 28" ;
+  dc:description "Decretales Book 2 Titulus 28" ;
+  sctap:shortId "decretales-l2t28" .
+
+
+sctar:decretales-l2t29
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 29" ;
+  dc:description "Decretales Book 2 Titulus 29" ;
+  sctap:shortId "decretales-l2t29" .
+
+
+sctar:decretales-l2t30
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 2 Titulus 30" ;
+  dc:description "Decretales Book 2 Titulus 30" ;
+  sctap:shortId "decretales-l2t30" .
 
 sctar:decretales-liber3
 	rdf:type sctar:expressionType ;
@@ -1964,12 +2473,507 @@ sctar:decretales-liber3
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber3" .
 
+sctar:decretales-l3t1
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 1" ;
+  dc:description "Decretales Book 3 Titulus 1" ;
+  sctap:shortId "decretales-l3t1" .
+
+
+sctar:decretales-l3t2
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 2" ;
+  dc:description "Decretales Book 3 Titulus 2" ;
+  sctap:shortId "decretales-l3t2" .
+
+
+sctar:decretales-l3t3
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 3" ;
+  dc:description "Decretales Book 3 Titulus 3" ;
+  sctap:shortId "decretales-l3t3" .
+
+
+sctar:decretales-l3t4
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 4" ;
+  dc:description "Decretales Book 3 Titulus 4" ;
+  sctap:shortId "decretales-l3t4" .
+
+
+sctar:decretales-l3t5
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 5" ;
+  dc:description "Decretales Book 3 Titulus 5" ;
+  sctap:shortId "decretales-l3t5" .
+
+
+sctar:decretales-l3t6
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 6" ;
+  dc:description "Decretales Book 3 Titulus 6" ;
+  sctap:shortId "decretales-l3t6" .
+
+
+sctar:decretales-l3t7
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 7" ;
+  dc:description "Decretales Book 3 Titulus 7" ;
+  sctap:shortId "decretales-l3t7" .
+
+
+sctar:decretales-l3t8
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 8" ;
+  dc:description "Decretales Book 3 Titulus 8" ;
+  sctap:shortId "decretales-l3t8" .
+
+
+sctar:decretales-l3t9
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 9" ;
+  dc:description "Decretales Book 3 Titulus 9" ;
+  sctap:shortId "decretales-l3t9" .
+
+
+sctar:decretales-l3t10
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 10" ;
+  dc:description "Decretales Book 3 Titulus 10" ;
+  sctap:shortId "decretales-l3t10" .
+
+
+sctar:decretales-l3t11
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 11" ;
+  dc:description "Decretales Book 3 Titulus 11" ;
+  sctap:shortId "decretales-l3t11" .
+
+
+sctar:decretales-l3t12
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 12" ;
+  dc:description "Decretales Book 3 Titulus 12" ;
+  sctap:shortId "decretales-l3t12" .
+
+
+sctar:decretales-l3t13
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 13" ;
+  dc:description "Decretales Book 3 Titulus 13" ;
+  sctap:shortId "decretales-l3t13" .
+
+
+sctar:decretales-l3t14
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 14" ;
+  dc:description "Decretales Book 3 Titulus 14" ;
+  sctap:shortId "decretales-l3t14" .
+
+
+sctar:decretales-l3t15
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 15" ;
+  dc:description "Decretales Book 3 Titulus 15" ;
+  sctap:shortId "decretales-l3t15" .
+
+
+sctar:decretales-l3t16
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 16" ;
+  dc:description "Decretales Book 3 Titulus 16" ;
+  sctap:shortId "decretales-l3t16" .
+
+
+sctar:decretales-l3t17
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 17" ;
+  dc:description "Decretales Book 3 Titulus 17" ;
+  sctap:shortId "decretales-l3t17" .
+
+
+sctar:decretales-l3t18
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 18" ;
+  dc:description "Decretales Book 3 Titulus 18" ;
+  sctap:shortId "decretales-l3t18" .
+
+
+sctar:decretales-l3t19
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 19" ;
+  dc:description "Decretales Book 3 Titulus 19" ;
+  sctap:shortId "decretales-l3t19" .
+
+
+sctar:decretales-l3t20
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 20" ;
+  dc:description "Decretales Book 3 Titulus 20" ;
+  sctap:shortId "decretales-l3t20" .
+
+
+sctar:decretales-l3t21
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 21" ;
+  dc:description "Decretales Book 3 Titulus 21" ;
+  sctap:shortId "decretales-l3t21" .
+
+
+sctar:decretales-l3t22
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 22" ;
+  dc:description "Decretales Book 3 Titulus 22" ;
+  sctap:shortId "decretales-l3t22" .
+
+
+sctar:decretales-l3t23
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 23" ;
+  dc:description "Decretales Book 3 Titulus 23" ;
+  sctap:shortId "decretales-l3t23" .
+
+
+sctar:decretales-l3t24
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 24" ;
+  dc:description "Decretales Book 3 Titulus 24" ;
+  sctap:shortId "decretales-l3t24" .
+
+
+sctar:decretales-l3t25
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 25" ;
+  dc:description "Decretales Book 3 Titulus 25" ;
+  sctap:shortId "decretales-l3t25" .
+
+
+sctar:decretales-l3t26
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 26" ;
+  dc:description "Decretales Book 3 Titulus 26" ;
+  sctap:shortId "decretales-l3t26" .
+
+
+sctar:decretales-l3t27
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 27" ;
+  dc:description "Decretales Book 3 Titulus 27" ;
+  sctap:shortId "decretales-l3t27" .
+
+
+sctar:decretales-l3t28
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 28" ;
+  dc:description "Decretales Book 3 Titulus 28" ;
+  sctap:shortId "decretales-l3t28" .
+
+
+sctar:decretales-l3t29
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 29" ;
+  dc:description "Decretales Book 3 Titulus 29" ;
+  sctap:shortId "decretales-l3t29" .
+
+
+sctar:decretales-l3t30
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 30" ;
+  dc:description "Decretales Book 3 Titulus 30" ;
+  sctap:shortId "decretales-l3t30" .
+
+
+sctar:decretales-l3t31
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 31" ;
+  dc:description "Decretales Book 3 Titulus 31" ;
+  sctap:shortId "decretales-l3t31" .
+
+
+sctar:decretales-l3t32
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 32" ;
+  dc:description "Decretales Book 3 Titulus 32" ;
+  sctap:shortId "decretales-l3t32" .
+
+
+sctar:decretales-l3t33
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 33" ;
+  dc:description "Decretales Book 3 Titulus 33" ;
+  sctap:shortId "decretales-l3t33" .
+
+
+sctar:decretales-l3t34
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 34" ;
+  dc:description "Decretales Book 3 Titulus 34" ;
+  sctap:shortId "decretales-l3t34" .
+
+
+sctar:decretales-l3t35
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 35" ;
+  dc:description "Decretales Book 3 Titulus 35" ;
+  sctap:shortId "decretales-l3t35" .
+
+
+sctar:decretales-l3t36
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 36" ;
+  dc:description "Decretales Book 3 Titulus 36" ;
+  sctap:shortId "decretales-l3t36" .
+
+
+sctar:decretales-l3t37
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 37" ;
+  dc:description "Decretales Book 3 Titulus 37" ;
+  sctap:shortId "decretales-l3t37" .
+
+
+sctar:decretales-l3t38
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 38" ;
+  dc:description "Decretales Book 3 Titulus 38" ;
+  sctap:shortId "decretales-l3t38" .
+
+
+sctar:decretales-l3t39
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 39" ;
+  dc:description "Decretales Book 3 Titulus 39" ;
+  sctap:shortId "decretales-l3t39" .
+
+
+sctar:decretales-l3t40
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 40" ;
+  dc:description "Decretales Book 3 Titulus 40" ;
+  sctap:shortId "decretales-l3t40" .
+
+
+sctar:decretales-l3t41
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 41" ;
+  dc:description "Decretales Book 3 Titulus 41" ;
+  sctap:shortId "decretales-l3t41" .
+
+
+sctar:decretales-l3t42
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 42" ;
+  dc:description "Decretales Book 3 Titulus 42" ;
+  sctap:shortId "decretales-l3t42" .
+
+
+sctar:decretales-l3t43
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 43" ;
+  dc:description "Decretales Book 3 Titulus 43" ;
+  sctap:shortId "decretales-l3t43" .
+
+
+sctar:decretales-l3t44
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 44" ;
+  dc:description "Decretales Book 3 Titulus 44" ;
+  sctap:shortId "decretales-l3t44" .
+
+
+sctar:decretales-l3t45
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 45" ;
+  dc:description "Decretales Book 3 Titulus 45" ;
+  sctap:shortId "decretales-l3t45" .
+
+
+sctar:decretales-l3t46
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 46" ;
+  dc:description "Decretales Book 3 Titulus 46" ;
+  sctap:shortId "decretales-l3t46" .
+
+
+sctar:decretales-l3t47
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 47" ;
+  dc:description "Decretales Book 3 Titulus 47" ;
+  sctap:shortId "decretales-l3t47" .
+
+
+sctar:decretales-l3t48
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 48" ;
+  dc:description "Decretales Book 3 Titulus 48" ;
+  sctap:shortId "decretales-l3t48" .
+
+
+sctar:decretales-l3t49
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 49" ;
+  dc:description "Decretales Book 3 Titulus 49" ;
+  sctap:shortId "decretales-l3t49" .
+
+
+sctar:decretales-l3t50
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 3 Titulus 50" ;
+  dc:description "Decretales Book 3 Titulus 50" ;
+  sctap:shortId "decretales-l3t50" .
+
 sctar:decretales-liber4
 	rdf:type sctar:expressionType ;
 	dc:title "Decretales Book 4 Division" ;
 	dc:description "Book 4 division for Decretales and Commentaries on the Decretales" ;
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber4" .
+
+sctar:decretales-l4t1
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 1" ;
+  dc:description "Decretales Book 4 Titulus 1" ;
+  sctap:shortId "decretales-l4t1" .
+
+
+sctar:decretales-l4t2
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 2" ;
+  dc:description "Decretales Book 4 Titulus 2" ;
+  sctap:shortId "decretales-l4t2" .
+
+
+sctar:decretales-l4t3
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 3" ;
+  dc:description "Decretales Book 4 Titulus 3" ;
+  sctap:shortId "decretales-l4t3" .
+
+
+sctar:decretales-l4t4
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 4" ;
+  dc:description "Decretales Book 4 Titulus 4" ;
+  sctap:shortId "decretales-l4t4" .
+
+
+sctar:decretales-l4t5
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 5" ;
+  dc:description "Decretales Book 4 Titulus 5" ;
+  sctap:shortId "decretales-l4t5" .
+
+
+sctar:decretales-l4t6
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 6" ;
+  dc:description "Decretales Book 4 Titulus 6" ;
+  sctap:shortId "decretales-l4t6" .
+
+
+sctar:decretales-l4t7
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 7" ;
+  dc:description "Decretales Book 4 Titulus 7" ;
+  sctap:shortId "decretales-l4t7" .
+
+
+sctar:decretales-l4t8
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 8" ;
+  dc:description "Decretales Book 4 Titulus 8" ;
+  sctap:shortId "decretales-l4t8" .
+
+
+sctar:decretales-l4t9
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 9" ;
+  dc:description "Decretales Book 4 Titulus 9" ;
+  sctap:shortId "decretales-l4t9" .
+
+
+sctar:decretales-l4t10
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 10" ;
+  dc:description "Decretales Book 4 Titulus 10" ;
+  sctap:shortId "decretales-l4t10" .
+
+
+sctar:decretales-l4t11
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 11" ;
+  dc:description "Decretales Book 4 Titulus 11" ;
+  sctap:shortId "decretales-l4t11" .
+
+
+sctar:decretales-l4t12
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 12" ;
+  dc:description "Decretales Book 4 Titulus 12" ;
+  sctap:shortId "decretales-l4t12" .
+
+
+sctar:decretales-l4t13
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 13" ;
+  dc:description "Decretales Book 4 Titulus 13" ;
+  sctap:shortId "decretales-l4t13" .
+
+
+sctar:decretales-l4t14
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 14" ;
+  dc:description "Decretales Book 4 Titulus 14" ;
+  sctap:shortId "decretales-l4t14" .
+
+
+sctar:decretales-l4t15
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 15" ;
+  dc:description "Decretales Book 4 Titulus 15" ;
+  sctap:shortId "decretales-l4t15" .
+
+
+sctar:decretales-l4t16
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 16" ;
+  dc:description "Decretales Book 4 Titulus 16" ;
+  sctap:shortId "decretales-l4t16" .
+
+
+sctar:decretales-l4t17
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 17" ;
+  dc:description "Decretales Book 4 Titulus 17" ;
+  sctap:shortId "decretales-l4t17" .
+
+
+sctar:decretales-l4t18
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 18" ;
+  dc:description "Decretales Book 4 Titulus 18" ;
+  sctap:shortId "decretales-l4t18" .
+
+
+sctar:decretales-l4t19
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 19" ;
+  dc:description "Decretales Book 4 Titulus 19" ;
+  sctap:shortId "decretales-l4t19" .
+
+
+sctar:decretales-l4t20
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 20" ;
+  dc:description "Decretales Book 4 Titulus 20" ;
+  sctap:shortId "decretales-l4t20" .
+
+
+sctar:decretales-l4t21
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 4 Titulus 21" ;
+  dc:description "Decretales Book 4 Titulus 21" ;
+  sctap:shortId "decretales-l4t21" .
 
 sctar:decretales-liber4
 	rdf:type sctar:expressionType ;
@@ -1984,6 +2988,292 @@ sctar:decretales-liber5
 	dc:description "Book 5 division for Decretales and Commentaries on the Decretales" ;
 	sctap:expressionType sctar:liber ;
 	sctap:shortId "decretales-liber5" .
+
+sctar:decretales-l5t1
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 1" ;
+  dc:description "Decretales Book 5 Titulus 1" ;
+  sctap:shortId "decretales-l5t1" .
+
+
+sctar:decretales-l5t2
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 2" ;
+  dc:description "Decretales Book 5 Titulus 2" ;
+  sctap:shortId "decretales-l5t2" .
+
+
+sctar:decretales-l5t3
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 3" ;
+  dc:description "Decretales Book 5 Titulus 3" ;
+  sctap:shortId "decretales-l5t3" .
+
+
+sctar:decretales-l5t4
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 4" ;
+  dc:description "Decretales Book 5 Titulus 4" ;
+  sctap:shortId "decretales-l5t4" .
+
+
+sctar:decretales-l5t5
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 5" ;
+  dc:description "Decretales Book 5 Titulus 5" ;
+  sctap:shortId "decretales-l5t5" .
+
+
+sctar:decretales-l5t6
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 6" ;
+  dc:description "Decretales Book 5 Titulus 6" ;
+  sctap:shortId "decretales-l5t6" .
+
+
+sctar:decretales-l5t7
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 7" ;
+  dc:description "Decretales Book 5 Titulus 7" ;
+  sctap:shortId "decretales-l5t7" .
+
+
+sctar:decretales-l5t8
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 8" ;
+  dc:description "Decretales Book 5 Titulus 8" ;
+  sctap:shortId "decretales-l5t8" .
+
+
+sctar:decretales-l5t9
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 9" ;
+  dc:description "Decretales Book 5 Titulus 9" ;
+  sctap:shortId "decretales-l5t9" .
+
+
+sctar:decretales-l5t10
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 10" ;
+  dc:description "Decretales Book 5 Titulus 10" ;
+  sctap:shortId "decretales-l5t10" .
+
+
+sctar:decretales-l5t11
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 11" ;
+  dc:description "Decretales Book 5 Titulus 11" ;
+  sctap:shortId "decretales-l5t11" .
+
+
+sctar:decretales-l5t12
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 12" ;
+  dc:description "Decretales Book 5 Titulus 12" ;
+  sctap:shortId "decretales-l5t12" .
+
+
+sctar:decretales-l5t13
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 13" ;
+  dc:description "Decretales Book 5 Titulus 13" ;
+  sctap:shortId "decretales-l5t13" .
+
+
+sctar:decretales-l5t14
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 14" ;
+  dc:description "Decretales Book 5 Titulus 14" ;
+  sctap:shortId "decretales-l5t14" .
+
+
+sctar:decretales-l5t15
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 15" ;
+  dc:description "Decretales Book 5 Titulus 15" ;
+  sctap:shortId "decretales-l5t15" .
+
+
+sctar:decretales-l5t16
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 16" ;
+  dc:description "Decretales Book 5 Titulus 16" ;
+  sctap:shortId "decretales-l5t16" .
+
+
+sctar:decretales-l5t17
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 17" ;
+  dc:description "Decretales Book 5 Titulus 17" ;
+  sctap:shortId "decretales-l5t17" .
+
+
+sctar:decretales-l5t18
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 18" ;
+  dc:description "Decretales Book 5 Titulus 18" ;
+  sctap:shortId "decretales-l5t18" .
+
+
+sctar:decretales-l5t19
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 19" ;
+  dc:description "Decretales Book 5 Titulus 19" ;
+  sctap:shortId "decretales-l5t19" .
+
+
+sctar:decretales-l5t20
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 20" ;
+  dc:description "Decretales Book 5 Titulus 20" ;
+  sctap:shortId "decretales-l5t20" .
+
+
+sctar:decretales-l5t21
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 21" ;
+  dc:description "Decretales Book 5 Titulus 21" ;
+  sctap:shortId "decretales-l5t21" .
+
+
+sctar:decretales-l5t22
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 22" ;
+  dc:description "Decretales Book 5 Titulus 22" ;
+  sctap:shortId "decretales-l5t22" .
+
+
+sctar:decretales-l5t23
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 23" ;
+  dc:description "Decretales Book 5 Titulus 23" ;
+  sctap:shortId "decretales-l5t23" .
+
+
+sctar:decretales-l5t24
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 24" ;
+  dc:description "Decretales Book 5 Titulus 24" ;
+  sctap:shortId "decretales-l5t24" .
+
+
+sctar:decretales-l5t25
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 25" ;
+  dc:description "Decretales Book 5 Titulus 25" ;
+  sctap:shortId "decretales-l5t25" .
+
+
+sctar:decretales-l5t26
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 26" ;
+  dc:description "Decretales Book 5 Titulus 26" ;
+  sctap:shortId "decretales-l5t26" .
+
+
+sctar:decretales-l5t27
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 27" ;
+  dc:description "Decretales Book 5 Titulus 27" ;
+  sctap:shortId "decretales-l5t27" .
+
+
+sctar:decretales-l5t28
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 28" ;
+  dc:description "Decretales Book 5 Titulus 28" ;
+  sctap:shortId "decretales-l5t28" .
+
+
+sctar:decretales-l5t29
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 29" ;
+  dc:description "Decretales Book 5 Titulus 29" ;
+  sctap:shortId "decretales-l5t29" .
+
+
+sctar:decretales-l5t30
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 30" ;
+  dc:description "Decretales Book 5 Titulus 30" ;
+  sctap:shortId "decretales-l5t30" .
+
+
+sctar:decretales-l5t31
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 31" ;
+  dc:description "Decretales Book 5 Titulus 31" ;
+  sctap:shortId "decretales-l5t31" .
+
+
+sctar:decretales-l5t32
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 32" ;
+  dc:description "Decretales Book 5 Titulus 32" ;
+  sctap:shortId "decretales-l5t32" .
+
+
+sctar:decretales-l5t33
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 33" ;
+  dc:description "Decretales Book 5 Titulus 33" ;
+  sctap:shortId "decretales-l5t33" .
+
+
+sctar:decretales-l5t34
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 34" ;
+  dc:description "Decretales Book 5 Titulus 34" ;
+  sctap:shortId "decretales-l5t34" .
+
+
+sctar:decretales-l5t35
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 35" ;
+  dc:description "Decretales Book 5 Titulus 35" ;
+  sctap:shortId "decretales-l5t35" .
+
+
+sctar:decretales-l5t36
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 36" ;
+  dc:description "Decretales Book 5 Titulus 36" ;
+  sctap:shortId "decretales-l5t36" .
+
+
+sctar:decretales-l5t37
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 37" ;
+  dc:description "Decretales Book 5 Titulus 37" ;
+  sctap:shortId "decretales-l5t37" .
+
+
+sctar:decretales-l5t38
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 38" ;
+  dc:description "Decretales Book 5 Titulus 38" ;
+  sctap:shortId "decretales-l5t38" .
+
+
+sctar:decretales-l5t39
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 39" ;
+  dc:description "Decretales Book 5 Titulus 39" ;
+  sctap:shortId "decretales-l5t39" .
+
+
+sctar:decretales-l5t40
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 40" ;
+  dc:description "Decretales Book 5 Titulus 40" ;
+  sctap:shortId "decretales-l5t40" .
+
+
+sctar:decretales-l5t41
+  rdf:type sctar:expressionType ;
+  dc:title "Decretales Book 5 Titulus 41" ;
+  dc:description "Decretales Book 5 Titulus 41" ;
+  sctap:shortId "decretales-l5t41" .
 
 sctar:lit-temporale
   rdf:type sctar:expressionType ;
