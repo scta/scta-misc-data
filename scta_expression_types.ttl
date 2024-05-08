@@ -3275,6 +3275,567 @@ sctar:decretales-l5t41
   dc:description "Decretales Book 5 Titulus 41" ;
   sctap:shortId "decretales-l5t41" .
 
+sctar:et-sextus-liber1
+  rdf:type sctar:expressionType ;
+  dc:title "Sextus Book 1" ;
+  sctap:shortId "et-sextus-liber1" .
+
+sctar:et-sextus-l1t1
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 1" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 1" ;
+  sctap:shortId "et-sextus-l1t1" .
+
+
+sctar:et-sextus-l1t2
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 2" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 2" ;
+  sctap:shortId "et-sextus-l1t2" .
+
+
+sctar:et-sextus-l1t3
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 3" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 3" ;
+  sctap:shortId "et-sextus-l1t3" .
+
+
+sctar:et-sextus-l1t4
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 4" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 4" ;
+  sctap:shortId "et-sextus-l1t4" .
+
+
+sctar:et-sextus-l1t5
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 5" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 5" ;
+  sctap:shortId "et-sextus-l1t5" .
+
+
+sctar:et-sextus-l1t6
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 6" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 6" ;
+  sctap:shortId "et-sextus-l1t6" .
+
+
+sctar:et-sextus-l1t7
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 7" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 7" ;
+  sctap:shortId "et-sextus-l1t7" .
+
+
+sctar:et-sextus-l1t8
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 8" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 8" ;
+  sctap:shortId "et-sextus-l1t8" .
+
+
+sctar:et-sextus-l1t9
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 9" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 9" ;
+  sctap:shortId "et-sextus-l1t9" .
+
+
+sctar:et-sextus-l1t10
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 10" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 10" ;
+  sctap:shortId "et-sextus-l1t10" .
+
+
+sctar:et-sextus-l1t11
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 11" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 11" ;
+  sctap:shortId "et-sextus-l1t11" .
+
+
+sctar:et-sextus-l1t12
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 12" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 12" ;
+  sctap:shortId "et-sextus-l1t12" .
+
+
+sctar:et-sextus-l1t13
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 13" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 13" ;
+  sctap:shortId "et-sextus-l1t13" .
+
+
+sctar:et-sextus-l1t14
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 14" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 14" ;
+  sctap:shortId "et-sextus-l1t14" .
+
+
+sctar:et-sextus-l1t15
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 15" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 15" ;
+  sctap:shortId "et-sextus-l1t15" .
+
+
+sctar:et-sextus-l1t16
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 16" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 16" ;
+  sctap:shortId "et-sextus-l1t16" .
+
+
+sctar:et-sextus-l1t17
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 17" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 17" ;
+  sctap:shortId "et-sextus-l1t17" .
+
+
+sctar:et-sextus-l1t18
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 18" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 18" ;
+  sctap:shortId "et-sextus-l1t18" .
+
+
+sctar:et-sextus-l1t19
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 19" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 19" ;
+  sctap:shortId "et-sextus-l1t19" .
+
+
+sctar:et-sextus-l1t20
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 20" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 20" ;
+  sctap:shortId "et-sextus-l1t20" .
+
+
+sctar:et-sextus-l1t21
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 21" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 21" ;
+  sctap:shortId "et-sextus-l1t21" .
+
+
+sctar:et-sextus-l1t22
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 1, Titulus 22" ;
+  dc:description "Liber Sextus, Liber 1, Titulus 22" ;
+  sctap:shortId "et-sextus-l1t22" .
+
+sctar:et-sextus-liber2
+  rdf:type sctar:expressionType ;
+  dc:title "Sextus Book 2" ;
+  sctap:shortId "et-sextus-liber2" .
+
+sctar:et-sextus-l2t1
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 1" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 1" ;
+  sctap:shortId "et-sextus-l2t1" .
+
+
+sctar:et-sextus-l2t2
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 2" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 2" ;
+  sctap:shortId "et-sextus-l2t2" .
+
+
+sctar:et-sextus-l2t3
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 3" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 3" ;
+  sctap:shortId "et-sextus-l2t3" .
+
+
+sctar:et-sextus-l2t4
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 4" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 4" ;
+  sctap:shortId "et-sextus-l2t4" .
+
+
+sctar:et-sextus-l2t5
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 5" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 5" ;
+  sctap:shortId "et-sextus-l2t5" .
+
+
+sctar:et-sextus-l2t6
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 6" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 6" ;
+  sctap:shortId "et-sextus-l2t6" .
+
+
+sctar:et-sextus-l2t7
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 7" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 7" ;
+  sctap:shortId "et-sextus-l2t7" .
+
+
+sctar:et-sextus-l2t8
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 8" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 8" ;
+  sctap:shortId "et-sextus-l2t8" .
+
+
+sctar:et-sextus-l2t9
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 9" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 9" ;
+  sctap:shortId "et-sextus-l2t9" .
+
+
+sctar:et-sextus-l2t10
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 10" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 10" ;
+  sctap:shortId "et-sextus-l2t10" .
+
+
+sctar:et-sextus-l2t11
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 11" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 11" ;
+  sctap:shortId "et-sextus-l2t11" .
+
+
+sctar:et-sextus-l2t12
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 12" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 12" ;
+  sctap:shortId "et-sextus-l2t12" .
+
+
+sctar:et-sextus-l2t13
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 13" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 13" ;
+  sctap:shortId "et-sextus-l2t13" .
+
+
+sctar:et-sextus-l2t14
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 14" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 14" ;
+  sctap:shortId "et-sextus-l2t14" .
+
+
+sctar:et-sextus-l2t15
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 2, Titulus 15" ;
+  dc:description "Liber Sextus, Liber 2, Titulus 15" ;
+  sctap:shortId "et-sextus-l2t15" .
+
+sctar:et-sextus-liber3
+  rdf:type sctar:expressionType ;
+  dc:title "Sextus Book 3" ;
+  sctap:shortId "et-sextus-liber3" .
+
+sctar:et-sextus-l3t1
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 1" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 1" ;
+  sctap:shortId "et-sextus-l3t1" .
+
+
+sctar:et-sextus-l3t2
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 2" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 2" ;
+  sctap:shortId "et-sextus-l3t2" .
+
+
+sctar:et-sextus-l3t3
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 3" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 3" ;
+  sctap:shortId "et-sextus-l3t3" .
+
+
+sctar:et-sextus-l3t4
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 4" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 4" ;
+  sctap:shortId "et-sextus-l3t4" .
+
+
+sctar:et-sextus-l3t5
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 5" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 5" ;
+  sctap:shortId "et-sextus-l3t5" .
+
+
+sctar:et-sextus-l3t6
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 6" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 6" ;
+  sctap:shortId "et-sextus-l3t6" .
+
+
+sctar:et-sextus-l3t7
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 7" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 7" ;
+  sctap:shortId "et-sextus-l3t7" .
+
+
+sctar:et-sextus-l3t8
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 8" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 8" ;
+  sctap:shortId "et-sextus-l3t8" .
+
+
+sctar:et-sextus-l3t9
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 9" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 9" ;
+  sctap:shortId "et-sextus-l3t9" .
+
+
+sctar:et-sextus-l3t10
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 10" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 10" ;
+  sctap:shortId "et-sextus-l3t10" .
+
+
+sctar:et-sextus-l3t11
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 11" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 11" ;
+  sctap:shortId "et-sextus-l3t11" .
+
+
+sctar:et-sextus-l3t12
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 12" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 12" ;
+  sctap:shortId "et-sextus-l3t12" .
+
+
+sctar:et-sextus-l3t13
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 13" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 13" ;
+  sctap:shortId "et-sextus-l3t13" .
+
+
+sctar:et-sextus-l3t14
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 14" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 14" ;
+  sctap:shortId "et-sextus-l3t14" .
+
+
+sctar:et-sextus-l3t15
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 15" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 15" ;
+  sctap:shortId "et-sextus-l3t15" .
+
+
+sctar:et-sextus-l3t16
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 16" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 16" ;
+  sctap:shortId "et-sextus-l3t16" .
+
+
+sctar:et-sextus-l3t17
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 17" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 17" ;
+  sctap:shortId "et-sextus-l3t17" .
+
+
+sctar:et-sextus-l3t18
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 18" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 18" ;
+  sctap:shortId "et-sextus-l3t18" .
+
+
+sctar:et-sextus-l3t19
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 19" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 19" ;
+  sctap:shortId "et-sextus-l3t19" .
+
+
+sctar:et-sextus-l3t20
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 20" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 20" ;
+  sctap:shortId "et-sextus-l3t20" .
+
+
+sctar:et-sextus-l3t21
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 21" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 21" ;
+  sctap:shortId "et-sextus-l3t21" .
+
+
+sctar:et-sextus-l3t22
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 22" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 22" ;
+  sctap:shortId "et-sextus-l3t22" .
+
+
+sctar:et-sextus-l3t23
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 23" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 23" ;
+  sctap:shortId "et-sextus-l3t23" .
+
+
+sctar:et-sextus-l3t24
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 3, Titulus 24" ;
+  dc:description "Liber Sextus, Liber 3, Titulus 24" ;
+  sctap:shortId "et-sextus-l3t24" .
+
+sctar:et-sextus-liber4
+  rdf:type sctar:expressionType ;
+  dc:title "Sextus Book 4" ;
+  sctap:shortId "et-sextus-liber4" .
+
+sctar:et-sextus-l4t1
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 4, Titulus 1" ;
+  dc:description "Liber Sextus, Liber 4, Titulus 1" ;
+  sctap:shortId "et-sextus-l4t1" .
+
+sctar:et-sextus-l4t2
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 4, Titulus 2" ;
+  dc:description "Liber Sextus, Liber 4, Titulus 2" ;
+  sctap:shortId "et-sextus-l4t2" .
+
+sctar:et-sextus-l4t3
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 4, Titulus 3" ;
+  dc:description "Liber Sextus, Liber 4, Titulus 3" ;
+  sctap:shortId "et-sextus-l4t3" .
+
+sctar:et-sextus-liber5
+  rdf:type sctar:expressionType ;
+  dc:title "Sextus Book 5" ;
+  sctap:shortId "et-sextus-liber5" .
+
+sctar:et-sextus-l5t1
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 1" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 1" ;
+  sctap:shortId "et-sextus-l5t1" .
+
+
+sctar:et-sextus-l5t2
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 2" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 2" ;
+  sctap:shortId "et-sextus-l5t2" .
+
+
+sctar:et-sextus-l5t3
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 3" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 3" ;
+  sctap:shortId "et-sextus-l5t3" .
+
+
+sctar:et-sextus-l5t4
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 4" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 4" ;
+  sctap:shortId "et-sextus-l5t4" .
+
+
+sctar:et-sextus-l5t5
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 5" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 5" ;
+  sctap:shortId "et-sextus-l5t5" .
+
+
+sctar:et-sextus-l5t6
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 6" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 6" ;
+  sctap:shortId "et-sextus-l5t6" .
+
+
+sctar:et-sextus-l5t7
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 7" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 7" ;
+  sctap:shortId "et-sextus-l5t7" .
+
+
+sctar:et-sextus-l5t8
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 8" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 8" ;
+  sctap:shortId "et-sextus-l5t8" .
+
+
+sctar:et-sextus-l5t9
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 9" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 9" ;
+  sctap:shortId "et-sextus-l5t9" .
+
+
+sctar:et-sextus-l5t10
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 10" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 10" ;
+  sctap:shortId "et-sextus-l5t10" .
+
+
+sctar:et-sextus-l5t11
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 11" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 11" ;
+  sctap:shortId "et-sextus-l5t11" .
+
+sctar:et-sextus-l5t12
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 12" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 12" ;
+  sctap:shortId "et-sextus-l5t12" .
+
+sctar:et-sextus-l5t12
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, Titulus 12" ;
+  dc:description "Liber Sextus, Liber 5, Titulus 12" ;
+  sctap:shortId "et-sextus-l5t12" .
+
+sctar:et-sextus-l5dri
+  rdf:type sctar:expressionType ;
+  dc:title "Liber Sextus, Liber 5, De regulis iuris" ;
+  dc:description "Liber Sextus, Liber 5, De regulis iuris" ;
+  sctap:shortId "et-sextus-l5dri" .
+
 sctar:lit-temporale
   rdf:type sctar:expressionType ;
   dc:title "Liturgica Temporale " ;
