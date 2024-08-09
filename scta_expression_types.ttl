@@ -4101,17 +4101,11 @@ sctar:et-sextus-l5t12
   dcterms:isPartOf sctar:et-sextus-liber5 ;
   sctap:shortId "et-sextus-l5t12" .
 
-sctar:et-sextus-l5t12
-  rdf:type sctar:expressionType ;
-  dc:title "Liber Sextus, Liber 5, Titulus 12" ;
-  dc:description "Liber Sextus, Liber 5, Titulus 12" ; 
-  dcterms:isPartOf sctar:et-sextus-liber5 ;
-  sctap:shortId "et-sextus-l5t12" .
-
 sctar:et-sextus-l5dri
   rdf:type sctar:expressionType ;
   dc:title "Liber Sextus, Liber 5, De regulis iuris" ;
   dc:description "Liber Sextus, Liber 5, De regulis iuris" ;
+  dcterms:isPartOf sctar:et-sextus-liber5 ;
   sctap:shortId "et-sextus-l5dri" .
 
 sctar:lit-temporale
