@@ -61,5 +61,9 @@
       <title>Uncategorized</title>
       <description>A Work Group for Uncategorized Texts</description>
     </workGroup>
+    <workGroup id="kygivmohylaacademy">
+      <title>Kygiv Mohyla Academy</title>
+      <description>A Work Group for the Kygiv Mohyla Academy</description>
+    </workGroup>
   </workGroups>
 </workGroup>
