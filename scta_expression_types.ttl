@@ -671,6 +671,7 @@ sctar:liber2-distinctio1
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio1" ;
+  sctap:totalOrderNumber "0050" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio1 . 
 
@@ -680,6 +681,7 @@ sctar:liber2-distinctio2
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio2" ;
+  sctap:totalOrderNumber "0051" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio2 . 
 
@@ -689,6 +691,7 @@ sctar:liber2-distinctio3
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio3" ;
+  sctap:totalOrderNumber "0052" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio3 . 
 
@@ -698,6 +701,7 @@ sctar:liber2-distinctio4
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio4" ;
+  sctap:totalOrderNumber "0053" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio4 . 
 
@@ -707,6 +711,7 @@ sctar:liber2-distinctio5
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio5" ;
+  sctap:totalOrderNumber "0054" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio5 . 
 
@@ -716,6 +721,7 @@ sctar:liber2-distinctio6
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio6" ;
+  sctap:totalOrderNumber "0055" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio6 . 
 
@@ -725,6 +731,7 @@ sctar:liber2-distinctio7
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio7" ;
+  sctap:totalOrderNumber "0056" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio7 . 
 
@@ -734,6 +741,7 @@ sctar:liber2-distinctio8
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio8" ;
+  sctap:totalOrderNumber "0057" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio8 . 
 
@@ -743,6 +751,7 @@ sctar:liber2-distinctio9
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio9" ;
+  sctap:totalOrderNumber "0058" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio9 . 
 
@@ -752,6 +761,7 @@ sctar:liber2-distinctio10
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio10" ;
+  sctap:totalOrderNumber "0059" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio10 . 
 
@@ -761,6 +771,7 @@ sctar:liber2-distinctio11
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio11" ;
+  sctap:totalOrderNumber "0060" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio11 . 
 
@@ -770,6 +781,7 @@ sctar:liber2-distinctio12
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio12" ;
+  sctap:totalOrderNumber "0061" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio12 . 
 
@@ -779,6 +791,7 @@ sctar:liber2-distinctio13
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio13" ;
+  sctap:totalOrderNumber "0062" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio13 . 
 
@@ -788,6 +801,7 @@ sctar:liber2-distinctio14
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio14" ;
+  sctap:totalOrderNumber "0063" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio14 . 
 
@@ -797,6 +811,7 @@ sctar:liber2-distinctio15
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio15" ;
+  sctap:totalOrderNumber "0064" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio15 . 
 
@@ -806,6 +821,7 @@ sctar:liber2-distinctio16
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio16" ;
+  sctap:totalOrderNumber "0065" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio16 . 
 
@@ -815,6 +831,7 @@ sctar:liber2-distinctio17
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio17" ;
+  sctap:totalOrderNumber "0066" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio17 . 
 
@@ -824,6 +841,7 @@ sctar:liber2-distinctio18
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio18" ;
+  sctap:totalOrderNumber "0067" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio18 . 
 
@@ -833,6 +851,7 @@ sctar:liber2-distinctio19
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio19" ;
+  sctap:totalOrderNumber "0068" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio19 . 
 
@@ -842,6 +861,7 @@ sctar:liber2-distinctio20
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio20" ;
+  sctap:totalOrderNumber "0069" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio20 . 
 
@@ -851,6 +871,7 @@ sctar:liber2-distinctio21
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio21" ;
+  sctap:totalOrderNumber "0070" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio21 . 
 
@@ -860,6 +881,7 @@ sctar:liber2-distinctio22
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio22" ;
+  sctap:totalOrderNumber "0071" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio22 . 
 
@@ -869,6 +891,7 @@ sctar:liber2-distinctio23
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio23" ;
+  sctap:totalOrderNumber "0072" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio23 . 
 
@@ -878,6 +901,7 @@ sctar:liber2-distinctio24
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio24" ;
+  sctap:totalOrderNumber "0073" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio24 . 
 
@@ -887,6 +911,7 @@ sctar:liber2-distinctio25
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio25" ;
+  sctap:totalOrderNumber "0074" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio25 . 
 
@@ -896,6 +921,7 @@ sctar:liber2-distinctio26
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio26" ;
+  sctap:totalOrderNumber "0075" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio26 . 
 
@@ -905,6 +931,7 @@ sctar:liber2-distinctio27
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio27" ;
+  sctap:totalOrderNumber "0076" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio27 . 
 
@@ -914,6 +941,7 @@ sctar:liber2-distinctio28
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio28" ;
+  sctap:totalOrderNumber "0077" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio28 . 
 
@@ -923,6 +951,7 @@ sctar:liber2-distinctio29
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio29" ;
+  sctap:totalOrderNumber "0078" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio29 . 
 
@@ -932,6 +961,7 @@ sctar:liber2-distinctio30
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio30" ;
+  sctap:totalOrderNumber "0079" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio30 . 
 
@@ -941,6 +971,7 @@ sctar:liber2-distinctio31
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio31" ;
+  sctap:totalOrderNumber "0080" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio31 . 
 
@@ -950,6 +981,7 @@ sctar:liber2-distinctio32
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio32" ;
+  sctap:totalOrderNumber "0081" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio32 . 
 
@@ -959,6 +991,7 @@ sctar:liber2-distinctio33
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio33" ;
+  sctap:totalOrderNumber "0082" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio33 . 
 
@@ -968,6 +1001,7 @@ sctar:liber2-distinctio34
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio34" ;
+  sctap:totalOrderNumber "0083" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio34 . 
 
@@ -977,6 +1011,7 @@ sctar:liber2-distinctio35
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio35" ;
+  sctap:totalOrderNumber "0084" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio35 . 
 
@@ -986,6 +1021,7 @@ sctar:liber2-distinctio36
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio36" ;
+  sctap:totalOrderNumber "0085" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio36 . 
 
@@ -995,6 +1031,7 @@ sctar:liber2-distinctio37
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio37" ;
+  sctap:totalOrderNumber "0086" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio37 . 
 
@@ -1004,6 +1041,7 @@ sctar:liber2-distinctio38
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio38" ;
+  sctap:totalOrderNumber "0087" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio38 . 
 
@@ -1013,6 +1051,7 @@ sctar:liber2-distinctio39
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio39" ;
+  sctap:totalOrderNumber "0088" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio39 . 
 
@@ -1022,6 +1061,7 @@ sctar:liber2-distinctio40
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio40" ;
+  sctap:totalOrderNumber "0089" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio40 . 
 
@@ -1031,6 +1071,7 @@ sctar:liber2-distinctio41
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio41" ;
+  sctap:totalOrderNumber "0090" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio41 . 
 
@@ -1040,6 +1081,7 @@ sctar:liber2-distinctio42
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio42" ;
+  sctap:totalOrderNumber "0091" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio42 . 
 
@@ -1049,6 +1091,7 @@ sctar:liber2-distinctio43
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio43" ;
+  sctap:totalOrderNumber "0092" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio43 . 
 
@@ -1058,6 +1101,7 @@ sctar:liber2-distinctio44
   dc:description "Division of Book 2" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber2-distinctio44" ;
+  sctap:totalOrderNumber "0093" ;
   dcterms:isPartOf sctar:liber2 ;
   sctap:previous sctar:liber2-distinctio44 .
 
@@ -1067,6 +1111,7 @@ sctar:liber3-distinctio1
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio1" ;
+  sctap:totalOrderNumber "0094" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio1 . 
 
@@ -1076,6 +1121,7 @@ sctar:liber3-distinctio2
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio2" ;
+  sctap:totalOrderNumber "0095" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio2 . 
 
@@ -1085,6 +1131,7 @@ sctar:liber3-distinctio3
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio3" ;
+  sctap:totalOrderNumber "0096" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio3 . 
 
@@ -1094,6 +1141,7 @@ sctar:liber3-distinctio4
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio4" ;
+  sctap:totalOrderNumber "0097" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio4 . 
 
@@ -1103,6 +1151,7 @@ sctar:liber3-distinctio5
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio5" ;
+  sctap:totalOrderNumber "0098" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio5 . 
 
@@ -1112,6 +1161,7 @@ sctar:liber3-distinctio6
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio6" ;
+  sctap:totalOrderNumber "0099" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio6 . 
 
@@ -1121,6 +1171,7 @@ sctar:liber3-distinctio7
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio7" ;
+  sctap:totalOrderNumber "0100" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio7 . 
 
@@ -1130,6 +1181,7 @@ sctar:liber3-distinctio8
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio8" ;
+  sctap:totalOrderNumber "0101" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio8 . 
 
@@ -1139,6 +1191,7 @@ sctar:liber3-distinctio9
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio9" ;
+  sctap:totalOrderNumber "0102" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio9 . 
 
@@ -1148,6 +1201,7 @@ sctar:liber3-distinctio10
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio10" ;
+  sctap:totalOrderNumber "0103" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio10 . 
 
@@ -1157,6 +1211,7 @@ sctar:liber3-distinctio11
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio11" ;
+  sctap:totalOrderNumber "0104" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio11 . 
 
@@ -1166,6 +1221,7 @@ sctar:liber3-distinctio12
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio12" ;
+  sctap:totalOrderNumber "0105" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio12 . 
 
@@ -1175,6 +1231,7 @@ sctar:liber3-distinctio13
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio13" ;
+  sctap:totalOrderNumber "0106" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio13 . 
 
@@ -1184,6 +1241,7 @@ sctar:liber3-distinctio14
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio14" ;
+  sctap:totalOrderNumber "0107" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio14 . 
 
@@ -1193,6 +1251,7 @@ sctar:liber3-distinctio15
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio15" ;
+  sctap:totalOrderNumber "0108" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio15 . 
 
@@ -1202,6 +1261,7 @@ sctar:liber3-distinctio16
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio16" ;
+  sctap:totalOrderNumber "0109" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio16 . 
 
@@ -1211,6 +1271,7 @@ sctar:liber3-distinctio17
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio17" ;
+  sctap:totalOrderNumber "0110" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio17 . 
 
@@ -1220,6 +1281,7 @@ sctar:liber3-distinctio18
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio18" ;
+  sctap:totalOrderNumber "0111" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio18 . 
 
@@ -1229,6 +1291,7 @@ sctar:liber3-distinctio19
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio19" ;
+  sctap:totalOrderNumber "0112" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio19 . 
 
@@ -1238,6 +1301,7 @@ sctar:liber3-distinctio20
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio20" ;
+  sctap:totalOrderNumber "0113" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio20 . 
 
@@ -1247,6 +1311,7 @@ sctar:liber3-distinctio21
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio21" ;
+  sctap:totalOrderNumber "0114" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio21 . 
 
@@ -1256,6 +1321,7 @@ sctar:liber3-distinctio22
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio22" ;
+  sctap:totalOrderNumber "0115" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio22 . 
 
@@ -1265,6 +1331,7 @@ sctar:liber3-distinctio23
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio23" ;
+  sctap:totalOrderNumber "0116" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio23 . 
 
@@ -1274,6 +1341,7 @@ sctar:liber3-distinctio24
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio24" ;
+  sctap:totalOrderNumber "0117" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio24 . 
 
@@ -1283,6 +1351,7 @@ sctar:liber3-distinctio25
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio25" ;
+  sctap:totalOrderNumber "0118" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio25 . 
 
@@ -1292,6 +1361,7 @@ sctar:liber3-distinctio26
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio26" ;
+  sctap:totalOrderNumber "0119" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio26 . 
 
@@ -1301,6 +1371,7 @@ sctar:liber3-distinctio27
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio27" ;
+  sctap:totalOrderNumber "0120" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio27 . 
 
@@ -1310,6 +1381,7 @@ sctar:liber3-distinctio28
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio28" ;
+  sctap:totalOrderNumber "0121" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio28 . 
 
@@ -1319,6 +1391,7 @@ sctar:liber3-distinctio29
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio29" ;
+  sctap:totalOrderNumber "0122" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio29 . 
 
@@ -1328,6 +1401,7 @@ sctar:liber3-distinctio30
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio30" ;
+  sctap:totalOrderNumber "0123" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio30 . 
 
@@ -1337,6 +1411,7 @@ sctar:liber3-distinctio31
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio31" ;
+  sctap:totalOrderNumber "0124" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio31 . 
 
@@ -1346,6 +1421,7 @@ sctar:liber3-distinctio32
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio32" ;
+  sctap:totalOrderNumber "0125" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio32 . 
 
@@ -1355,6 +1431,7 @@ sctar:liber3-distinctio33
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio33" ;
+  sctap:totalOrderNumber "0126" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio33 . 
 
@@ -1364,6 +1441,7 @@ sctar:liber3-distinctio34
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio34" ;
+  sctap:totalOrderNumber "0127" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio34 . 
 
@@ -1373,6 +1451,7 @@ sctar:liber3-distinctio35
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio35" ;
+  sctap:totalOrderNumber "0128" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio35 . 
 
@@ -1382,6 +1461,7 @@ sctar:liber3-distinctio36
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio36" ;
+  sctap:totalOrderNumber "0129" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio36 . 
 
@@ -1391,6 +1471,7 @@ sctar:liber3-distinctio37
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio37" ;
+  sctap:totalOrderNumber "0130" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio37 . 
 
@@ -1400,6 +1481,7 @@ sctar:liber3-distinctio38
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio38" ;
+  sctap:totalOrderNumber "0140" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio38 . 
 
@@ -1409,6 +1491,7 @@ sctar:liber3-distinctio39
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio39" ;
+  sctap:totalOrderNumber "0141" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio39 . 
 
@@ -1418,6 +1501,7 @@ sctar:liber3-distinctio40
   dc:description "Division of Book 3" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber3-distinctio40" ;
+  sctap:totalOrderNumber "0142" ;
   dcterms:isPartOf sctar:liber3 ;
   sctap:previous sctar:liber3-distinctio40 .
 
@@ -1427,6 +1511,7 @@ sctar:liber4-distinctio1
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio1" ;
+  sctap:totalOrderNumber "0143" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio1 . 
 
@@ -1436,6 +1521,7 @@ sctar:liber4-distinctio2
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio2" ;
+  sctap:totalOrderNumber "0144" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio2 . 
 
@@ -1445,6 +1531,7 @@ sctar:liber4-distinctio3
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio3" ;
+  sctap:totalOrderNumber "0145" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio3 . 
 
@@ -1454,6 +1541,7 @@ sctar:liber4-distinctio4
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio4" ;
+  sctap:totalOrderNumber "0146" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio4 . 
 
@@ -1463,6 +1551,7 @@ sctar:liber4-distinctio5
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio5" ;
+  sctap:totalOrderNumber "0147" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio5 . 
 
@@ -1472,6 +1561,7 @@ sctar:liber4-distinctio6
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio6" ;
+  sctap:totalOrderNumber "0148" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio6 . 
 
@@ -1481,6 +1571,7 @@ sctar:liber4-distinctio7
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio7" ;
+  sctap:totalOrderNumber "0149" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio7 . 
 
@@ -1490,6 +1581,7 @@ sctar:liber4-distinctio8
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio8" ;
+  sctap:totalOrderNumber "0150" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio8 . 
 
@@ -1499,6 +1591,7 @@ sctar:liber4-distinctio9
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio9" ;
+  sctap:totalOrderNumber "0151" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio9 . 
 
@@ -1508,6 +1601,7 @@ sctar:liber4-distinctio10
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio10" ;
+  sctap:totalOrderNumber "0152" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio10 . 
 
@@ -1517,6 +1611,7 @@ sctar:liber4-distinctio11
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio11" ;
+  sctap:totalOrderNumber "0153" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio11 . 
 
@@ -1526,6 +1621,7 @@ sctar:liber4-distinctio12
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio12" ;
+  sctap:totalOrderNumber "0154" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio12 . 
 
@@ -1535,6 +1631,7 @@ sctar:liber4-distinctio13
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio13" ;
+  sctap:totalOrderNumber "0155" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio13 . 
 
@@ -1544,6 +1641,7 @@ sctar:liber4-distinctio14
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio14" ;
+  sctap:totalOrderNumber "0156" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio14 . 
 
@@ -1553,6 +1651,7 @@ sctar:liber4-distinctio15
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio15" ;
+  sctap:totalOrderNumber "0157" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio15 . 
 
@@ -1562,6 +1661,7 @@ sctar:liber4-distinctio16
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio16" ;
+  sctap:totalOrderNumber "0158" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio16 . 
 
@@ -1571,6 +1671,7 @@ sctar:liber4-distinctio17
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio17" ;
+  sctap:totalOrderNumber "0159" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio17 . 
 
@@ -1580,6 +1681,7 @@ sctar:liber4-distinctio18
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio18" ;
+  sctap:totalOrderNumber "0160" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio18 . 
 
@@ -1589,6 +1691,7 @@ sctar:liber4-distinctio19
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio19" ;
+  sctap:totalOrderNumber "0161" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio19 . 
 
@@ -1598,6 +1701,7 @@ sctar:liber4-distinctio20
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio20" ;
+  sctap:totalOrderNumber "0162" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio20 . 
 
@@ -1607,6 +1711,7 @@ sctar:liber4-distinctio21
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio21" ;
+  sctap:totalOrderNumber "0163" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio21 . 
 
@@ -1616,6 +1721,7 @@ sctar:liber4-distinctio22
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio22" ;
+  sctap:totalOrderNumber "0164" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio22 . 
 
@@ -1625,6 +1731,7 @@ sctar:liber4-distinctio23
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio23" ;
+  sctap:totalOrderNumber "0165" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio23 . 
 
@@ -1634,6 +1741,7 @@ sctar:liber4-distinctio24
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio24" ;
+  sctap:totalOrderNumber "0166" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio24 . 
 
@@ -1643,6 +1751,7 @@ sctar:liber4-distinctio25
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio25" ;
+  sctap:totalOrderNumber "0167" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio25 . 
 
@@ -1652,6 +1761,7 @@ sctar:liber4-distinctio26
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio26" ;
+  sctap:totalOrderNumber "0168" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio26 . 
 
@@ -1661,6 +1771,7 @@ sctar:liber4-distinctio27
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio27" ;
+  sctap:totalOrderNumber "0169" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio27 . 
 
@@ -1670,6 +1781,7 @@ sctar:liber4-distinctio28
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio28" ;
+  sctap:totalOrderNumber "0170" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio28 . 
 
@@ -1679,6 +1791,7 @@ sctar:liber4-distinctio29
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio29" ;
+  sctap:totalOrderNumber "0171" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio29 . 
 
@@ -1688,6 +1801,7 @@ sctar:liber4-distinctio30
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio30" ;
+  sctap:totalOrderNumber "0172" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio30 . 
 
@@ -1697,6 +1811,7 @@ sctar:liber4-distinctio31
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio31" ;
+  sctap:totalOrderNumber "0173" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio31 . 
 
@@ -1706,6 +1821,7 @@ sctar:liber4-distinctio32
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio32" ;
+  sctap:totalOrderNumber "0174" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio32 . 
 
@@ -1715,6 +1831,7 @@ sctar:liber4-distinctio33
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio33" ;
+  sctap:totalOrderNumber "0175" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio33 . 
 
@@ -1724,6 +1841,7 @@ sctar:liber4-distinctio34
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio34" ;
+  sctap:totalOrderNumber "0176" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio34 . 
 
@@ -1733,6 +1851,7 @@ sctar:liber4-distinctio35
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio35" ;
+  sctap:totalOrderNumber "0177" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio35 . 
 
@@ -1742,6 +1861,7 @@ sctar:liber4-distinctio36
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio36" ;
+  sctap:totalOrderNumber "0178" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio36 . 
 
@@ -1751,6 +1871,7 @@ sctar:liber4-distinctio37
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio37" ;
+  sctap:totalOrderNumber "0179" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio37 . 
 
@@ -1760,6 +1881,7 @@ sctar:liber4-distinctio38
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio38" ;
+  sctap:totalOrderNumber "0180" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio38 . 
 
@@ -1769,6 +1891,7 @@ sctar:liber4-distinctio39
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio39" ;
+  sctap:totalOrderNumber "0181" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio39 . 
 
@@ -1778,6 +1901,7 @@ sctar:liber4-distinctio40
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio40" ;
+  sctap:totalOrderNumber "0182" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio40 . 
 
@@ -1787,6 +1911,7 @@ sctar:liber4-distinctio41
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio41" ;
+  sctap:totalOrderNumber "0183" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio41 . 
 
@@ -1796,6 +1921,7 @@ sctar:liber4-distinctio42
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio42" ;
+  sctap:totalOrderNumber "0184" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio42 . 
 
@@ -1805,6 +1931,7 @@ sctar:liber4-distinctio43
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio43" ;
+  sctap:totalOrderNumber "0185" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio43 . 
 
@@ -1814,6 +1941,7 @@ sctar:liber4-distinctio44
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio44" ;
+  sctap:totalOrderNumber "0186" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio44 . 
 
@@ -1823,6 +1951,7 @@ sctar:liber4-distinctio45
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio45" ;
+  sctap:totalOrderNumber "0187" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio45 . 
 
@@ -1832,6 +1961,7 @@ sctar:liber4-distinctio46
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio46" ;
+  sctap:totalOrderNumber "0188" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio46 . 
 
@@ -1841,6 +1971,7 @@ sctar:liber4-distinctio47
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio47" ;
+  sctap:totalOrderNumber "0189" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio47 . 
 
@@ -1850,6 +1981,7 @@ sctar:liber4-distinctio48
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio48" ;
+  sctap:totalOrderNumber "0190" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio48 . 
 
@@ -1859,6 +1991,7 @@ sctar:liber4-distinctio49
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio49" ;
+  sctap:totalOrderNumber "0191" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio49 . 
 
@@ -1868,6 +2001,7 @@ sctar:liber4-distinctio50
   dc:description "Division of Book 4" ;
   sctap:expressionType sctar:distinctio ;
   sctap:shortId "liber4-distinctio50" ;
+  sctap:totalOrderNumber "0192" ;
   dcterms:isPartOf sctar:liber4 ;
   sctap:previous sctar:liber4-distinctio50 . 
 	
