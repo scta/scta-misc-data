@@ -1,0 +1,1974 @@
+@prefix sctap: <http://scta.info/property/> .
+@prefix sctar: <http://scta.info/resource/> .
+
+sctar:cice-l1t1-Dd1e108 sctap:incipit "Firmiter credimus" .
+sctar:cice-l1t1-Dd1e123 sctap:incipit "Damnamus ergo" .
+sctar:cice-l1t2-Dd1e108 sctap:incipit "Canonum statuta custodiantur" .
+sctar:cice-l1t2-Dd1e123 sctap:incipit "Cognoscentes" .
+sctar:cice-l1t2-Dd1e138 sctap:incipit "Translato sacerdotio" .
+sctar:cice-l1t2-Dd1e153 sctap:incipit "Nam concupiscentiam" .
+sctar:cice-l1t2-Dd1e169 sctap:incipit "Ne innitaris prudentiae" .
+sctar:cice-l1t2-Dd1e184 sctap:incipit "Cum omnes" .
+sctar:cice-l1t2-Dd1e199 sctap:incipit "Quae in ecclesiarum" .
+sctar:cice-l1t2-Dd1e214 sctap:incipit "Cum accessissent ad" .
+sctar:cice-l1t2-Dd1e229 sctap:incipit "Cum M. Ferrariensis" .
+sctar:cice-l1t2-Dd1e244 sctap:incipit "Ecclesia Sanctae Mariae" .
+sctar:cice-l1t2-Dd1e260 sctap:incipit "Ex litteris vestrae" .
+sctar:cice-l1t2-Dd1e275 sctap:incipit "Ex parte episcopi" .
+sctar:cice-l1t2-Dd1e290 sctap:incipit "Quoniam constitutio apostolicae" .
+sctar:cice-l1t3-Dd1e108 sctap:incipit "Sicut Romana" .
+sctar:cice-l1t3-Dd1e123 sctap:incipit "Ex parte Conventrensis" .
+sctar:cice-l1t3-Dd1e138 sctap:incipit "Caeterum si aliquis" .
+sctar:cice-l1t3-Dd1e153 sctap:incipit "Inter caeteras consultationes" .
+sctar:cice-l1t3-Dd1e169 sctap:incipit "Si quando aliqua" .
+sctar:cice-l1t3-Dd1e184 sctap:incipit "Cum ordinem Cisterciensem" .
+sctar:cice-l1t3-Dd1e199 sctap:incipit "Eam te" .
+sctar:cice-l1t3-Dd1e214 sctap:incipit "Ad aures nostras" .
+sctar:cice-l1t3-Dd1e229 sctap:incipit "Si autem aliquis" .
+sctar:cice-l1t3-Dd1e244 sctap:incipit "Ad haec sumus/Ad hoc sumus" .
+sctar:cice-l1t3-Dd1e260 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l1t3-Dd1e275 sctap:incipit "Ex parte S." .
+sctar:cice-l1t3-Dd1e290 sctap:incipit "Sciscitatus es" .
+sctar:cice-l1t3-Dd1e305 sctap:incipit "Pastoralis officii" .
+sctar:cice-l1t3-Dd1e320 sctap:incipit "Sedes apostolica consuevit" .
+sctar:cice-l1t3-Dd1e335 sctap:incipit "Ex tenore litterarum" .
+sctar:cice-l1t3-Dd1e351 sctap:incipit "Cum adeo scripta" .
+sctar:cice-l1t3-Dd1e366 sctap:incipit "Causam quae inter" .
+sctar:cice-l1t3-Dd1e381 sctap:incipit "Constitutus apud sedem" .
+sctar:cice-l1t3-Dd1e396 sctap:incipit "Super litteris" .
+sctar:cice-l1t3-Dd1e411 sctap:incipit "Edoceri postulatis" .
+sctar:cice-l1t3-Dd1e426 sctap:incipit "Cum dilecta in" .
+sctar:cice-l1t3-Dd1e442 sctap:incipit "Plerumque contingit" .
+sctar:cice-l1t3-Dd1e457 sctap:incipit "Cum contingat" .
+sctar:cice-l1t3-Dd1e472 sctap:incipit "Olim ex litteris" .
+sctar:cice-l1t3-Dd1e487 sctap:incipit "Dilectus filius abbas" .
+sctar:cice-l1t3-Dd1e502 sctap:incipit "Postulasti per sedem" .
+sctar:cice-l1t3-Dd1e517 sctap:incipit "Nonnulli gratia sedis" .
+sctar:cice-l1t3-Dd1e533 sctap:incipit "Dilectus filius I." .
+sctar:cice-l1t3-Dd1e548 sctap:incipit "Capitulum sanctae crucis" .
+sctar:cice-l1t3-Dd1e563 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l1t3-Dd1e578 sctap:incipit "In nostra proposuisti" .
+sctar:cice-l1t3-Dd1e593 sctap:incipit "Ex parte decani" .
+sctar:cice-l1t3-Dd1e608 sctap:incipit "Significante V. nos" .
+sctar:cice-l1t3-Dd1e624 sctap:incipit "Rodulphis clericus" .
+sctar:cice-l1t3-Dd1e639 sctap:incipit "Significavit nobis comitissa" .
+sctar:cice-l1t3-Dd1e654 sctap:incipit "Ex insinuatione episcopi" .
+sctar:cice-l1t3-Dd1e669 sctap:incipit "Mandatum apostolicum ad" .
+sctar:cice-l1t3-Dd1e684 sctap:incipit "Litteris apostolicis" .
+sctar:cice-l1t3-Dd1e699 sctap:incipit "Abbatem qui mandatum" .
+sctar:cice-l1t3-Dd1e715 sctap:incipit "Ab excommunicato qui" .
+sctar:cice-l1t3-Dd1e730 sctap:incipit "Si proponente aliquo" .
+sctar:cice-l1t3-Dd1e745 sctap:incipit "Quia nonnulli diversis" .
+sctar:cice-l1t4-Dd1e108 sctap:incipit "Consuetudines quae ecclesiis" .
+sctar:cice-l1t4-Dd1e123 sctap:incipit "Ex litteris vestrae" .
+sctar:cice-l1t4-Dd1e138 sctap:incipit "Ad nostram audientiam" .
+sctar:cice-l1t4-Dd1e153 sctap:incipit "Quanto de begninitate" .
+sctar:cice-l1t4-Dd1e169 sctap:incipit "Cum inter vos" .
+sctar:cice-l1t4-Dd1e184 sctap:incipit "Cum olim Londoniensis" .
+sctar:cice-l1t4-Dd1e199 sctap:incipit "Cum venerabilis frater" .
+sctar:cice-l1t4-Dd1e214 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l1t4-Dd1e229 sctap:incipit "Cum consuetudinis ususque" .
+sctar:cice-l1t4-Dd1e244 sctap:incipit "Ex parte vestra" .
+sctar:cice-l1t4-Dd1e260 sctap:incipit "Cum tanto sint" .
+sctar:cice-l1t5-Dd1e108 sctap:incipit "Ad haec in" .
+sctar:cice-l1t5-Dd1e123 sctap:incipit "Gratum gerimus" .
+sctar:cice-l1t5-Dd1e138 sctap:incipit "Bonae memoriae G." .
+sctar:cice-l1t5-Dd1e153 sctap:incipit "Bonae memoriae G." .
+sctar:cice-l1t5-Dd1e169 sctap:incipit "Postulationem quam celebrastis" .
+sctar:cice-l1t5-Dd1e184 sctap:incipit "Etsi unanimiter vota" .
+sctar:cice-l1t6-Dd1e108 sctap:incipit "Nullus in ecclesia" .
+sctar:cice-l1t6-Dd1e123 sctap:incipit "Osius episcopus dixit" .
+sctar:cice-l1t6-Dd1e138 sctap:incipit "Postquam" .
+sctar:cice-l1t6-Dd1e153 sctap:incipit "Significasti reges" .
+sctar:cice-l1t6-Dd1e169 sctap:incipit "Quia diligentia tua" .
+sctar:cice-l1t6-Dd1e184 sctap:incipit "Licet de vitanda" .
+sctar:cice-l1t6-Dd1e199 sctap:incipit "Cum in cunctis" .
+sctar:cice-l1t6-Dd1e214 sctap:incipit "Causam quae inter" .
+sctar:cice-l1t6-Dd1e229 sctap:incipit "Nosti Lin." .
+sctar:cice-l1t6-Dd1e244 sctap:incipit "Consideravimus quod electio" .
+sctar:cice-l1t6-Dd1e260 sctap:incipit "Suffraganeis alicuius" .
+sctar:cice-l1t6-Dd1e275 sctap:incipit "Super eo vero" .
+sctar:cice-l1t6-Dd1e290 sctap:incipit "Cum monasterium" .
+sctar:cice-l1t6-Dd1e305 sctap:incipit "Cum terra quae" .
+sctar:cice-l1t6-Dd1e320 sctap:incipit "Transmissam" .
+sctar:cice-l1t6-Dd1e335 sctap:incipit "Cum inter R." .
+sctar:cice-l1t6-Dd1e351 sctap:incipit "Qualiter post obitum" .
+sctar:cice-l1t6-Dd1e366 sctap:incipit "Cum inter universas" .
+sctar:cice-l1t6-Dd1e381 sctap:incipit "Cum nobis olim" .
+sctar:cice-l1t6-Dd1e396 sctap:incipit "Innotuit nobis" .
+sctar:cice-l1t6-Dd1e411 sctap:incipit "Cum inter canonicos" .
+sctar:cice-l1t6-Dd1e426 sctap:incipit "Dudum ad audientiam" .
+sctar:cice-l1t6-Dd1e442 sctap:incipit "Bonae memoriae Mag." .
+sctar:cice-l1t6-Dd1e457 sctap:incipit "Querelam quam" .
+sctar:cice-l1t6-Dd1e490 sctap:incipit "Cum Wintoniensis" .
+sctar:cice-l1t6-Dd1e482 sctap:incipit "Per inquisitionem quam" .
+sctar:cice-l1t6-Dd1e497 sctap:incipit "Cum causam quae" .
+sctar:cice-l1t6-Dd1e512 sctap:incipit "Quod sicut ex" .
+sctar:cice-l1t6-Dd1e527 sctap:incipit "Auditis et intellectis" .
+sctar:cice-l1t6-Dd1e543 sctap:incipit "In causis" .
+sctar:cice-l1t6-Dd1e558 sctap:incipit "Cum ecclesia Vulterana" .
+sctar:cice-l1t6-Dd1e573 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l1t6-Dd1e588 sctap:incipit "Cum in iure" .
+sctar:cice-l1t6-Dd1e603 sctap:incipit "Venerabilem" .
+sctar:cice-l1t6-Dd1e618 sctap:incipit "Coram dilecto filio" .
+sctar:cice-l1t6-Dd1e634 sctap:incipit "Bonae memoriae S." .
+sctar:cice-l1t6-Dd1e649 sctap:incipit "Cum ad nostram" .
+sctar:cice-l1t6-Dd1e664 sctap:incipit "Officii tui" .
+sctar:cice-l1t6-Dd1e679 sctap:incipit "Illa quotidiana instantia" .
+sctar:cice-l1t6-Dd1e694 sctap:incipit "Scriptum est in" .
+sctar:cice-l1t6-Dd1e709 sctap:incipit "Ne pro defectu" .
+sctar:cice-l1t6-Dd1e725 sctap:incipit "Quia propter diversas" .
+sctar:cice-l1t6-Dd1e740 sctap:incipit "Quisquis electioni de" .
+sctar:cice-l1t6-Dd1e755 sctap:incipit "Nihil est quod" .
+sctar:cice-l1t6-Dd1e770 sctap:incipit "Ut praeteritae" .
+sctar:cice-l1t6-Dd1e785 sctap:incipit "Cum post petitam" .
+sctar:cice-l1t6-Dd1e800 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l1t6-Dd1e816 sctap:incipit "Ecclesia vestra destituta" .
+sctar:cice-l1t6-Dd1e831 sctap:incipit "Cum in magistrum" .
+sctar:cice-l1t6-Dd1e846 sctap:incipit "Cumana ecclesia pastoris" .
+sctar:cice-l1t6-Dd1e861 sctap:incipit "Sacrosancta Romana ecclesia" .
+sctar:cice-l1t6-Dd1e876 sctap:incipit "Cum in veteri" .
+sctar:cice-l1t6-Dd1e891 sctap:incipit "Congregato Nivernensi capitulo" .
+sctar:cice-l1t6-Dd1e907 sctap:incipit "Dudum ecclesia Rothomagens." .
+sctar:cice-l1t6-Dd1e922 sctap:incipit "In Genesi legitur" .
+sctar:cice-l1t6-Dd1e937 sctap:incipit "Massana ecclesia pastore" .
+sctar:cice-l1t6-Dd1e952 sctap:incipit "Ecclesia vestra destituta" .
+sctar:cice-l1t6-Dd1e967 sctap:incipit "Publicato scrutinio" .
+sctar:cice-l1t6-Dd1e982 sctap:incipit "Si alicuius electionem" .
+sctar:cice-l1t6-Dd1e998 sctap:incipit "His quibus interdicitur/Eis quibus" .
+sctar:cice-l1t7-Dd1e108 sctap:incipit "Cum ex illo" .
+sctar:cice-l1t7-Dd1e123 sctap:incipit "Inter corporalia" .
+sctar:cice-l1t7-Dd1e138 sctap:incipit "Quanto personam" .
+sctar:cice-l1t7-Dd1e150 sctap:incipit "Licet in tantum" .
+sctar:cice-l1t8-Dd1e108 sctap:incipit "Cum super aliqua" .
+sctar:cice-l1t8-Dd1e123 sctap:incipit "Ad hoc/Ad haec" .
+sctar:cice-l1t8-Dd1e138 sctap:incipit "Nisi specialis dilectio" .
+sctar:cice-l1t8-Dd1e153 sctap:incipit "Ad honorem Dei" .
+sctar:cice-l1t8-Dd1e169 sctap:incipit "Ex tuarum tenore" .
+sctar:cice-l1t8-Dd1e184 sctap:incipit "Cum sis" .
+sctar:cice-l1t8-Dd1e199 sctap:incipit "Quia nos" .
+sctar:cice-l1t9-Dd1e108 sctap:incipit "Litteras tuas" .
+sctar:cice-l1t9-Dd1e123 sctap:incipit "Cum inter P." .
+sctar:cice-l1t9-Dd1e138 sctap:incipit "Ex transmissa relatione" .
+sctar:cice-l1t9-Dd1e153 sctap:incipit "Admonet" .
+sctar:cice-l1t9-Dd1e169 sctap:incipit "Super hoc quod" .
+sctar:cice-l1t9-Dd1e184 sctap:incipit "In praesentia nostra" .
+sctar:cice-l1t9-Dd1e199 sctap:incipit "Sane dilecto filio" .
+sctar:cice-l1t9-Dd1e214 sctap:incipit "Quod in dubiis" .
+sctar:cice-l1t9-Dd1e229 sctap:incipit "Ad supplicationem" .
+sctar:cice-l1t9-Dd1e244 sctap:incipit "Nisi cum pridem" .
+sctar:cice-l1t9-Dd1e260 sctap:incipit "Post translationem tuam" .
+sctar:cice-l1t9-Dd1e275 sctap:incipit "Quidam cedendi licentiam" .
+sctar:cice-l1t9-Dd1e290 sctap:incipit "Veniens ad sedem" .
+sctar:cice-l1t9-Dd1e305 sctap:incipit "Lectae coram nobis" .
+sctar:cice-l1t9-Dd1e320 sctap:incipit "Dilecti filii conventus" .
+sctar:cice-l1t10-Dd1e108 sctap:incipit "Statuimus praeterea" .
+sctar:cice-l1t10-Dd1e123 sctap:incipit "Sicut nobis tua" .
+sctar:cice-l1t10-Dd1e138 sctap:incipit "Licet magister H." .
+sctar:cice-l1t10-Dd1e153 sctap:incipit "Litteras vestrae discretionis" .
+sctar:cice-l1t10-Dd1e169 sctap:incipit "Dilecto filio P." .
+sctar:cice-l1t11-Dd1e108 sctap:incipit "Subdiaconos autem nulli" .
+sctar:cice-l1t11-Dd1e123 sctap:incipit "Sane super eo" .
+sctar:cice-l1t11-Dd1e138 sctap:incipit "De eo autem" .
+sctar:cice-l1t11-Dd1e153 sctap:incipit "Ex tenore tuarum" .
+sctar:cice-l1t11-Dd1e169 sctap:incipit "Ad aures nostras" .
+sctar:cice-l1t11-Dd1e184 sctap:incipit "Si archiepiscopus obierit" .
+sctar:cice-l1t11-Dd1e199 sctap:incipit "Ne episcopi sine" .
+sctar:cice-l1t11-Dd1e214 sctap:incipit "Cum quidam" .
+sctar:cice-l1t11-Dd1e229 sctap:incipit "Cum secundum" .
+sctar:cice-l1t11-Dd1e244 sctap:incipit "Ex parte vestra" .
+sctar:cice-l1t11-Dd1e260 sctap:incipit "Quod translationem pontificis" .
+sctar:cice-l1t11-Dd1e275 sctap:incipit "Cum in distribuendis" .
+sctar:cice-l1t11-Dd1e290 sctap:incipit "Litteras vestras recepimus" .
+sctar:cice-l1t11-Dd1e305 sctap:incipit "Vel non est" .
+sctar:cice-l1t11-Dd1e320 sctap:incipit "Dilectus filius G." .
+sctar:cice-l1t11-Dd1e335 sctap:incipit "Consultationi tuae taliter" .
+sctar:cice-l1t11-Dd1e351 sctap:incipit "Quaesitum est de" .
+sctar:cice-l1t12-Dd1e108 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t13-Dd1e108 sctap:incipit "Requisivit a nobis" .
+sctar:cice-l1t13-Dd1e123 sctap:incipit "Cum clericis qui" .
+sctar:cice-l1t14-Dd1e108 sctap:incipit "Ut abbates decani" .
+sctar:cice-l1t14-Dd1e123 sctap:incipit "Ex ratione" .
+sctar:cice-l1t14-Dd1e138 sctap:incipit "Indecorum est ut" .
+sctar:cice-l1t14-Dd1e153 sctap:incipit "Eam te decet" .
+sctar:cice-l1t14-Dd1e169 sctap:incipit "Praeterea licet ad" .
+sctar:cice-l1t14-Dd1e184 sctap:incipit "Quaeris a nobis" .
+sctar:cice-l1t14-Dd1e199 sctap:incipit "Ad aures nostras" .
+sctar:cice-l1t14-Dd1e214 sctap:incipit "Cum bonae memoriae" .
+sctar:cice-l1t14-Dd1e229 sctap:incipit "A multis multotiens" .
+sctar:cice-l1t14-Dd1e244 sctap:incipit "Tuam in Domino" .
+sctar:cice-l1t14-Dd1e260 sctap:incipit "Cum contingat interdum" .
+sctar:cice-l1t14-Dd1e275 sctap:incipit "Intelleximus quod" .
+sctar:cice-l1t14-Dd1e290 sctap:incipit "Accepimus te nostris" .
+sctar:cice-l1t14-Dd1e305 sctap:incipit "Cum sit ars" .
+sctar:cice-l1t14-Dd1e320 sctap:incipit "Quamvis multa proposita" .
+sctar:cice-l1t15-Dd1e108 sctap:incipit "Cum venisset" .
+sctar:cice-l1t16-Dd1e108 sctap:incipit "Pastoralis officii" .
+sctar:cice-l1t16-Dd1e123 sctap:incipit "A nobis humiliter" .
+sctar:cice-l1t16-Dd1e138 sctap:incipit "Presbyter et diaconus" .
+sctar:cice-l1t17-Dd1e108 sctap:incipit "Ut filii presbyterorum" .
+sctar:cice-l1t17-Dd1e123 sctap:incipit "Ad praesentiam nostram" .
+sctar:cice-l1t17-Dd1e138 sctap:incipit "Praesentium auctoritate iubemus" .
+sctar:cice-l1t17-Dd1e153 sctap:incipit "Conquerente nobis M." .
+sctar:cice-l1t17-Dd1e169 sctap:incipit "Veniens ad praesentiam" .
+sctar:cice-l1t17-Dd1e184 sctap:incipit "Proposuit nobis R." .
+sctar:cice-l1t17-Dd1e199 sctap:incipit "Ex transmissa conquestione" .
+sctar:cice-l1t17-Dd1e214 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l1t17-Dd1e229 sctap:incipit "Ex tua nobis" .
+sctar:cice-l1t17-Dd1e244 sctap:incipit "Quoniam est sacris" .
+sctar:cice-l1t17-Dd1e260 sctap:incipit "Ad extirpandas successiones" .
+sctar:cice-l1t17-Dd1e275 sctap:incipit "Ad haec ex" .
+sctar:cice-l1t17-Dd1e290 sctap:incipit "Michael presbyter" .
+sctar:cice-l1t17-Dd1e305 sctap:incipit "Litteras" .
+sctar:cice-l1t17-Dd1e320 sctap:incipit "Cum decorem domus" .
+sctar:cice-l1t17-Dd1e335 sctap:incipit "Ad abolendam pessimam" .
+sctar:cice-l1t17-Dd1e351 sctap:incipit "Dilectus filius G." .
+sctar:cice-l1t17-Dd1e366 sctap:incipit "Nimis in tua" .
+sctar:cice-l1t18-Dd1e108 sctap:incipit "Instruendi" .
+sctar:cice-l1t18-Dd1e123 sctap:incipit "De servorum ordinatione" .
+sctar:cice-l1t18-Dd1e138 sctap:incipit "De famulis ecclesiae" .
+sctar:cice-l1t18-Dd1e153 sctap:incipit "Nullus in ecclesia" .
+sctar:cice-l1t18-Dd1e169 sctap:incipit "Consuluit" .
+sctar:cice-l1t18-Dd1e184 sctap:incipit "Eo libentius" .
+sctar:cice-l1t18-Dd1e199 sctap:incipit "Miramur non modicum" .
+sctar:cice-l1t18-Dd1e214 sctap:incipit "Dilectus filius G." .
+sctar:cice-l1t19-Dd1e108 sctap:incipit "Magnus episcopus Augustensis" .
+sctar:cice-l1t20-Dd1e108 sctap:incipit "De presbytero Campaniae" .
+sctar:cice-l1t20-Dd1e123 sctap:incipit "Cum de tua" .
+sctar:cice-l1t20-Dd1e138 sctap:incipit "Ex parte Bartholomaei" .
+sctar:cice-l1t20-Dd1e153 sctap:incipit "Significavit nobis R." .
+sctar:cice-l1t20-Dd1e169 sctap:incipit "Ex parte M." .
+sctar:cice-l1t20-Dd1e184 sctap:incipit "Exposuisti nobis quod" .
+sctar:cice-l1t20-Dd1e199 sctap:incipit "Thomas Monachus proposuit" .
+sctar:cice-l1t21-Dd1e108 sctap:incipit "Ut bigami" .
+sctar:cice-l1t21-Dd1e123 sctap:incipit "Super eo quod" .
+sctar:cice-l1t21-Dd1e138 sctap:incipit "De bigamis presbyteris" .
+sctar:cice-l1t21-Dd1e153 sctap:incipit "Nuper a nobis" .
+sctar:cice-l1t21-Dd1e169 sctap:incipit "Debitum pastoralis officii" .
+sctar:cice-l1t21-Dd1e184 sctap:incipit "Quia circa minima" .
+sctar:cice-l1t21-Dd1e199 sctap:incipit "A nobis fuit" .
+sctar:cice-l1t22-Dd1e108 sctap:incipit "Tua nos duxit" .
+sctar:cice-l1t22-Dd1e123 sctap:incipit "Inter quatuor" .
+sctar:cice-l1t22-Dd1e138 sctap:incipit "Tuae fraternitatis" .
+sctar:cice-l1t22-Dd1e153 sctap:incipit "Te nobis proponente" .
+sctar:cice-l1t23-Dd1e108 sctap:incipit "Ut archidiaconus post" .
+sctar:cice-l1t23-Dd1e123 sctap:incipit "Officium vero archidiaconi" .
+sctar:cice-l1t23-Dd1e138 sctap:incipit "Ea quae contra" .
+sctar:cice-l1t23-Dd1e153 sctap:incipit "Cum satis sit" .
+sctar:cice-l1t23-Dd1e169 sctap:incipit "Archidiaconis non videtur" .
+sctar:cice-l1t23-Dd1e184 sctap:incipit "Mandamus quatenus prohibeatis" .
+sctar:cice-l1t23-Dd1e199 sctap:incipit "Ad haec non/Ad hoc non" .
+sctar:cice-l1t23-Dd1e214 sctap:incipit "Significasti" .
+sctar:cice-l1t23-Dd1e229 sctap:incipit "Ut nostrum" .
+sctar:cice-l1t23-Dd1e244 sctap:incipit "Dilecto filio" .
+sctar:cice-l1t24-Dd1e108 sctap:incipit "Ut archiprebyter" .
+sctar:cice-l1t24-Dd1e123 sctap:incipit "Ministerium archipresbyteri" .
+sctar:cice-l1t24-Dd1e138 sctap:incipit "Officium archipresbyteri" .
+sctar:cice-l1t24-Dd1e153 sctap:incipit "Ut singulae plebes" .
+sctar:cice-l1t25-Dd1e108 sctap:incipit "Ut primicerius sciat" .
+sctar:cice-l1t26-Dd1e108 sctap:incipit "Ut sciat se" .
+sctar:cice-l1t27-Dd1e108 sctap:incipit "Custos ecclesiae" .
+sctar:cice-l1t27-Dd1e123 sctap:incipit "Custos sollicitus" .
+sctar:cice-l1t28-Dd1e108 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l1t28-Dd1e123 sctap:incipit "Provideas attentius" .
+sctar:cice-l1t28-Dd1e138 sctap:incipit "Ad haec si/Ad hoc si" .
+sctar:cice-l1t28-Dd1e153 sctap:incipit "Clericos in presbyteratu" .
+sctar:cice-l1t28-Dd1e169 sctap:incipit "Sua nobis" .
+sctar:cice-l1t28-Dd1e184 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t29-Dd1e108 sctap:incipit "Quia circa minima" .
+sctar:cice-l1t29-Dd1e123 sctap:incipit "Sane si a" .
+sctar:cice-l1t29-Dd1e138 sctap:incipit "Si pro debilitate" .
+sctar:cice-l1t29-Dd1e153 sctap:incipit "De causis quae" .
+sctar:cice-l1t29-Dd1e169 sctap:incipit "Praeterea super hoc" .
+sctar:cice-l1t29-Dd1e184 sctap:incipit "Quamvis simus" .
+sctar:cice-l1t29-Dd1e199 sctap:incipit "Significasti nobis" .
+sctar:cice-l1t29-Dd1e214 sctap:incipit "Si quando clerici" .
+sctar:cice-l1t29-Dd1e229 sctap:incipit "In litteris" .
+sctar:cice-l1t29-Dd1e244 sctap:incipit "Consultationibus" .
+sctar:cice-l1t29-Dd1e260 sctap:incipit "Sane quia nos" .
+sctar:cice-l1t29-Dd1e275 sctap:incipit "Ex parte N." .
+sctar:cice-l1t29-Dd1e290 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t29-Dd1e305 sctap:incipit "Quoniam abbas Leicestriae" .
+sctar:cice-l1t29-Dd1e320 sctap:incipit "Super eo vero" .
+sctar:cice-l1t29-Dd1e335 sctap:incipit "Causam matrimonii" .
+sctar:cice-l1t29-Dd1e351 sctap:incipit "Causam quae inter" .
+sctar:cice-l1t29-Dd1e366 sctap:incipit "Cum te consulente" .
+sctar:cice-l1t29-Dd1e381 sctap:incipit "Relatum est" .
+sctar:cice-l1t29-Dd1e396 sctap:incipit "Gratum gerimus" .
+sctar:cice-l1t29-Dd1e411 sctap:incipit "Prudentiam tuam" .
+sctar:cice-l1t29-Dd1e426 sctap:incipit "Cum causa quae" .
+sctar:cice-l1t29-Dd1e442 sctap:incipit "Cum super abbatia" .
+sctar:cice-l1t29-Dd1e457 sctap:incipit "Consuluit nos tua" .
+sctar:cice-l1t29-Dd1e472 sctap:incipit "Insinuante sancti Saldati litteris" .
+sctar:cice-l1t29-Dd1e487 sctap:incipit "Quaerenti quid per" .
+sctar:cice-l1t29-Dd1e502 sctap:incipit "Super quaestionum articulis" .
+sctar:cice-l1t29-Dd1e517 sctap:incipit "Pastoralis officii" .
+sctar:cice-l1t29-Dd1e533 sctap:incipit "Ex litteris patriarchae" .
+sctar:cice-l1t29-Dd1e548 sctap:incipit "Licet undique" .
+sctar:cice-l1t29-Dd1e563 sctap:incipit "Cum in iure" .
+sctar:cice-l1t29-Dd1e578 sctap:incipit "Cum olim abbas" .
+sctar:cice-l1t29-Dd1e593 sctap:incipit "Cum olim magister" .
+sctar:cice-l1t29-Dd1e608 sctap:incipit "Coram dilecto filio" .
+sctar:cice-l1t29-Dd1e624 sctap:incipit "Cum R. canonicus" .
+sctar:cice-l1t29-Dd1e639 sctap:incipit "Cum contingat interdum" .
+sctar:cice-l1t29-Dd1e654 sctap:incipit "Venerabili fratri nostro" .
+sctar:cice-l1t29-Dd1e669 sctap:incipit "Significantibus M. muliere" .
+sctar:cice-l1t29-Dd1e684 sctap:incipit "Suspicionis causa contra" .
+sctar:cice-l1t29-Dd1e699 sctap:incipit "P. et G." .
+sctar:cice-l1t29-Dd1e715 sctap:incipit "Cum vigesimum/Cum vicesimum" .
+sctar:cice-l1t29-Dd1e730 sctap:incipit "Uno delegatorum" .
+sctar:cice-l1t29-Dd1e745 sctap:incipit "Quoniam apostolica sedes" .
+sctar:cice-l1t30-Dd1e108 sctap:incipit "Cum non ignoretis" .
+sctar:cice-l1t30-Dd1e123 sctap:incipit "Studuisti" .
+sctar:cice-l1t30-Dd1e141 sctap:incipit "Nisi specialis illa" .
+sctar:cice-l1t30-Dd1e156 sctap:incipit "Quod translationem" .
+sctar:cice-l1t30-Dd1e172 sctap:incipit "Licet Tranenses canonici" .
+sctar:cice-l1t30-Dd1e187 sctap:incipit "Dilectus filius R." .
+sctar:cice-l1t30-Dd1e202 sctap:incipit "Novit ille qui" .
+sctar:cice-l1t30-Dd1e217 sctap:incipit "Volentes" .
+sctar:cice-l1t30-Dd1e232 sctap:incipit "Excommunicatis pro iniectione" .
+sctar:cice-l1t30-Dd1e247 sctap:incipit "Nemini dubium esse" .
+sctar:cice-l1t31-Dd1e108 sctap:incipit "Perniciosa" .
+sctar:cice-l1t31-Dd1e123 sctap:incipit "Si sacerdos sciat" .
+sctar:cice-l1t31-Dd1e138 sctap:incipit "Cum ab ecclesiarum" .
+sctar:cice-l1t31-Dd1e153 sctap:incipit "Cum vos plerumque" .
+sctar:cice-l1t31-Dd1e169 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t31-Dd1e184 sctap:incipit "Significavit nobis" .
+sctar:cice-l1t31-Dd1e199 sctap:incipit "Quanto devotio religiosorum" .
+sctar:cice-l1t31-Dd1e214 sctap:incipit "Ad reprimendam malitiam" .
+sctar:cice-l1t31-Dd1e229 sctap:incipit "Duo simul" .
+sctar:cice-l1t31-Dd1e244 sctap:incipit "Quod sedem apostolicam" .
+sctar:cice-l1t31-Dd1e260 sctap:incipit "Pastoralis officii" .
+sctar:cice-l1t31-Dd1e275 sctap:incipit "Licet in corrigendis" .
+sctar:cice-l1t31-Dd1e290 sctap:incipit "Irrefragabili constitutione" .
+sctar:cice-l1t31-Dd1e305 sctap:incipit "Quoniam in plerisque" .
+sctar:cice-l1t31-Dd1e320 sctap:incipit "Inter caetera quae" .
+sctar:cice-l1t31-Dd1e335 sctap:incipit "Conquerente economo" .
+sctar:cice-l1t31-Dd1e351 sctap:incipit "Ut iuxta" .
+sctar:cice-l1t31-Dd1e366 sctap:incipit "Dilectus filius abbas" .
+sctar:cice-l1t31-Dd1e381 sctap:incipit "Grave gerimus" .
+sctar:cice-l1t31-Dd1e396 sctap:incipit "His quibus ex/Eis quibus ex" .
+sctar:cice-l1t32-Dd1e108 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l1t32-Dd1e123 sctap:incipit "Iudicis officium" .
+sctar:cice-l1t33-Dd1e108 sctap:incipit "Cum certum" .
+sctar:cice-l1t33-Dd1e123 sctap:incipit "Si quis venerit" .
+sctar:cice-l1t33-Dd1e138 sctap:incipit "Legebatur in litteris" .
+sctar:cice-l1t33-Dd1e153 sctap:incipit "Omnes principes terrae" .
+sctar:cice-l1t33-Dd1e169 sctap:incipit "Illud Dominus in" .
+sctar:cice-l1t33-Dd1e184 sctap:incipit "Solitae benignitatis affectu" .
+sctar:cice-l1t33-Dd1e199 sctap:incipit "Per tuas nobis" .
+sctar:cice-l1t33-Dd1e214 sctap:incipit "Inter quatuor" .
+sctar:cice-l1t33-Dd1e229 sctap:incipit "Quod super his" .
+sctar:cice-l1t33-Dd1e244 sctap:incipit "Cum in ecclesiis" .
+sctar:cice-l1t33-Dd1e260 sctap:incipit "His quae pro" .
+sctar:cice-l1t33-Dd1e275 sctap:incipit "Dilecta in Christo" .
+sctar:cice-l1t33-Dd1e290 sctap:incipit "Dilecti filii archidiaconus" .
+sctar:cice-l1t33-Dd1e305 sctap:incipit "Cum olim causa" .
+sctar:cice-l1t33-Dd1e320 sctap:incipit "Statuimus ut presbyteri" .
+sctar:cice-l1t33-Dd1e335 sctap:incipit "Cum inferior superiorem" .
+sctar:cice-l1t33-Dd1e351 sctap:incipit "Humilis doctrina magistra" .
+sctar:cice-l1t34-Dd1e108 sctap:incipit "Treugas a quarta" .
+sctar:cice-l1t34-Dd1e123 sctap:incipit "Innovamus ut presbyteri" .
+sctar:cice-l1t35-Dd1e108 sctap:incipit "Antigonus episcopus dixit" .
+sctar:cice-l1t35-Dd1e123 sctap:incipit "Quoties in conventionibus" .
+sctar:cice-l1t35-Dd1e138 sctap:incipit "Qualiter in Sardinia" .
+sctar:cice-l1t35-Dd1e153 sctap:incipit "Cum pridem S." .
+sctar:cice-l1t35-Dd1e169 sctap:incipit "Accepimus quod quaedam" .
+sctar:cice-l1t35-Dd1e181 sctap:incipit "Cum clerici vestrae" .
+sctar:cice-l1t35-Dd1e196 sctap:incipit "Plerique sicut accepimus" .
+sctar:cice-l1t35-Dd1e211 sctap:incipit "Pactiones factae a" .
+sctar:cice-l1t36-Dd1e108 sctap:incipit "Sicut grave" .
+sctar:cice-l1t36-Dd1e123 sctap:incipit "Statuimus ut si" .
+sctar:cice-l1t36-Dd1e138 sctap:incipit "Contingit interdum" .
+sctar:cice-l1t36-Dd1e153 sctap:incipit "Constitutus in nostra" .
+sctar:cice-l1t36-Dd1e169 sctap:incipit "De caetero noveris" .
+sctar:cice-l1t36-Dd1e184 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l1t36-Dd1e199 sctap:incipit "Super eo quod" .
+sctar:cice-l1t36-Dd1e214 sctap:incipit "Veniens ad apostolicae" .
+sctar:cice-l1t36-Dd1e229 sctap:incipit "Praeterea quando inter" .
+sctar:cice-l1t36-Dd1e244 sctap:incipit "Praeterea quarta loco" .
+sctar:cice-l1t36-Dd1e260 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t37-Dd1e108 sctap:incipit "Clerici in subdiaconatu" .
+sctar:cice-l1t37-Dd1e123 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t37-Dd1e138 sctap:incipit "Cum sacerdotis sit" .
+sctar:cice-l1t38-Dd1e108 sctap:incipit "Alia quidem" .
+sctar:cice-l1t38-Dd1e123 sctap:incipit "Querelam A. clerici" .
+sctar:cice-l1t38-Dd1e138 sctap:incipit "Ex insinuatione archidiaconi" .
+sctar:cice-l1t38-Dd1e153 sctap:incipit "In nostra praesentia" .
+sctar:cice-l1t38-Dd1e169 sctap:incipit "Tuae fraternitatis" .
+sctar:cice-l1t38-Dd1e184 sctap:incipit "Cum pro causa" .
+sctar:cice-l1t38-Dd1e199 sctap:incipit "Quia in causis" .
+sctar:cice-l1t38-Dd1e214 sctap:incipit "Auditis et intellectis" .
+sctar:cice-l1t38-Dd1e229 sctap:incipit "Petitio vestra nobis" .
+sctar:cice-l1t38-Dd1e244 sctap:incipit "Accedens ad apostolicam" .
+sctar:cice-l1t38-Dd1e260 sctap:incipit "Dilectus filius magister" .
+sctar:cice-l1t38-Dd1e275 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l1t38-Dd1e290 sctap:incipit "Mandato procuratoris" .
+sctar:cice-l1t38-Dd1e305 sctap:incipit "Non iniuste iudex" .
+sctar:cice-l1t38-Dd1e320 sctap:incipit "Consulti sumus an" .
+sctar:cice-l1t39-Dd1e108 sctap:incipit "Sicut studii nostri" .
+sctar:cice-l1t40-Dd1e108 sctap:incipit "Perlatum est ad" .
+sctar:cice-l1t40-Dd1e123 sctap:incipit "Abbas Sancti Cadmundi" .
+sctar:cice-l1t40-Dd1e138 sctap:incipit "Ad aures nostras" .
+sctar:cice-l1t40-Dd1e153 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l1t40-Dd1e169 sctap:incipit "Abbas Sancti Cadmundi" .
+sctar:cice-l1t40-Dd1e184 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l1t40-Dd1e199 sctap:incipit "Super eo quod" .
+sctar:cice-l1t41-Dd1e108 sctap:incipit "Requisivit tua fraternitas" .
+sctar:cice-l1t41-Dd1e123 sctap:incipit "Cum venissent ad" .
+sctar:cice-l1t41-Dd1e138 sctap:incipit "Auditis et intellectis" .
+sctar:cice-l1t41-Dd1e153 sctap:incipit "Ex litteris abbatis" .
+sctar:cice-l1t41-Dd1e169 sctap:incipit "Tum ex litteris/Cum ex litteris" .
+sctar:cice-l1t41-Dd1e184 sctap:incipit "Suscitata super diversis" .
+sctar:cice-l1t41-Dd1e199 sctap:incipit "Coram felicis memoriae" .
+sctar:cice-l1t41-Dd1e214 sctap:incipit "Constitutus in nostra" .
+sctar:cice-l1t41-Dd1e229 sctap:incipit "Causa restitutionis" .
+sctar:cice-l1t41-Dd1e244 sctap:incipit "Beneficio restitutionis" .
+sctar:cice-l1t42-Dd1e108 sctap:incipit "Ex quorundam relatione" .
+sctar:cice-l1t42-Dd1e123 sctap:incipit "Ex parte scabinorum" .
+sctar:cice-l1t43-Dd1e108 sctap:incipit "Sane" .
+sctar:cice-l1t43-Dd1e123 sctap:incipit "Non sine multa" .
+sctar:cice-l1t43-Dd1e138 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l1t43-Dd1e153 sctap:incipit "Dilecti filii abbas" .
+sctar:cice-l1t43-Dd1e169 sctap:incipit "Cum tempore C." .
+sctar:cice-l1t43-Dd1e184 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l1t43-Dd1e199 sctap:incipit "Cum olim super" .
+sctar:cice-l1t43-Dd1e214 sctap:incipit "Contingit interdum" .
+sctar:cice-l1t43-Dd1e229 sctap:incipit "Per tuas litteras" .
+sctar:cice-l1t43-Dd1e244 sctap:incipit "Ex parte tua" .
+sctar:cice-l1t43-Dd1e260 sctap:incipit "Exposita nobis" .
+sctar:cice-l1t43-Dd1e275 sctap:incipit "Innotuit nobis" .
+sctar:cice-l1t43-Dd1e290 sctap:incipit "Cum a nobis" .
+sctar:cice-l1t43-Dd1e305 sctap:incipit "Compromissum" .
+sctar:cice-l2t1-Dd1e108 sctap:incipit "De Quodvultdeo" .
+sctar:cice-l2t1-Dd1e123 sctap:incipit "Decernimus ut laici" .
+sctar:cice-l2t1-Dd1e138 sctap:incipit "Quanto divina gratia" .
+sctar:cice-l2t1-Dd1e153 sctap:incipit "At si clerici" .
+sctar:cice-l2t1-Dd1e169 sctap:incipit "Caeterum quia" .
+sctar:cice-l2t1-Dd1e184 sctap:incipit "Dilecti filii prior" .
+sctar:cice-l2t1-Dd1e199 sctap:incipit "Intelleximus" .
+sctar:cice-l2t1-Dd1e214 sctap:incipit "Clerici" .
+sctar:cice-l2t1-Dd1e229 sctap:incipit "Causam quae vertitur" .
+sctar:cice-l2t1-Dd1e244 sctap:incipit "Cum non ab" .
+sctar:cice-l2t1-Dd1e260 sctap:incipit "Quia V. qui/Quia W. qui" .
+sctar:cice-l2t1-Dd1e275 sctap:incipit "Cum venissent" .
+sctar:cice-l2t1-Dd1e290 sctap:incipit "Novit ille qui" .
+sctar:cice-l2t1-Dd1e305 sctap:incipit "Pastoralis" .
+sctar:cice-l2t1-Dd1e320 sctap:incipit "Examinata causa quae" .
+sctar:cice-l2t1-Dd1e335 sctap:incipit "Cum deputati" .
+sctar:cice-l2t1-Dd1e351 sctap:incipit "Qualiter et quando" .
+sctar:cice-l2t1-Dd1e366 sctap:incipit "Causam quae inter" .
+sctar:cice-l2t1-Dd1e381 sctap:incipit "Exhibita nobis R." .
+sctar:cice-l2t1-Dd1e396 sctap:incipit "Venerabilis frater noster" .
+sctar:cice-l2t1-Dd1e411 sctap:incipit "Significaverunt nobis olim" .
+sctar:cice-l2t2-Dd1e108 sctap:incipit "Si quis clericus" .
+sctar:cice-l2t2-Dd1e123 sctap:incipit "Nullus iudicium" .
+sctar:cice-l2t2-Dd1e138 sctap:incipit "Sane si episcopi" .
+sctar:cice-l2t2-Dd1e153 sctap:incipit "Si quis contra" .
+sctar:cice-l2t2-Dd1e169 sctap:incipit "Si clericus laicum" .
+sctar:cice-l2t2-Dd1e184 sctap:incipit "Ex transmissa nobis" .
+sctar:cice-l2t2-Dd1e199 sctap:incipit "Verum quoniam de" .
+sctar:cice-l2t2-Dd1e214 sctap:incipit "Cum sit generalis" .
+sctar:cice-l2t2-Dd1e229 sctap:incipit "Quod clericis" .
+sctar:cice-l2t2-Dd1e244 sctap:incipit "Licet ex suscepto" .
+sctar:cice-l2t2-Dd1e260 sctap:incipit "Ex tenore litterarum" .
+sctar:cice-l2t2-Dd1e275 sctap:incipit "Si diligenti" .
+sctar:cice-l2t2-Dd1e290 sctap:incipit "Cum contingat interdum" .
+sctar:cice-l2t2-Dd1e305 sctap:incipit "Postulasti per sedem" .
+sctar:cice-l2t2-Dd1e320 sctap:incipit "Ex parte B." .
+sctar:cice-l2t2-Dd1e335 sctap:incipit "Conquestus est nobis" .
+sctar:cice-l2t2-Dd1e351 sctap:incipit "Dilecti filii I." .
+sctar:cice-l2t2-Dd1e366 sctap:incipit "Significasti nobis quod" .
+sctar:cice-l2t2-Dd1e381 sctap:incipit "Proposuisti nobis" .
+sctar:cice-l2t2-Dd1e396 sctap:incipit "Licet ratione delicti" .
+sctar:cice-l2t3-Dd1e108 sctap:incipit "Ignarus episcopus dixit" .
+sctar:cice-l2t3-Dd1e123 sctap:incipit "Significantibus T. et R." .
+sctar:cice-l2t3-Dd1e138 sctap:incipit "Dilecti filii fratres" .
+sctar:cice-l2t4-Dd1e108 sctap:incipit "Ex litteris" .
+sctar:cice-l2t4-Dd1e123 sctap:incipit "Prudentiam" .
+sctar:cice-l2t5-Dd1e108 sctap:incipit "Olim inter episcopum" .
+sctar:cice-l2t6-Dd1e108 sctap:incipit "Ad hoc Deus" .
+sctar:cice-l2t6-Dd1e123 sctap:incipit "Accedens" .
+sctar:cice-l2t6-Dd1e138 sctap:incipit "Tuae fraternitatis devotio" .
+sctar:cice-l2t6-Dd1e153 sctap:incipit "Accedens ad sedem" .
+sctar:cice-l2t6-Dd1e169 sctap:incipit "Quoniam frequenter" .
+sctar:cice-l2t7-Dd1e108 sctap:incipit "Inhaerentes vestigiis" .
+sctar:cice-l2t7-Dd1e123 sctap:incipit "Litteras" .
+sctar:cice-l2t7-Dd1e138 sctap:incipit "In pertractandis causis" .
+sctar:cice-l2t7-Dd1e153 sctap:incipit "Imperatorum" .
+sctar:cice-l2t7-Dd1e169 sctap:incipit "Caeterum quia novis" .
+sctar:cice-l2t7-Dd1e184 sctap:incipit "Cum causa quae" .
+sctar:cice-l2t7-Dd1e199 sctap:incipit "Cum in causa" .
+sctar:cice-l2t8-Dd1e108 sctap:incipit "Dilecti filii abbas" .
+sctar:cice-l2t8-Dd1e123 sctap:incipit "Praeterea quod" .
+sctar:cice-l2t8-Dd1e138 sctap:incipit "Litterae tuae ac" .
+sctar:cice-l2t8-Dd1e153 sctap:incipit "Exposuit nobis Bituricensis" .
+sctar:cice-l2t9-Dd1e108 sctap:incipit "Omnes dies dominicos" .
+sctar:cice-l2t9-Dd1e123 sctap:incipit "Quoniam in parte" .
+sctar:cice-l2t9-Dd1e138 sctap:incipit "Licet tam veteris" .
+sctar:cice-l2t9-Dd1e153 sctap:incipit "Capellanus tuus" .
+sctar:cice-l2t9-Dd1e169 sctap:incipit "Conquestus est nobis" .
+sctar:cice-l2t10-Dd1e108 sctap:incipit "Intelleximus ex litteris" .
+sctar:cice-l2t10-Dd1e123 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l2t10-Dd1e138 sctap:incipit "Tuam non credimus" .
+sctar:cice-l2t10-Dd1e153 sctap:incipit "Super spoliatione conventus" .
+sctar:cice-l2t11-Dd1e108 sctap:incipit "Consilium providentiae dici" .
+sctar:cice-l2t12-Dd1e108 sctap:incipit "Susceptis" .
+sctar:cice-l2t12-Dd1e123 sctap:incipit "Ad ultimum interrogati" .
+sctar:cice-l2t12-Dd1e138 sctap:incipit "Cum ecclesia Sutrina" .
+sctar:cice-l2t12-Dd1e153 sctap:incipit "Cum super electione" .
+sctar:cice-l2t12-Dd1e169 sctap:incipit "Pastoralis officii" .
+sctar:cice-l2t12-Dd1e184 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l2t12-Dd1e199 sctap:incipit "Cum olim quaestio" .
+sctar:cice-l2t12-Dd1e214 sctap:incipit "In causa quae" .
+sctar:cice-l2t13-Dd1e108 sctap:incipit "Licet multum" .
+sctar:cice-l2t13-Dd1e123 sctap:incipit "Sollicite cures perquirere" .
+sctar:cice-l2t13-Dd1e138 sctap:incipit "Accepta conquestione P." .
+sctar:cice-l2t13-Dd1e153 sctap:incipit "Audita querela T." .
+sctar:cice-l2t13-Dd1e169 sctap:incipit "In litteris tuis" .
+sctar:cice-l2t13-Dd1e184 sctap:incipit "Item cum quis" .
+sctar:cice-l2t13-Dd1e199 sctap:incipit "Conquerente nobis R." .
+sctar:cice-l2t13-Dd1e214 sctap:incipit "Ex transmissa nobis" .
+sctar:cice-l2t13-Dd1e229 sctap:incipit "Cum venisset ad" .
+sctar:cice-l2t13-Dd1e244 sctap:incipit "Ex conquestione B." .
+sctar:cice-l2t13-Dd1e260 sctap:incipit "Gravis ad nos" .
+sctar:cice-l2t13-Dd1e275 sctap:incipit "Olim causam quae" .
+sctar:cice-l2t13-Dd1e290 sctap:incipit "Litteras tuas recepimus" .
+sctar:cice-l2t13-Dd1e305 sctap:incipit "Ex parte M." .
+sctar:cice-l2t13-Dd1e320 sctap:incipit "Cum ad sedem" .
+sctar:cice-l2t13-Dd1e335 sctap:incipit "Olim vobis dedisse" .
+sctar:cice-l2t13-Dd1e351 sctap:incipit "Olim inter te" .
+sctar:cice-l2t13-Dd1e366 sctap:incipit "Saepe contingit quod" .
+sctar:cice-l2t13-Dd1e381 sctap:incipit "Pisanis ac Lucanis" .
+sctar:cice-l2t14-Dd1e108 sctap:incipit "Ad haec cum" .
+sctar:cice-l2t14-Dd1e123 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l2t14-Dd1e138 sctap:incipit "Causam quae inter" .
+sctar:cice-l2t14-Dd1e153 sctap:incipit "Prout nobis" .
+sctar:cice-l2t14-Dd1e169 sctap:incipit "Finem litibus cupientes" .
+sctar:cice-l2t14-Dd1e184 sctap:incipit "Cum dilecti filii" .
+sctar:cice-l2t14-Dd1e199 sctap:incipit "Cum olim D." .
+sctar:cice-l2t14-Dd1e214 sctap:incipit "Veritatis est verbum" .
+sctar:cice-l2t14-Dd1e229 sctap:incipit "Contingit interdum" .
+sctar:cice-l2t14-Dd1e244 sctap:incipit "Venerabilis frater noster" .
+sctar:cice-l2t15-Dd1e108 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l2t15-Dd1e123 sctap:incipit "Cum sicut accepimus" .
+sctar:cice-l2t15-Dd1e138 sctap:incipit "Cum venissent" .
+sctar:cice-l2t15-Dd1e153 sctap:incipit "Si adversarius tuus" .
+sctar:cice-l2t16-Dd1e108 sctap:incipit "A memoria nostra" .
+sctar:cice-l2t16-Dd1e123 sctap:incipit "Laudabilem" .
+sctar:cice-l2t16-Dd1e138 sctap:incipit "Ecclesia sanctae Mariae" .
+sctar:cice-l2t16-Dd1e153 sctap:incipit "Ecclesia sanctae Mariae" .
+sctar:cice-l2t16-Dd1e169 sctap:incipit "Dilectus filius magister" .
+sctar:cice-l2t17-Dd1e108 sctap:incipit "Ad hoc unxit" .
+sctar:cice-l2t17-Dd1e123 sctap:incipit "Dilectus filius R." .
+sctar:cice-l2t17-Dd1e138 sctap:incipit "Ab eo qui" .
+sctar:cice-l2t18-Dd1e108 sctap:incipit "Cum monasterium" .
+sctar:cice-l2t18-Dd1e123 sctap:incipit "Cum super electione" .
+sctar:cice-l2t18-Dd1e138 sctap:incipit "Ex parte abbatis" .
+sctar:cice-l2t19-Dd1e108 sctap:incipit "Ex epistolae verbis" .
+sctar:cice-l2t19-Dd1e123 sctap:incipit "Sicut consuetudo laudabilis" .
+sctar:cice-l2t19-Dd1e138 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l2t19-Dd1e153 sctap:incipit "Proposuisti quod causa" .
+sctar:cice-l2t19-Dd1e169 sctap:incipit "Tertio loco fuit" .
+sctar:cice-l2t19-Dd1e184 sctap:incipit "Iuravit quidam" .
+sctar:cice-l2t19-Dd1e199 sctap:incipit "Post cessionem" .
+sctar:cice-l2t19-Dd1e214 sctap:incipit "In praesentia sancti" .
+sctar:cice-l2t19-Dd1e229 sctap:incipit "Licet causam quae" .
+sctar:cice-l2t19-Dd1e244 sctap:incipit "Per tuas nobis" .
+sctar:cice-l2t19-Dd1e260 sctap:incipit "Quoniam contra falsam" .
+sctar:cice-l2t19-Dd1e275 sctap:incipit "Ad nostram noveritis" .
+sctar:cice-l2t19-Dd1e290 sctap:incipit "Cum causa quae" .
+sctar:cice-l2t19-Dd1e305 sctap:incipit "Causam matrimonii quae" .
+sctar:cice-l2t19-Dd1e320 sctap:incipit "Cum bonae memoriae" .
+sctar:cice-l2t20-Dd1e108 sctap:incipit "Placuit sancto conventui" .
+sctar:cice-l2t20-Dd1e123 sctap:incipit "In nomine Domini" .
+sctar:cice-l2t20-Dd1e138 sctap:incipit "Quoniam aliqua nobis" .
+sctar:cice-l2t20-Dd1e153 sctap:incipit "In omni negotio" .
+sctar:cice-l2t20-Dd1e169 sctap:incipit "Quotiens aliqui propter" .
+sctar:cice-l2t20-Dd1e184 sctap:incipit "Insuper statuimus ut" .
+sctar:cice-l2t20-Dd1e199 sctap:incipit "Ex parte A." .
+sctar:cice-l2t20-Dd1e214 sctap:incipit "Si qui testium" .
+sctar:cice-l2t20-Dd1e229 sctap:incipit "Sicut nobis est" .
+sctar:cice-l2t20-Dd1e244 sctap:incipit "Veniens ad nos" .
+sctar:cice-l2t20-Dd1e260 sctap:incipit "Causam quae" .
+sctar:cice-l2t20-Dd1e275 sctap:incipit "Cum nuncius" .
+sctar:cice-l2t20-Dd1e290 sctap:incipit "Super eo quod" .
+sctar:cice-l2t20-Dd1e305 sctap:incipit "De caetero laicos" .
+sctar:cice-l2t20-Dd1e320 sctap:incipit "In causis ecclesiasticis" .
+sctar:cice-l2t20-Dd1e335 sctap:incipit "Cum tu fili" .
+sctar:cice-l2t20-Dd1e351 sctap:incipit "Fraternitatis tuae litteris" .
+sctar:cice-l2t20-Dd1e366 sctap:incipit "Intimavit R. presbyter" .
+sctar:cice-l2t20-Dd1e381 sctap:incipit "Causam quae vertitur" .
+sctar:cice-l2t20-Dd1e396 sctap:incipit "Personas ecclesiarum" .
+sctar:cice-l2t20-Dd1e411 sctap:incipit "Iudaei sive Sarraceni" .
+sctar:cice-l2t20-Dd1e426 sctap:incipit "Super eo quod" .
+sctar:cice-l2t20-Dd1e442 sctap:incipit "Licet universis" .
+sctar:cice-l2t20-Dd1e457 sctap:incipit "In litteris" .
+sctar:cice-l2t20-Dd1e472 sctap:incipit "Cum venisset ad" .
+sctar:cice-l2t20-Dd1e487 sctap:incipit "Series tui rescripti" .
+sctar:cice-l2t20-Dd1e502 sctap:incipit "Praeterea cum quis" .
+sctar:cice-l2t20-Dd1e517 sctap:incipit "Cum a nobis" .
+sctar:cice-l2t20-Dd1e533 sctap:incipit "De testibus" .
+sctar:cice-l2t20-Dd1e548 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l2t20-Dd1e563 sctap:incipit "Praesentium auctoritate statuimus" .
+sctar:cice-l2t20-Dd1e578 sctap:incipit "In nostra praesentia" .
+sctar:cice-l2t20-Dd1e593 sctap:incipit "Tam litteris vestris" .
+sctar:cice-l2t20-Dd1e608 sctap:incipit "Cum olim archidiaconus" .
+sctar:cice-l2t20-Dd1e624 sctap:incipit "Ex tenore vestrarum" .
+sctar:cice-l2t20-Dd1e639 sctap:incipit "Significaverunt nobis" .
+sctar:cice-l2t20-Dd1e654 sctap:incipit "Cum causam quae" .
+sctar:cice-l2t20-Dd1e669 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l2t20-Dd1e684 sctap:incipit "Tuis quaestionibus" .
+sctar:cice-l2t20-Dd1e699 sctap:incipit "Dilecto filio Ariensi" .
+sctar:cice-l2t20-Dd1e715 sctap:incipit "Significavit nobis" .
+sctar:cice-l2t20-Dd1e730 sctap:incipit "Cum causa quae" .
+sctar:cice-l2t20-Dd1e745 sctap:incipit "Albericus miles" .
+sctar:cice-l2t20-Dd1e760 sctap:incipit "Cum in tua" .
+sctar:cice-l2t20-Dd1e775 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l2t20-Dd1e790 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l2t20-Dd1e806 sctap:incipit "Licet ex quadam" .
+sctar:cice-l2t20-Dd1e821 sctap:incipit "Per tuas nobis" .
+sctar:cice-l2t20-Dd1e836 sctap:incipit "Licet dilectus filius" .
+sctar:cice-l2t20-Dd1e851 sctap:incipit "Praesentata nobis" .
+sctar:cice-l2t20-Dd1e866 sctap:incipit "Nuper nobis A." .
+sctar:cice-l2t20-Dd1e881 sctap:incipit "Venerabili fratre nostro" .
+sctar:cice-l2t20-Dd1e897 sctap:incipit "Cum clamor validus" .
+sctar:cice-l2t20-Dd1e912 sctap:incipit "Testimonium eius qui" .
+sctar:cice-l2t20-Dd1e927 sctap:incipit "Ultra tertiam productionem" .
+sctar:cice-l2t20-Dd1e942 sctap:incipit "Non debet quis" .
+sctar:cice-l2t21-Dd1e108 sctap:incipit "Causam matrimonii quae" .
+sctar:cice-l2t21-Dd1e123 sctap:incipit "Cum super causa" .
+sctar:cice-l2t21-Dd1e138 sctap:incipit "Super eo" .
+sctar:cice-l2t21-Dd1e153 sctap:incipit "Pervenit ad audientiam" .
+sctar:cice-l2t21-Dd1e169 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l2t21-Dd1e184 sctap:incipit "Caeterum quod super" .
+sctar:cice-l2t21-Dd1e199 sctap:incipit "Praeterea si testes" .
+sctar:cice-l2t21-Dd1e214 sctap:incipit "Super his" .
+sctar:cice-l2t21-Dd1e229 sctap:incipit "Cum contra magistrum" .
+sctar:cice-l2t21-Dd1e244 sctap:incipit "Dilectorum filiorum Vulterani" .
+sctar:cice-l2t21-Dd1e260 sctap:incipit "Venerabilis frater noster" .
+sctar:cice-l2t22-Dd1e108 sctap:incipit "Si scripturam authenticam" .
+sctar:cice-l2t22-Dd1e123 sctap:incipit "Scripta vero authentica" .
+sctar:cice-l2t22-Dd1e138 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l2t22-Dd1e153 sctap:incipit "Accepimus litteras" .
+sctar:cice-l2t22-Dd1e169 sctap:incipit "Contingit interdum" .
+sctar:cice-l2t22-Dd1e184 sctap:incipit "Inter dilectos filios" .
+sctar:cice-l2t22-Dd1e199 sctap:incipit "Quod super his" .
+sctar:cice-l2t22-Dd1e214 sctap:incipit "Pastoralis" .
+sctar:cice-l2t22-Dd1e229 sctap:incipit "Cum dilectus" .
+sctar:cice-l2t22-Dd1e244 sctap:incipit "Cum Ioannes" .
+sctar:cice-l2t22-Dd1e260 sctap:incipit "Ex parte carissimae" .
+sctar:cice-l2t22-Dd1e275 sctap:incipit "G. perpetuus vicarius" .
+sctar:cice-l2t22-Dd1e290 sctap:incipit "Imputari ei potest" .
+sctar:cice-l2t22-Dd1e305 sctap:incipit "Si cautio quam" .
+sctar:cice-l2t22-Dd1e320 sctap:incipit "Cum P. tabellio" .
+sctar:cice-l2t22-Dd1e335 sctap:incipit "Si intrumenta propter" .
+sctar:cice-l2t23-Dd1e108 sctap:incipit "Sicut noxius est" .
+sctar:cice-l2t23-Dd1e123 sctap:incipit "Afferte mihi gladium" .
+sctar:cice-l2t23-Dd1e138 sctap:incipit "Ex studiis suis" .
+sctar:cice-l2t23-Dd1e153 sctap:incipit "Nullus dubitat quod" .
+sctar:cice-l2t23-Dd1e169 sctap:incipit "Nonne bene dicimus" .
+sctar:cice-l2t23-Dd1e184 sctap:incipit "Mandata coelestia efficacius" .
+sctar:cice-l2t23-Dd1e199 sctap:incipit "Quosdam" .
+sctar:cice-l2t23-Dd1e214 sctap:incipit "Quanto" .
+sctar:cice-l2t23-Dd1e229 sctap:incipit "Scribam eis" .
+sctar:cice-l2t23-Dd1e244 sctap:incipit "Quia versimile non" .
+sctar:cice-l2t23-Dd1e260 sctap:incipit "Illud quoque nobis" .
+sctar:cice-l2t23-Dd1e275 sctap:incipit "Litteris tuae fraternitatis" .
+sctar:cice-l2t23-Dd1e290 sctap:incipit "Tertio loco quaestionis" .
+sctar:cice-l2t23-Dd1e305 sctap:incipit "Litteras vestras accepimus" .
+sctar:cice-l2t23-Dd1e320 sctap:incipit "Cum in iuventute" .
+sctar:cice-l2t23-Dd1e335 sctap:incipit "Dudum archidiacono Mediolanensi" .
+sctar:cice-l2t24-Dd1e108 sctap:incipit "Ex administrationis" .
+sctar:cice-l2t24-Dd1e123 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l2t24-Dd1e138 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l2t24-Dd1e153 sctap:incipit "Ego N. episcopus" .
+sctar:cice-l2t24-Dd1e169 sctap:incipit "Nullus episcopus clericos" .
+sctar:cice-l2t24-Dd1e184 sctap:incipit "Debitores ad solvendas" .
+sctar:cice-l2t24-Dd1e199 sctap:incipit "Ad nostram noveritis" .
+sctar:cice-l2t24-Dd1e214 sctap:incipit "Si vero aliquis" .
+sctar:cice-l2t24-Dd1e229 sctap:incipit "Ex rescripto quod" .
+sctar:cice-l2t24-Dd1e244 sctap:incipit "Querelam R. canonici" .
+sctar:cice-l2t24-Dd1e260 sctap:incipit "Tua nos duxit" .
+sctar:cice-l2t24-Dd1e275 sctap:incipit "Cum quidam" .
+sctar:cice-l2t24-Dd1e290 sctap:incipit "Sicut ex litteris" .
+sctar:cice-l2t24-Dd1e305 sctap:incipit "Veritatis amica simplicitas" .
+sctar:cice-l2t24-Dd1e320 sctap:incipit "Verum in ea" .
+sctar:cice-l2t24-Dd1e335 sctap:incipit "Veniens ad praesentiam" .
+sctar:cice-l2t24-Dd1e351 sctap:incipit "Brevi sciscitatus es" .
+sctar:cice-l2t24-Dd1e366 sctap:incipit "Quanto personam tuam" .
+sctar:cice-l2t24-Dd1e381 sctap:incipit "Venientes ad sedem" .
+sctar:cice-l2t24-Dd1e396 sctap:incipit "Ad nostram noveris" .
+sctar:cice-l2t24-Dd1e411 sctap:incipit "Ad nostram noveris" .
+sctar:cice-l2t24-Dd1e426 sctap:incipit "Ea te crediumus" .
+sctar:cice-l2t24-Dd1e442 sctap:incipit "Quintavallis nostris auribus" .
+sctar:cice-l2t24-Dd1e457 sctap:incipit "Tua nos duxit" .
+sctar:cice-l2t24-Dd1e472 sctap:incipit "Quemadmodum si vir" .
+sctar:cice-l2t24-Dd1e487 sctap:incipit "Etsi Christus" .
+sctar:cice-l2t24-Dd1e502 sctap:incipit "Sicut nostris est" .
+sctar:cice-l2t24-Dd1e517 sctap:incipit "Cum contingat interdum" .
+sctar:cice-l2t24-Dd1e533 sctap:incipit "Sicut" .
+sctar:cice-l2t24-Dd1e548 sctap:incipit "Nimis de iure" .
+sctar:cice-l2t24-Dd1e563 sctap:incipit "Petitio vestra nobis" .
+sctar:cice-l2t24-Dd1e578 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l2t24-Dd1e593 sctap:incipit "Intellecto iamdudum" .
+sctar:cice-l2t24-Dd1e608 sctap:incipit "Mulieri quae in" .
+sctar:cice-l2t24-Dd1e624 sctap:incipit "Clericus qui iuravit" .
+sctar:cice-l2t24-Dd1e639 sctap:incipit "Iuramentum a te" .
+sctar:cice-l2t25-Dd1e108 sctap:incipit "Denique quod in" .
+sctar:cice-l2t25-Dd1e123 sctap:incipit "A nobis ex" .
+sctar:cice-l2t25-Dd1e138 sctap:incipit "Cum ecclesiasticae provisionis" .
+sctar:cice-l2t25-Dd1e153 sctap:incipit "Pastoralis" .
+sctar:cice-l2t25-Dd1e169 sctap:incipit "Cum inter priorem" .
+sctar:cice-l2t25-Dd1e184 sctap:incipit "Cum venerabilis frater" .
+sctar:cice-l2t25-Dd1e199 sctap:incipit "Olim" .
+sctar:cice-l2t25-Dd1e214 sctap:incipit "Dilecti filii S." .
+sctar:cice-l2t25-Dd1e229 sctap:incipit "Apostolicae sedis" .
+sctar:cice-l2t25-Dd1e244 sctap:incipit "Dilectae in Christo" .
+sctar:cice-l2t25-Dd1e260 sctap:incipit "Significaverunt nobis" .
+sctar:cice-l2t25-Dd1e275 sctap:incipit "Exceptionem excommunicationis" .
+sctar:cice-l2t25-Dd1e290 sctap:incipit "Adversario tuo per" .
+sctar:cice-l2t25-Dd1e305 sctap:incipit "Venerabilem fratrem nostrum" .
+sctar:cice-l2t26-Dd1e108 sctap:incipit "Placuit ut si" .
+sctar:cice-l2t26-Dd1e123 sctap:incipit "Nihil prodest" .
+sctar:cice-l2t26-Dd1e138 sctap:incipit "Sanctorum Patrum sanctiones" .
+sctar:cice-l2t26-Dd1e153 sctap:incipit "De quarta decimae" .
+sctar:cice-l2t26-Dd1e169 sctap:incipit "Vigilanti studio cavendum" .
+sctar:cice-l2t26-Dd1e184 sctap:incipit "Ad aures nostras" .
+sctar:cice-l2t26-Dd1e199 sctap:incipit "Causam quae inter" .
+sctar:cice-l2t26-Dd1e214 sctap:incipit "Illud autem te" .
+sctar:cice-l2t26-Dd1e229 sctap:incipit "Quia indicante abbate" .
+sctar:cice-l2t26-Dd1e244 sctap:incipit "Ex transmissa conquestione" .
+sctar:cice-l2t26-Dd1e260 sctap:incipit "Accedentes ad praesentiam" .
+sctar:cice-l2t26-Dd1e275 sctap:incipit "Cum non liceat" .
+sctar:cice-l2t26-Dd1e290 sctap:incipit "Ad audientiam apostolatus" .
+sctar:cice-l2t26-Dd1e305 sctap:incipit "Cum vobis" .
+sctar:cice-l2t26-Dd1e320 sctap:incipit "Auditis et intellectis" .
+sctar:cice-l2t26-Dd1e335 sctap:incipit "Cum ex officii" .
+sctar:cice-l2t26-Dd1e351 sctap:incipit "Si diligenti" .
+sctar:cice-l2t26-Dd1e366 sctap:incipit "Cum olim frater" .
+sctar:cice-l2t26-Dd1e381 sctap:incipit "Veniens ad paresentiam" .
+sctar:cice-l2t26-Dd1e396 sctap:incipit "Quoniam omne quod" .
+sctar:cice-l2t27-Dd1e108 sctap:incipit "Sententia contra leges" .
+sctar:cice-l2t27-Dd1e123 sctap:incipit "Iurgantium controversias celeri" .
+sctar:cice-l2t27-Dd1e138 sctap:incipit "Non potest quemquam" .
+sctar:cice-l2t27-Dd1e153 sctap:incipit "Ea quae iuxta" .
+sctar:cice-l2t27-Dd1e169 sctap:incipit "De caetero noveris" .
+sctar:cice-l2t27-Dd1e184 sctap:incipit "Cum aliquibus est" .
+sctar:cice-l2t27-Dd1e199 sctap:incipit "Lator praesentium sua" .
+sctar:cice-l2t27-Dd1e214 sctap:incipit "Cum causa quae" .
+sctar:cice-l2t27-Dd1e229 sctap:incipit "Inter caeteras" .
+sctar:cice-l2t27-Dd1e244 sctap:incipit "Tenor litterarum tuarum" .
+sctar:cice-l2t27-Dd1e260 sctap:incipit "Consanguinei E. latricis" .
+sctar:cice-l2t27-Dd1e275 sctap:incipit "Cum olim Magalonensis" .
+sctar:cice-l2t27-Dd1e290 sctap:incipit "Cum inter vos" .
+sctar:cice-l2t27-Dd1e305 sctap:incipit "Causam quae inter" .
+sctar:cice-l2t27-Dd1e320 sctap:incipit "Quod ad consultationem" .
+sctar:cice-l2t27-Dd1e335 sctap:incipit "Sicut nobis cum" .
+sctar:cice-l2t27-Dd1e351 sctap:incipit "Cum super controversia" .
+sctar:cice-l2t27-Dd1e366 sctap:incipit "Cum Bertholdus miles" .
+sctar:cice-l2t27-Dd1e381 sctap:incipit "In causis quae" .
+sctar:cice-l2t27-Dd1e396 sctap:incipit "Inter monasterium sancti" .
+sctar:cice-l2t27-Dd1e411 sctap:incipit "Suborta inter Meldensem" .
+sctar:cice-l2t27-Dd1e426 sctap:incipit "Cum I. et A." .
+sctar:cice-l2t27-Dd1e442 sctap:incipit "Cum te a" .
+sctar:cice-l2t27-Dd1e457 sctap:incipit "Ad probandum quod" .
+sctar:cice-l2t27-Dd1e472 sctap:incipit "Quamvis regulariter aliis" .
+sctar:cice-l2t27-Dd1e487 sctap:incipit "Duobus iudicibus" .
+sctar:cice-l2t28-Dd1e108 sctap:incipit "Dilecti filii prior" .
+sctar:cice-l2t28-Dd1e123 sctap:incipit "Inter caetera" .
+sctar:cice-l2t28-Dd1e138 sctap:incipit "Ad nostram" .
+sctar:cice-l2t28-Dd1e153 sctap:incipit "Personas ecclesiarum" .
+sctar:cice-l2t28-Dd1e169 sctap:incipit "Cum sit Romana" .
+sctar:cice-l2t28-Dd1e184 sctap:incipit "Ad haec si" .
+sctar:cice-l2t28-Dd1e199 sctap:incipit "Si duobus coram" .
+sctar:cice-l2t28-Dd1e214 sctap:incipit "Ex ratione" .
+sctar:cice-l2t28-Dd1e229 sctap:incipit "Meminimus" .
+sctar:cice-l2t28-Dd1e244 sctap:incipit "Super eo quod" .
+sctar:cice-l2t28-Dd1e260 sctap:incipit "De appellationibus pro" .
+sctar:cice-l2t28-Dd1e275 sctap:incipit "Super eo" .
+sctar:cice-l2t28-Dd1e290 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l2t28-Dd1e305 sctap:incipit "Consuluit nos fraternitas" .
+sctar:cice-l2t28-Dd1e320 sctap:incipit "Suggestum est auribus" .
+sctar:cice-l2t28-Dd1e335 sctap:incipit "Ad praesentiam nostram" .
+sctar:cice-l2t28-Dd1e351 sctap:incipit "Cum teneamur" .
+sctar:cice-l2t28-Dd1e366 sctap:incipit "Consuluit nos fraternitas" .
+sctar:cice-l2t28-Dd1e381 sctap:incipit "Cum parati essemus" .
+sctar:cice-l2t28-Dd1e396 sctap:incipit "Ad haec" .
+sctar:cice-l2t28-Dd1e411 sctap:incipit "Quaestioni quam facis" .
+sctar:cice-l2t28-Dd1e426 sctap:incipit "Praeterea de his" .
+sctar:cice-l2t28-Dd1e442 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l2t28-Dd1e457 sctap:incipit "Proposuit nobis M." .
+sctar:cice-l2t28-Dd1e472 sctap:incipit "Qua fronte nos" .
+sctar:cice-l2t28-Dd1e487 sctap:incipit "Reprehensibilis" .
+sctar:cice-l2t28-Dd1e502 sctap:incipit "Ad haec" .
+sctar:cice-l2t28-Dd1e517 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l2t28-Dd1e533 sctap:incipit "Consuluit nos tua" .
+sctar:cice-l2t28-Dd1e548 sctap:incipit "Ad haec sicut" .
+sctar:cice-l2t28-Dd1e563 sctap:incipit "De priore" .
+sctar:cice-l2t28-Dd1e578 sctap:incipit "Quia nos" .
+sctar:cice-l2t28-Dd1e593 sctap:incipit "Ad aures nostras" .
+sctar:cice-l2t28-Dd1e608 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l2t28-Dd1e624 sctap:incipit "Accepta conquestione canonicorum" .
+sctar:cice-l2t28-Dd1e639 sctap:incipit "Postremo fraternitati tuae" .
+sctar:cice-l2t28-Dd1e654 sctap:incipit "Ad haec quoniam" .
+sctar:cice-l2t28-Dd1e669 sctap:incipit "Cum in ecclesia" .
+sctar:cice-l2t28-Dd1e684 sctap:incipit "Directae nobis tuae" .
+sctar:cice-l2t28-Dd1e699 sctap:incipit "Praeterea requisiti fuimus" .
+sctar:cice-l2t28-Dd1e715 sctap:incipit "Secundo requiris cum" .
+sctar:cice-l2t28-Dd1e730 sctap:incipit "An sit deferendum" .
+sctar:cice-l2t28-Dd1e745 sctap:incipit "Novit ille qui" .
+sctar:cice-l2t28-Dd1e760 sctap:incipit "Saepe contingit quod" .
+sctar:cice-l2t28-Dd1e775 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l2t28-Dd1e790 sctap:incipit "Constitutis in praesentia" .
+sctar:cice-l2t28-Dd1e806 sctap:incipit "Ex parte tua" .
+sctar:cice-l2t28-Dd1e821 sctap:incipit "Significavit nobis" .
+sctar:cice-l2t28-Dd1e836 sctap:incipit "Significantibus T. et R." .
+sctar:cice-l2t28-Dd1e851 sctap:incipit "Ex insinuatione prioris" .
+sctar:cice-l2t28-Dd1e866 sctap:incipit "Bonae memoriae O." .
+sctar:cice-l2t28-Dd1e881 sctap:incipit "Dilecti filii I." .
+sctar:cice-l2t28-Dd1e897 sctap:incipit "Patoralis officii diligentia" .
+sctar:cice-l2t28-Dd1e912 sctap:incipit "Sollicitudinem pastoralis officii" .
+sctar:cice-l2t28-Dd1e927 sctap:incipit "Dilectis fillis decano" .
+sctar:cice-l2t28-Dd1e942 sctap:incipit "Ut nostrum prodeat" .
+sctar:cice-l2t28-Dd1e957 sctap:incipit "Oblatae nobis vestrae" .
+sctar:cice-l2t28-Dd1e972 sctap:incipit "Per tuas litteras" .
+sctar:cice-l2t28-Dd1e988 sctap:incipit "Ut debitus honor" .
+sctar:cice-l2t28-Dd1e1003 sctap:incipit "Cum cessante causa" .
+sctar:cice-l2t28-Dd1e1018 sctap:incipit "Cum speciali sit" .
+sctar:cice-l2t28-Dd1e1033 sctap:incipit "Cum causam quae" .
+sctar:cice-l2t28-Dd1e1048 sctap:incipit "Dilecto filio G." .
+sctar:cice-l2t28-Dd1e1063 sctap:incipit "Nicolao militi ac" .
+sctar:cice-l2t28-Dd1e1079 sctap:incipit "Sua nobis R." .
+sctar:cice-l2t28-Dd1e1094 sctap:incipit "Dilecti filii prior" .
+sctar:cice-l2t28-Dd1e1109 sctap:incipit "Ex parte M." .
+sctar:cice-l2t28-Dd1e1124 sctap:incipit "Intimasti" .
+sctar:cice-l2t28-Dd1e1139 sctap:incipit "Significante Aurelianensi episcopo" .
+sctar:cice-l2t28-Dd1e1154 sctap:incipit "Interposita appellatione ex" .
+sctar:cice-l2t28-Dd1e1170 sctap:incipit "Inquisitioni tuae taliter" .
+sctar:cice-l2t28-Dd1e1185 sctap:incipit "Una sententia pluribus" .
+sctar:cice-l2t28-Dd1e1200 sctap:incipit "Si iustus metus" .
+sctar:cice-l2t29-Dd1e108 sctap:incipit "Conquerente I. presbytero" .
+sctar:cice-l2t30-Dd1e108 sctap:incipit "Si quis rei" .
+sctar:cice-l2t30-Dd1e123 sctap:incipit "De confirmationibus autm" .
+sctar:cice-l2t30-Dd1e138 sctap:incipit "Bonae memoriae A." .
+sctar:cice-l2t30-Dd1e153 sctap:incipit "Cum dilecta in" .
+sctar:cice-l2t30-Dd1e169 sctap:incipit "Ad nostram audientiam" .
+sctar:cice-l2t30-Dd1e184 sctap:incipit "Porrecta nobis ex" .
+sctar:cice-l2t30-Dd1e199 sctap:incipit "Examinata causa quae" .
+sctar:cice-l2t30-Dd1e214 sctap:incipit "Venerabilis frater noster" .
+sctar:cice-l2t30-Dd1e229 sctap:incipit "Sua nobis patriarcha" .
+sctar:cice-l3t1-Dd1e108 sctap:incipit "Ut laici secus" .
+sctar:cice-l3t1-Dd1e123 sctap:incipit "Clerici arma" .
+sctar:cice-l3t1-Dd1e135 sctap:incipit "Ut quisque presbyter" .
+sctar:cice-l3t1-Dd1e150 sctap:incipit "Si quis ex" .
+sctar:cice-l3t1-Dd1e163 sctap:incipit "Clericus neque comam" .
+sctar:cice-l3t1-Dd1e175 sctap:incipit "Clericus si tonsura" .
+sctar:cice-l3t1-Dd1e190 sctap:incipit "Clericis" .
+sctar:cice-l3t1-Dd1e205 sctap:incipit "Monasteria sanctimonialium si" .
+sctar:cice-l3t1-Dd1e220 sctap:incipit "Quoniam ut ait" .
+sctar:cice-l3t1-Dd1e235 sctap:incipit "Cum ab omni" .
+sctar:cice-l3t1-Dd1e251 sctap:incipit "Deus qui ecclesiam " .
+sctar:cice-l3t1-Dd1e266 sctap:incipit "Cum decorum domus" .
+sctar:cice-l3t1-Dd1e281 sctap:incipit "Ut clericorum mores" .
+sctar:cice-l3t1-Dd1e296 sctap:incipit "A crapula et" .
+sctar:cice-l3t1-Dd1e311 sctap:incipit "Clerici officia vel" .
+sctar:cice-l3t1-Dd1e326 sctap:incipit "Ex litteris Pontini" .
+sctar:cice-l3t2-Dd1e108 sctap:incipit "Inhibendum est ut" .
+sctar:cice-l3t2-Dd1e123 sctap:incipit "Si quisquam sacerdotum" .
+sctar:cice-l3t2-Dd1e138 sctap:incipit "Clericos in sacris" .
+sctar:cice-l3t2-Dd1e153 sctap:incipit "Sicut ad extirpanda" .
+sctar:cice-l3t2-Dd1e169 sctap:incipit "Super eo vero" .
+sctar:cice-l3t2-Dd1e184 sctap:incipit "Si autem clerici" .
+sctar:cice-l3t2-Dd1e199 sctap:incipit "Vestra duxit devotio" .
+sctar:cice-l3t2-Dd1e214 sctap:incipit "Tua nos duxit" .
+sctar:cice-l3t2-Dd1e229 sctap:incipit "A nobis tua" .
+sctar:cice-l3t2-Dd1e244 sctap:incipit "Quaesitum est de" .
+sctar:cice-l3t3-Dd1e108 sctap:incipit "Si qui clericorum" .
+sctar:cice-l3t3-Dd1e123 sctap:incipit "Sane" .
+sctar:cice-l3t3-Dd1e138 sctap:incipit "Quod a te" .
+sctar:cice-l3t3-Dd1e153 sctap:incipit "Sane sacerdotes illi" .
+sctar:cice-l3t3-Dd1e169 sctap:incipit "Diversis fallaciis" .
+sctar:cice-l3t3-Dd1e184 sctap:incipit "Cum olim ad" .
+sctar:cice-l3t3-Dd1e199 sctap:incipit "Ioannes nobis conquerendo" .
+sctar:cice-l3t3-Dd1e214 sctap:incipit "Cum decorem" .
+sctar:cice-l3t3-Dd1e229 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t3-Dd1e244 sctap:incipit "Ut consultationi tuae" .
+sctar:cice-l3t4-Dd1e108 sctap:incipit "Non liceat episcopo" .
+sctar:cice-l3t4-Dd1e123 sctap:incipit "Ex gestis" .
+sctar:cice-l3t4-Dd1e138 sctap:incipit "Quia nonnulli modum" .
+sctar:cice-l3t4-Dd1e153 sctap:incipit "Relatum est nobis" .
+sctar:cice-l3t4-Dd1e169 sctap:incipit "Fraternitati tuae" .
+sctar:cice-l3t4-Dd1e181 sctap:incipit "Conquerente nobis R." .
+sctar:cice-l3t4-Dd1e196 sctap:incipit "De caetero" .
+sctar:cice-l3t4-Dd1e211 sctap:incipit "Ex parte vestra" .
+sctar:cice-l3t4-Dd1e226 sctap:incipit "Qualiter archiepiscopus vester" .
+sctar:cice-l3t4-Dd1e241 sctap:incipit "Inter quatuor animalia" .
+sctar:cice-l3t4-Dd1e257 sctap:incipit "Ex tuae devotionis" .
+sctar:cice-l3t4-Dd1e272 sctap:incipit "Tuae fraternitatis discretio" .
+sctar:cice-l3t4-Dd1e287 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t4-Dd1e302 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l3t4-Dd1e317 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t4-Dd1e332 sctap:incipit "Cum ad hoc" .
+sctar:cice-l3t4-Dd1e348 sctap:incipit "Clericos in ecclesiis" .
+sctar:cice-l3t5-Dd1e108 sctap:incipit "Ut nullus de" .
+sctar:cice-l3t5-Dd1e123 sctap:incipit "Non liceat ulli" .
+sctar:cice-l3t5-Dd1e138 sctap:incipit "Ratio nulla permittit" .
+sctar:cice-l3t5-Dd1e153 sctap:incipit "Episcopus si aliquem" .
+sctar:cice-l3t5-Dd1e169 sctap:incipit "Quia in tantum" .
+sctar:cice-l3t5-Dd1e184 sctap:incipit "Cum teneamur" .
+sctar:cice-l3t5-Dd1e199 sctap:incipit "Referente I. presbytero" .
+sctar:cice-l3t5-Dd1e214 sctap:incipit "Maioribus ecclesiae beneficiis" .
+sctar:cice-l3t5-Dd1e229 sctap:incipit "Relatum est" .
+sctar:cice-l3t5-Dd1e244 sctap:incipit "Avaritiae quae est" .
+sctar:cice-l3t5-Dd1e260 sctap:incipit "Significatum est nobis" .
+sctar:cice-l3t5-Dd1e275 sctap:incipit "De monachis qui" .
+sctar:cice-l3t5-Dd1e290 sctap:incipit "Ad haec licet" .
+sctar:cice-l3t5-Dd1e305 sctap:incipit "Praeterea de G." .
+sctar:cice-l3t5-Dd1e320 sctap:incipit "Cum non ignores" .
+sctar:cice-l3t5-Dd1e335 sctap:incipit "Cum secundum Apostolum" .
+sctar:cice-l3t5-Dd1e351 sctap:incipit "Inter caetera" .
+sctar:cice-l3t5-Dd1e366 sctap:incipit "Cum iamdudum" .
+sctar:cice-l3t5-Dd1e381 sctap:incipit "Dilectus filius T." .
+sctar:cice-l3t5-Dd1e396 sctap:incipit "Tuae fraternitatis devotio" .
+sctar:cice-l3t5-Dd1e411 sctap:incipit "Nisi essent viri" .
+sctar:cice-l3t5-Dd1e426 sctap:incipit "Pro illorum provisione" .
+sctar:cice-l3t5-Dd1e442 sctap:incipit "Tuis quaestionibus respondemus" .
+sctar:cice-l3t5-Dd1e457 sctap:incipit "Accedens ad apostolicam" .
+sctar:cice-l3t5-Dd1e472 sctap:incipit "Dilecto filio P." .
+sctar:cice-l3t5-Dd1e487 sctap:incipit "Vacante quadam praebenda" .
+sctar:cice-l3t5-Dd1e502 sctap:incipit "Dilectus filius G." .
+sctar:cice-l3t5-Dd1e517 sctap:incipit "De multa providentia" .
+sctar:cice-l3t5-Dd1e533 sctap:incipit "Grave nimis est" .
+sctar:cice-l3t5-Dd1e548 sctap:incipit "Extirpandae consuetudinis vitium" .
+sctar:cice-l3t5-Dd1e563 sctap:incipit "In Lateranensi concilio" .
+sctar:cice-l3t5-Dd1e578 sctap:incipit "Licet vobis direxerimus" .
+sctar:cice-l3t5-Dd1e593 sctap:incipit "Exposuisti nobis quod" .
+sctar:cice-l3t5-Dd1e608 sctap:incipit "Dilectus filius G." .
+sctar:cice-l3t5-Dd1e624 sctap:incipit "Super inordinata ordinatione" .
+sctar:cice-l3t5-Dd1e639 sctap:incipit "Cum causam quae" .
+sctar:cice-l3t5-Dd1e654 sctap:incipit "Venerabilis frater noster" .
+sctar:cice-l3t5-Dd1e669 sctap:incipit "Cum olim priori" .
+sctar:cice-l3t6-Dd1e108 sctap:incipit "Cum percussio corporalis" .
+sctar:cice-l3t6-Dd1e123 sctap:incipit "Presbyterum cuius duos" .
+sctar:cice-l3t6-Dd1e138 sctap:incipit "De rectoribus ecclesiarum" .
+sctar:cice-l3t6-Dd1e153 sctap:incipit "Tua nos duxit" .
+sctar:cice-l3t6-Dd1e166 sctap:incipit "Ex parte fuit" .
+sctar:cice-l3t6-Dd1e181 sctap:incipit "Consultationibus" .
+sctar:cice-l3t7-Dd1e108 sctap:incipit "Non amplius" .
+sctar:cice-l3t7-Dd1e123 sctap:incipit "In ecclesia vestra" .
+sctar:cice-l3t7-Dd1e138 sctap:incipit "Ex frequentibus querelis" .
+sctar:cice-l3t7-Dd1e153 sctap:incipit "Auctoritate apostolicae sedis" .
+sctar:cice-l3t7-Dd1e169 sctap:incipit "Ad decorem" .
+sctar:cice-l3t7-Dd1e184 sctap:incipit "Cum venissent ad" .
+sctar:cice-l3t7-Dd1e199 sctap:incipit "Cum ad nostram" .
+sctar:cice-l3t8-Dd1e108 sctap:incipit "Qui in vivorum" .
+sctar:cice-l3t8-Dd1e123 sctap:incipit "Nulla ecclesiastica ministeria" .
+sctar:cice-l3t8-Dd1e138 sctap:incipit "Relatum est auribus" .
+sctar:cice-l3t8-Dd1e153 sctap:incipit "Proposuit nobis T." .
+sctar:cice-l3t8-Dd1e169 sctap:incipit "Quia diversitatem corporum" .
+sctar:cice-l3t8-Dd1e184 sctap:incipit "Cum nostris fuerit" .
+sctar:cice-l3t8-Dd1e199 sctap:incipit "Post electionem et" .
+sctar:cice-l3t8-Dd1e214 sctap:incipit "Cum super quaestione" .
+sctar:cice-l3t8-Dd1e229 sctap:incipit "Litteras vestras accepimus" .
+sctar:cice-l3t8-Dd1e244 sctap:incipit "Ex parte Astensis" .
+sctar:cice-l3t8-Dd1e260 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l3t8-Dd1e275 sctap:incipit "Dilectus filius magister" .
+sctar:cice-l3t8-Dd1e290 sctap:incipit "Ex tenore litterarum" .
+sctar:cice-l3t8-Dd1e305 sctap:incipit "Accedens ad apostolicam" .
+sctar:cice-l3t8-Dd1e320 sctap:incipit "Postulastis per sedem" .
+sctar:cice-l3t8-Dd1e335 sctap:incipit "Cum dilecta in" .
+sctar:cice-l3t9-Dd1e108 sctap:incipit "Novit ille qui" .
+sctar:cice-l3t9-Dd1e123 sctap:incipit "Illa devotionis sinceritas" .
+sctar:cice-l3t9-Dd1e138 sctap:incipit "Constitutis coram praedecessore" .
+sctar:cice-l3t10-Dd1e108 sctap:incipit "Irrita erit episcoporum" .
+sctar:cice-l3t10-Dd1e123 sctap:incipit "Continebatur" .
+sctar:cice-l3t10-Dd1e138 sctap:incipit "Cum nos iam" .
+sctar:cice-l3t10-Dd1e153 sctap:incipit "Novit tuae discretionis" .
+sctar:cice-l3t10-Dd1e169 sctap:incipit "Quanto" .
+sctar:cice-l3t10-Dd1e184 sctap:incipit "Ea noscitur" .
+sctar:cice-l3t10-Dd1e199 sctap:incipit "Cum apostolica sedes" .
+sctar:cice-l3t10-Dd1e214 sctap:incipit "Tua nuper" .
+sctar:cice-l3t10-Dd1e229 sctap:incipit "Pastoralis officii diligentia" .
+sctar:cice-l3t10-Dd1e244 sctap:incipit "Etsi membra corporis" .
+sctar:cice-l3t11-Dd1e108 sctap:incipit "Cum in cunctis" .
+sctar:cice-l3t11-Dd1e123 sctap:incipit "Quaesivit" .
+sctar:cice-l3t11-Dd1e138 sctap:incipit "Ex ore sedentis" .
+sctar:cice-l3t11-Dd1e153 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t12-Dd1e108 sctap:incipit "Ut nostrum prodeat" .
+sctar:cice-l3t13-Dd1e108 sctap:incipit "Non licet episcopo" .
+sctar:cice-l3t13-Dd1e123 sctap:incipit "Qui res ecclesiae" .
+sctar:cice-l3t13-Dd1e138 sctap:incipit "Consensus totius concilii" .
+sctar:cice-l3t13-Dd1e153 sctap:incipit "Episcopi qui nihil" .
+sctar:cice-l3t13-Dd1e169 sctap:incipit "Nulli liceat alienare" .
+sctar:cice-l3t13-Dd1e184 sctap:incipit "Si quis presbyterorum" .
+sctar:cice-l3t13-Dd1e199 sctap:incipit "Ad aures" .
+sctar:cice-l3t13-Dd1e214 sctap:incipit "Ut super aliqua" .
+sctar:cice-l3t13-Dd1e229 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t13-Dd1e244 sctap:incipit "Possessiones ad mensam" .
+sctar:cice-l3t13-Dd1e260 sctap:incipit "Ad nostram noveritis" .
+sctar:cice-l3t13-Dd1e275 sctap:incipit "Cum laicis quamvis" .
+sctar:cice-l3t14-Dd1e108 sctap:incipit "Precariae de quinquennio" .
+sctar:cice-l3t14-Dd1e123 sctap:incipit "De precariis irrationabiliter" .
+sctar:cice-l3t14-Dd1e138 sctap:incipit "Precarium utendum conceditur" .
+sctar:cice-l3t15-Dd1e108 sctap:incipit "Cum gratia sui" .
+sctar:cice-l3t16-Dd1e108 sctap:incipit "Gravis illa queremonia" .
+sctar:cice-l3t16-Dd1e123 sctap:incipit "Bona fides abesse" .
+sctar:cice-l3t17-Dd1e108 sctap:incipit "Placuit" .
+sctar:cice-l3t17-Dd1e123 sctap:incipit "Ut mensurae et" .
+sctar:cice-l3t17-Dd1e138 sctap:incipit "Cum dilecti filii" .
+sctar:cice-l3t17-Dd1e153 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l3t17-Dd1e169 sctap:incipit "Ad nostram noveris" .
+sctar:cice-l3t17-Dd1e184 sctap:incipit "Cum causa quae" .
+sctar:cice-l3t17-Dd1e199 sctap:incipit "Si venditori post" .
+sctar:cice-l3t18-Dd1e108 sctap:incipit "Ex recripto litterarum" .
+sctar:cice-l3t18-Dd1e123 sctap:incipit "Vestra nobis relatio" .
+sctar:cice-l3t18-Dd1e138 sctap:incipit "Propter sterilitatem" .
+sctar:cice-l3t18-Dd1e153 sctap:incipit "Potuit emphyteuta ecclesia" .
+sctar:cice-l3t19-Dd1e108 sctap:incipit "Si princeps voluerit" .
+sctar:cice-l3t19-Dd1e123 sctap:incipit "Ut commutationes rerum" .
+sctar:cice-l3t19-Dd1e138 sctap:incipit "Mancipia ecclesiastica nisi" .
+sctar:cice-l3t19-Dd1e153 sctap:incipit "Iniustum videtur et" .
+sctar:cice-l3t19-Dd1e169 sctap:incipit "Quaesitum est ex" .
+sctar:cice-l3t19-Dd1e184 sctap:incipit "Ad quaestiones solvendas" .
+sctar:cice-l3t19-Dd1e199 sctap:incipit "Cum olim magister" .
+sctar:cice-l3t19-Dd1e214 sctap:incipit "Cum universorum" .
+sctar:cice-l3t19-Dd1e229 sctap:incipit "Exhibita nobis" .
+sctar:cice-l3t20-Dd1e108 sctap:incipit "Insinuatione praesentium declaramus" .
+sctar:cice-l3t20-Dd1e123 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t21-Dd1e108 sctap:incipit "Nullus presbyter praesumat" .
+sctar:cice-l3t21-Dd1e123 sctap:incipit "Lator praesentium" .
+sctar:cice-l3t21-Dd1e138 sctap:incipit "Ex praesentium latoris" .
+sctar:cice-l3t21-Dd1e153 sctap:incipit "Illo vos credimus" .
+sctar:cice-l3t21-Dd1e169 sctap:incipit "Ex litteris fraternitatis" .
+sctar:cice-l3t21-Dd1e184 sctap:incipit "Cum contra G." .
+sctar:cice-l3t21-Dd1e199 sctap:incipit "Significante cive Pisano" .
+sctar:cice-l3t21-Dd1e214 sctap:incipit "Cum constet I." .
+sctar:cice-l3t22-Dd1e108 sctap:incipit "Clericus fideiussoribus inserviens" .
+sctar:cice-l3t22-Dd1e123 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l3t22-Dd1e138 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l3t22-Dd1e153 sctap:incipit "Quod quibusdam religiosis" .
+sctar:cice-l3t22-Dd1e169 sctap:incipit "Eum pro quo" .
+sctar:cice-l3t23-Dd1e108 sctap:incipit "Ad hoc in" .
+sctar:cice-l3t23-Dd1e123 sctap:incipit "Si quorundam" .
+sctar:cice-l3t23-Dd1e138 sctap:incipit "Odoardus clericus proposuit" .
+sctar:cice-l3t23-Dd1e153 sctap:incipit "Is qui conqueritur" .
+sctar:cice-l3t24-Dd1e108 sctap:incipit "Prudentes" .
+sctar:cice-l3t24-Dd1e123 sctap:incipit "Fraternitatem tuam credimus" .
+sctar:cice-l3t24-Dd1e138 sctap:incipit "Caeterum si abbatem" .
+sctar:cice-l3t24-Dd1e153 sctap:incipit "Consultationibus" .
+sctar:cice-l3t24-Dd1e169 sctap:incipit "Per tuas litteras" .
+sctar:cice-l3t24-Dd1e184 sctap:incipit "Cum dilecti filii" .
+sctar:cice-l3t24-Dd1e199 sctap:incipit "Pastoralis officii" .
+sctar:cice-l3t24-Dd1e214 sctap:incipit "Inter dilectos filios" .
+sctar:cice-l3t24-Dd1e229 sctap:incipit "Apostolicae sedis oraculum" .
+sctar:cice-l3t24-Dd1e244 sctap:incipit "Propter eius ingraditudinem" .
+sctar:cice-l3t25-Dd1e108 sctap:incipit "Investigandum est si" .
+sctar:cice-l3t25-Dd1e123 sctap:incipit "Presbyter cum diocesim" .
+sctar:cice-l3t25-Dd1e138 sctap:incipit "Ut unusquisque presbyter" .
+sctar:cice-l3t25-Dd1e153 sctap:incipit "Inquirendum est si" .
+sctar:cice-l3t25-Dd1e169 sctap:incipit "Si quis sane" .
+sctar:cice-l3t26-Dd1e108 sctap:incipit "Quorundam ad nos" .
+sctar:cice-l3t26-Dd1e123 sctap:incipit "Quia ingredientibus" .
+sctar:cice-l3t26-Dd1e138 sctap:incipit "Nos quidem" .
+sctar:cice-l3t26-Dd1e153 sctap:incipit "Indicante" .
+sctar:cice-l3t26-Dd1e169 sctap:incipit "Filius noster F." .
+sctar:cice-l3t26-Dd1e184 sctap:incipit "Si heredes iussa" .
+sctar:cice-l3t26-Dd1e199 sctap:incipit "Cum in officiis" .
+sctar:cice-l3t26-Dd1e214 sctap:incipit "Ad haec praesentibus" .
+sctar:cice-l3t26-Dd1e229 sctap:incipit "Quia nos" .
+sctar:cice-l3t26-Dd1e244 sctap:incipit "Cum esses" .
+sctar:cice-l3t26-Dd1e260 sctap:incipit "Relatum est quod" .
+sctar:cice-l3t26-Dd1e275 sctap:incipit "Relatum est auribus" .
+sctar:cice-l3t26-Dd1e290 sctap:incipit "Cum tibi de" .
+sctar:cice-l3t26-Dd1e305 sctap:incipit "Officii" .
+sctar:cice-l3t26-Dd1e320 sctap:incipit "Requisisti de his" .
+sctar:cice-l3t26-Dd1e335 sctap:incipit "Raynutius de Clera" .
+sctar:cice-l3t26-Dd1e351 sctap:incipit "Tua nobis fraternitas" .
+sctar:cice-l3t26-Dd1e366 sctap:incipit "Raynaldus Peponis filius" .
+sctar:cice-l3t26-Dd1e381 sctap:incipit "Ioannes clericus et" .
+sctar:cice-l3t26-Dd1e396 sctap:incipit "De his quae" .
+sctar:cice-l3t27-Dd1e108 sctap:incipit "Sed hoc ibidem" .
+sctar:cice-l3t27-Dd1e123 sctap:incipit "Sancto concilio allatum" .
+sctar:cice-l3t27-Dd1e138 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l3t28-Dd1e108 sctap:incipit "Nos instituta maiorum" .
+sctar:cice-l3t28-Dd1e123 sctap:incipit "Relatum est auribus" .
+sctar:cice-l3t28-Dd1e138 sctap:incipit "Fraternitatem tuam non" .
+sctar:cice-l3t28-Dd1e153 sctap:incipit "De his qui" .
+sctar:cice-l3t28-Dd1e169 sctap:incipit "Ex parte canonicorum" .
+sctar:cice-l3t28-Dd1e184 sctap:incipit "Cum liberum sit" .
+sctar:cice-l3t28-Dd1e199 sctap:incipit "De uxore vero" .
+sctar:cice-l3t28-Dd1e214 sctap:incipit "Cum super quodam" .
+sctar:cice-l3t28-Dd1e229 sctap:incipit "Certificari voluisti a" .
+sctar:cice-l3t28-Dd1e244 sctap:incipit "In nostra praesentia" .
+sctar:cice-l3t28-Dd1e260 sctap:incipit "Ex parte parentum" .
+sctar:cice-l3t28-Dd1e275 sctap:incipit "Sacris est canonibus" .
+sctar:cice-l3t28-Dd1e290 sctap:incipit "Abolendae consuetudinis" .
+sctar:cice-l3t28-Dd1e305 sctap:incipit "Parochiano tuo" .
+sctar:cice-l3t29-Dd1e108 sctap:incipit "Si episcopus ex" .
+sctar:cice-l3t29-Dd1e123 sctap:incipit "Ut dominicis vel" .
+sctar:cice-l3t29-Dd1e138 sctap:incipit "Nullus episcopus alterius" .
+sctar:cice-l3t29-Dd1e153 sctap:incipit "Super eo vero" .
+sctar:cice-l3t29-Dd1e169 sctap:incipit "Significavit nobis" .
+sctar:cice-l3t30-Dd1e108 sctap:incipit "Decimam partem omnium" .
+sctar:cice-l3t30-Dd1e123 sctap:incipit "Novum genus exactionis" .
+sctar:cice-l3t30-Dd1e138 sctap:incipit "Ex multiplici conquestione" .
+sctar:cice-l3t30-Dd1e153 sctap:incipit "Commissim nobis" .
+sctar:cice-l3t30-Dd1e169 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l3t30-Dd1e184 sctap:incipit "Nuncios" .
+sctar:cice-l3t30-Dd1e199 sctap:incipit "Cum homines de" .
+sctar:cice-l3t30-Dd1e214 sctap:incipit "Dilecti filii abbas" .
+sctar:cice-l3t30-Dd1e229 sctap:incipit "Suggestum est ex" .
+sctar:cice-l3t30-Dd1e244 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t30-Dd1e260 sctap:incipit "Licet de benignitate" .
+sctar:cice-l3t30-Dd1e275 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t30-Dd1e290 sctap:incipit "Quoniam a nobis" .
+sctar:cice-l3t30-Dd1e305 sctap:incipit "Parochianos" .
+sctar:cice-l3t30-Dd1e320 sctap:incipit "Ad haec donationem" .
+sctar:cice-l3t30-Dd1e335 sctap:incipit "De terris quas" .
+sctar:cice-l3t30-Dd1e351 sctap:incipit "Quamvis sit grave" .
+sctar:cice-l3t30-Dd1e366 sctap:incipit "Cum sint homines" .
+sctar:cice-l3t30-Dd1e381 sctap:incipit "Prohibemus ne laici" .
+sctar:cice-l3t30-Dd1e396 sctap:incipit "Ad apostolicae sedis" .
+sctar:cice-l3t30-Dd1e411 sctap:incipit "Ex parte canonicorum" .
+sctar:cice-l3t30-Dd1e426 sctap:incipit "Non est in" .
+sctar:cice-l3t30-Dd1e442 sctap:incipit "Ex transmissa querela" .
+sctar:cice-l3t30-Dd1e457 sctap:incipit "A nobis tua" .
+sctar:cice-l3t30-Dd1e472 sctap:incipit "Tua" .
+sctar:cice-l3t30-Dd1e487 sctap:incipit "Tua nobis fraternitas" .
+sctar:cice-l3t30-Dd1e502 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t30-Dd1e517 sctap:incipit "Pastoralis officii" .
+sctar:cice-l3t30-Dd1e533 sctap:incipit "Cum contingat interdum" .
+sctar:cice-l3t30-Dd1e548 sctap:incipit "Cum in tua" .
+sctar:cice-l3t30-Dd1e563 sctap:incipit "Dudum adversus fratres" .
+sctar:cice-l3t30-Dd1e578 sctap:incipit "In aliquibus regionibus" .
+sctar:cice-l3t30-Dd1e593 sctap:incipit "Cum non sit" .
+sctar:cice-l3t30-Dd1e608 sctap:incipit "Nuper abbates Cisterciensis" .
+sctar:cice-l3t30-Dd1e624 sctap:incipit "Interdicimus universis personis" .
+sctar:cice-l3t31-Dd1e108 sctap:incipit "Nullus tondeatur" .
+sctar:cice-l3t31-Dd1e123 sctap:incipit "Si quis ante" .
+sctar:cice-l3t31-Dd1e138 sctap:incipit "Ut clerici qui" .
+sctar:cice-l3t31-Dd1e153 sctap:incipit "Vidua si sponte" .
+sctar:cice-l3t31-Dd1e169 sctap:incipit "Ioannes frater" .
+sctar:cice-l3t31-Dd1e184 sctap:incipit "Quia in insulis" .
+sctar:cice-l3t31-Dd1e199 sctap:incipit "Non est vobis" .
+sctar:cice-l3t31-Dd1e214 sctap:incipit "Ad nostram noveris" .
+sctar:cice-l3t31-Dd1e229 sctap:incipit "Super eo quod" .
+sctar:cice-l3t31-Dd1e244 sctap:incipit "Sabe de canonico" .
+sctar:cice-l3t31-Dd1e260 sctap:incipit "Significatum est nobis" .
+sctar:cice-l3t31-Dd1e275 sctap:incipit "Cum virum" .
+sctar:cice-l3t31-Dd1e290 sctap:incipit "Porrectum nobis ex" .
+sctar:cice-l3t31-Dd1e305 sctap:incipit "Cum simus" .
+sctar:cice-l3t31-Dd1e320 sctap:incipit "Sicut tenor litterarum" .
+sctar:cice-l3t31-Dd1e335 sctap:incipit "Ad apostolicam sedem" .
+sctar:cice-l3t31-Dd1e351 sctap:incipit "Sicut nobis fuit" .
+sctar:cice-l3t31-Dd1e366 sctap:incipit "Licet quibusdam monachis" .
+sctar:cice-l3t31-Dd1e381 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l3t31-Dd1e396 sctap:incipit "Consulti sumus frequenter" .
+sctar:cice-l3t31-Dd1e411 sctap:incipit "Postulasti" .
+sctar:cice-l3t31-Dd1e426 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t31-Dd1e442 sctap:incipit "Statuimus novitios in" .
+sctar:cice-l3t31-Dd1e457 sctap:incipit "Ne religiosi vagandi" .
+sctar:cice-l3t32-Dd1e108 sctap:incipit "Praeterea utrum laicus" .
+sctar:cice-l3t32-Dd1e123 sctap:incipit "Verum post consensum" .
+sctar:cice-l3t32-Dd1e138 sctap:incipit "Quidam intravit monasterium" .
+sctar:cice-l3t32-Dd1e153 sctap:incipit "Cum sis praeditus" .
+sctar:cice-l3t32-Dd1e169 sctap:incipit "Coniugatus" .
+sctar:cice-l3t32-Dd1e184 sctap:incipit "Sane si coniugati" .
+sctar:cice-l3t32-Dd1e199 sctap:incipit "Ex publico instrumento" .
+sctar:cice-l3t32-Dd1e214 sctap:incipit "Uxoratus sine licentia" .
+sctar:cice-l3t32-Dd1e229 sctap:incipit "Ex parte abbatis" .
+sctar:cice-l3t32-Dd1e244 sctap:incipit "Consuluit nos G." .
+sctar:cice-l3t32-Dd1e260 sctap:incipit "Carissimus" .
+sctar:cice-l3t32-Dd1e275 sctap:incipit "Placet nobis" .
+sctar:cice-l3t32-Dd1e290 sctap:incipit "Ad apostolicam sedem" .
+sctar:cice-l3t32-Dd1e305 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t32-Dd1e320 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l3t32-Dd1e335 sctap:incipit "Veniens ad praesentiam" .
+sctar:cice-l3t32-Dd1e351 sctap:incipit "Accedens ad praesentiam" .
+sctar:cice-l3t32-Dd1e366 sctap:incipit "Significavit nobis" .
+sctar:cice-l3t32-Dd1e381 sctap:incipit "Gaudemus in Domino" .
+sctar:cice-l3t32-Dd1e396 sctap:incipit "Dudum a C." .
+sctar:cice-l3t32-Dd1e411 sctap:incipit "Mulier quae in" .
+sctar:cice-l3t33-Dd1e108 sctap:incipit "Laudabilem" .
+sctar:cice-l3t33-Dd1e123 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l3t34-Dd1e108 sctap:incipit "De peregrinationis votis" .
+sctar:cice-l3t34-Dd1e123 sctap:incipit "Venientis ad nos" .
+sctar:cice-l3t34-Dd1e138 sctap:incipit "Liiteraturam tuam" .
+sctar:cice-l3t34-Dd1e153 sctap:incipit "Scripturae" .
+sctar:cice-l3t34-Dd1e169 sctap:incipit "Non est voti" .
+sctar:cice-l3t34-Dd1e184 sctap:incipit "Licet universis liberum" .
+sctar:cice-l3t34-Dd1e199 sctap:incipit "Magnae devotionis" .
+sctar:cice-l3t34-Dd1e214 sctap:incipit "Quod super his" .
+sctar:cice-l3t34-Dd1e229 sctap:incipit "Ex multa tuae" .
+sctar:cice-l3t34-Dd1e244 sctap:incipit "Per tuas nobis" .
+sctar:cice-l3t34-Dd1e260 sctap:incipit "Postulatis a nobis" .
+sctar:cice-l3t35-Dd1e108 sctap:incipit "Theodosius" .
+sctar:cice-l3t35-Dd1e123 sctap:incipit "Monachi non pretio" .
+sctar:cice-l3t35-Dd1e138 sctap:incipit "Recolentes qualiter haec" .
+sctar:cice-l3t35-Dd1e153 sctap:incipit "Super quodam canonico" .
+sctar:cice-l3t35-Dd1e169 sctap:incipit "Quod Dei timorem" .
+sctar:cice-l3t35-Dd1e184 sctap:incipit "Cum ad monasterium" .
+sctar:cice-l3t35-Dd1e199 sctap:incipit "In singulis regnis" .
+sctar:cice-l3t35-Dd1e214 sctap:incipit "Ea quae pro" .
+sctar:cice-l3t36-Dd1e108 sctap:incipit "Nunc autem ad" .
+sctar:cice-l3t36-Dd1e123 sctap:incipit "Quia monasterium quod" .
+sctar:cice-l3t36-Dd1e138 sctap:incipit "De xenodochiis et" .
+sctar:cice-l3t36-Dd1e153 sctap:incipit "Ad haec" .
+sctar:cice-l3t36-Dd1e169 sctap:incipit "Inter quatuor" .
+sctar:cice-l3t36-Dd1e184 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l3t36-Dd1e199 sctap:incipit "Cum venerabilis frater" .
+sctar:cice-l3t36-Dd1e214 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l3t36-Dd1e229 sctap:incipit "Ne nimia religionum" .
+sctar:cice-l3t37-Dd1e108 sctap:incipit "In ecclesiis ubi" .
+sctar:cice-l3t37-Dd1e123 sctap:incipit "Dilectus filius M." .
+sctar:cice-l3t37-Dd1e138 sctap:incipit "Ex parte tua" .
+sctar:cice-l3t37-Dd1e153 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t38-Dd1e108 sctap:incipit "Perlatum est" .
+sctar:cice-l3t38-Dd1e123 sctap:incipit "Quaecumque ecclesia" .
+sctar:cice-l3t38-Dd1e138 sctap:incipit "Quoniam in quibusdam" .
+sctar:cice-l3t38-Dd1e153 sctap:incipit "Praeterea quia in" .
+sctar:cice-l3t38-Dd1e169 sctap:incipit "Quod autemn consulis" .
+sctar:cice-l3t38-Dd1e184 sctap:incipit "Quia clerici quidam" .
+sctar:cice-l3t38-Dd1e199 sctap:incipit "Ex litteris I." .
+sctar:cice-l3t38-Dd1e214 sctap:incipit "Illud praetereundum" .
+sctar:cice-l3t38-Dd1e229 sctap:incipit "Querimonia" .
+sctar:cice-l3t38-Dd1e244 sctap:incipit "Cum laici episcopis" .
+sctar:cice-l3t38-Dd1e260 sctap:incipit "Cura pastorali" .
+sctar:cice-l3t38-Dd1e275 sctap:incipit "Si vero ordinatio" .
+sctar:cice-l3t38-Dd1e290 sctap:incipit "Cum saeculum reliqueritis" .
+sctar:cice-l3t38-Dd1e305 sctap:incipit "Ex insinuatione O." .
+sctar:cice-l3t38-Dd1e320 sctap:incipit "Consuluit nos" .
+sctar:cice-l3t38-Dd1e335 sctap:incipit "De iure vero" .
+sctar:cice-l3t38-Dd1e351 sctap:incipit "Nullus laicus decimas" .
+sctar:cice-l3t38-Dd1e366 sctap:incipit "Significasti" .
+sctar:cice-l3t38-Dd1e381 sctap:incipit "Consultationibus" .
+sctar:cice-l3t38-Dd1e396 sctap:incipit "Suggestum est quod" .
+sctar:cice-l3t38-Dd1e411 sctap:incipit "Relatum est nobis" .
+sctar:cice-l3t38-Dd1e426 sctap:incipit "Eam te decet" .
+sctar:cice-l3t38-Dd1e442 sctap:incipit "Praeterea quoniam advocati" .
+sctar:cice-l3t38-Dd1e457 sctap:incipit "Cum autem advocatus" .
+sctar:cice-l3t38-Dd1e472 sctap:incipit "Nobis fuit" .
+sctar:cice-l3t38-Dd1e487 sctap:incipit "Per nostras postulasti" .
+sctar:cice-l3t38-Dd1e502 sctap:incipit "Cum propter discordias" .
+sctar:cice-l3t38-Dd1e517 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l3t38-Dd1e533 sctap:incipit "Pastoralis officii" .
+sctar:cice-l3t38-Dd1e548 sctap:incipit "Postulasti per sedem" .
+sctar:cice-l3t38-Dd1e563 sctap:incipit "Transmissae ad nos" .
+sctar:cice-l3t39-Dd1e108 sctap:incipit "Sancitum est ut" .
+sctar:cice-l3t39-Dd1e123 sctap:incipit "Omnes anima sublimioribus" .
+sctar:cice-l3t39-Dd1e138 sctap:incipit "Scientes" .
+sctar:cice-l3t39-Dd1e153 sctap:incipit "Licet multum" .
+sctar:cice-l3t39-Dd1e169 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l3t39-Dd1e184 sctap:incipit "Cum Apostolus se" .
+sctar:cice-l3t39-Dd1e199 sctap:incipit "Prohibemus insuper" .
+sctar:cice-l3t39-Dd1e214 sctap:incipit "Praeterea illi qui" .
+sctar:cice-l3t39-Dd1e229 sctap:incipit "Ecclesiis quas de" .
+sctar:cice-l3t39-Dd1e244 sctap:incipit "Innovamus" .
+sctar:cice-l3t39-Dd1e260 sctap:incipit "Cum clerici" .
+sctar:cice-l3t39-Dd1e275 sctap:incipit "Ea quae de" .
+sctar:cice-l3t39-Dd1e290 sctap:incipit "Significavit nobis T." .
+sctar:cice-l3t39-Dd1e305 sctap:incipit "Sopitae" .
+sctar:cice-l3t39-Dd1e320 sctap:incipit "Gravis admodum" .
+sctar:cice-l3t39-Dd1e335 sctap:incipit "Quanto creatori" .
+sctar:cice-l3t39-Dd1e351 sctap:incipit "Cum instantia nostra" .
+sctar:cice-l3t39-Dd1e366 sctap:incipit "Ex parte Compostellani" .
+sctar:cice-l3t39-Dd1e381 sctap:incipit "Cum olim" .
+sctar:cice-l3t39-Dd1e396 sctap:incipit "Olim causam quam" .
+sctar:cice-l3t39-Dd1e411 sctap:incipit "Cum venerabilis frater" .
+sctar:cice-l3t39-Dd1e426 sctap:incipit "Super eo quod" .
+sctar:cice-l3t39-Dd1e442 sctap:incipit "Procurationes quae ratione" .
+sctar:cice-l3t39-Dd1e457 sctap:incipit "Venerabili fratre nostro" .
+sctar:cice-l3t39-Dd1e472 sctap:incipit "Cum nuper archiepiscopus" .
+sctar:cice-l3t39-Dd1e487 sctap:incipit "Cum canonmicis maioris" .
+sctar:cice-l3t39-Dd1e502 sctap:incipit "Auctoritate praesentium inhibemus" .
+sctar:cice-l3t40-Dd1e108 sctap:incipit "Ad haec si" .
+sctar:cice-l3t40-Dd1e123 sctap:incipit "Tua fraternitas" .
+sctar:cice-l3t40-Dd1e138 sctap:incipit "Quod in dubiis" .
+sctar:cice-l3t40-Dd1e153 sctap:incipit "Proposuisti quod venientibus" .
+sctar:cice-l3t40-Dd1e169 sctap:incipit "Cum sis" .
+sctar:cice-l3t40-Dd1e184 sctap:incipit "Ligneis aedificiis ecclesiae" .
+sctar:cice-l3t40-Dd1e199 sctap:incipit "Consuluisti" .
+sctar:cice-l3t40-Dd1e214 sctap:incipit "Cum sicut ex" .
+sctar:cice-l3t40-Dd1e229 sctap:incipit "Aqua per episcopum" .
+sctar:cice-l3t40-Dd1e244 sctap:incipit "Si ecclesia non" .
+sctar:cice-l3t41-Dd1e108 sctap:incipit "Presbyter mane matutinali" .
+sctar:cice-l3t41-Dd1e123 sctap:incipit "Quidam laicorum" .
+sctar:cice-l3t41-Dd1e138 sctap:incipit "Consuluisti" .
+sctar:cice-l3t41-Dd1e153 sctap:incipit "Consilium nostrum" .
+sctar:cice-l3t41-Dd1e169 sctap:incipit "Ex parte vestra" .
+sctar:cice-l3t41-Dd1e184 sctap:incipit "Cum Marthae" .
+sctar:cice-l3t41-Dd1e199 sctap:incipit "De homine" .
+sctar:cice-l3t41-Dd1e214 sctap:incipit "In quadam nostra" .
+sctar:cice-l3t41-Dd1e229 sctap:incipit "Dolentes referimus" .
+sctar:cice-l3t41-Dd1e244 sctap:incipit "Sane cum olim" .
+sctar:cice-l3t41-Dd1e260 sctap:incipit "Cum creatura non" .
+sctar:cice-l3t41-Dd1e275 sctap:incipit "Te referente" .
+sctar:cice-l3t41-Dd1e290 sctap:incipit "Perniciosus in tuis" .
+sctar:cice-l3t41-Dd1e305 sctap:incipit "Litteras tuas recepimus" .
+sctar:cice-l3t42-Dd1e108 sctap:incipit "Si quis puerum" .
+sctar:cice-l3t42-Dd1e123 sctap:incipit "De quibus dubium" .
+sctar:cice-l3t42-Dd1e138 sctap:incipit "Maiores ecclesiae causas" .
+sctar:cice-l3t42-Dd1e153 sctap:incipit "Debitum" .
+sctar:cice-l3t42-Dd1e169 sctap:incipit "Non ut apponeres" .
+sctar:cice-l3t42-Dd1e184 sctap:incipit "Licet Graecos diebus" .
+sctar:cice-l3t43-Dd1e108 sctap:incipit "Si quis presbyter" .
+sctar:cice-l3t43-Dd1e123 sctap:incipit "Apostolicam sedem consulere" .
+sctar:cice-l3t43-Dd1e138 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l3t44-Dd1e108 sctap:incipit "Statuimus ut in" .
+sctar:cice-l3t44-Dd1e123 sctap:incipit "Relinqui nolumus incorrectum" .
+sctar:cice-l3t45-Dd1e108 sctap:incipit "Audivimus quod quidam" .
+sctar:cice-l3t45-Dd1e123 sctap:incipit "Cum ex eo" .
+sctar:cice-l3t46-Dd1e108 sctap:incipit "Ex parte vestra" .
+sctar:cice-l3t46-Dd1e123 sctap:incipit "Consilium nostrum" .
+sctar:cice-l3t46-Dd1e138 sctap:incipit "Explicari per sedem" .
+sctar:cice-l3t47-Dd1e108 sctap:incipit "Volens" .
+sctar:cice-l3t48-Dd1e108 sctap:incipit "Quicunque ecclesiasticum" .
+sctar:cice-l3t48-Dd1e123 sctap:incipit "Cum dicat Apostolus" .
+sctar:cice-l3t48-Dd1e138 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t48-Dd1e153 sctap:incipit "De his qui" .
+sctar:cice-l3t48-Dd1e169 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l3t48-Dd1e184 sctap:incipit "Tua nos duxit" .
+sctar:cice-l3t49-Dd1e108 sctap:incipit "Ut in domibus" .
+sctar:cice-l3t49-Dd1e123 sctap:incipit "Pervenit" .
+sctar:cice-l3t49-Dd1e138 sctap:incipit "Indicatum est" .
+sctar:cice-l3t49-Dd1e153 sctap:incipit "Non minus" .
+sctar:cice-l3t49-Dd1e169 sctap:incipit "Cum ecclesia Dei" .
+sctar:cice-l3t49-Dd1e184 sctap:incipit "Inter alia" .
+sctar:cice-l3t49-Dd1e199 sctap:incipit "Adversus consules et" .
+sctar:cice-l3t49-Dd1e214 sctap:incipit "Quia plerique praelati" .
+sctar:cice-l3t49-Dd1e229 sctap:incipit "Ecclesiae in qua" .
+sctar:cice-l3t49-Dd1e244 sctap:incipit "Immunitatem ecclesiasticam" .
+sctar:cice-l3t50-Dd1e108 sctap:incipit "Multa sunt negotia" .
+sctar:cice-l3t50-Dd1e123 sctap:incipit "Sacerdotibus et clericis" .
+sctar:cice-l3t50-Dd1e138 sctap:incipit "Non magnopere antiqui" .
+sctar:cice-l3t50-Dd1e153 sctap:incipit "Sed nec procurationes" .
+sctar:cice-l3t50-Dd1e169 sctap:incipit "Clericis in sacris" .
+sctar:cice-l3t50-Dd1e184 sctap:incipit "Secundum instituta praedecessorum" .
+sctar:cice-l3t50-Dd1e199 sctap:incipit "Relatum est quod" .
+sctar:cice-l3t50-Dd1e214 sctap:incipit "Sicut te accepimus" .
+sctar:cice-l3t50-Dd1e229 sctap:incipit "Sententiam sanguinis nullus" .
+sctar:cice-l3t50-Dd1e244 sctap:incipit "Super specula" .
+sctar:cice-l4t1-Dd1e108 sctap:incipit "De Francia nobilem" .
+sctar:cice-l4t1-Dd1e123 sctap:incipit "Praeterea hi qui" .
+sctar:cice-l4t1-Dd1e138 sctap:incipit "Iuvenis qui puellam" .
+sctar:cice-l4t1-Dd1e153 sctap:incipit "Ad audientiam nostri" .
+sctar:cice-l4t1-Dd1e169 sctap:incipit "De illis autem" .
+sctar:cice-l4t1-Dd1e184 sctap:incipit "De muliere quae" .
+sctar:cice-l4t1-Dd1e199 sctap:incipit "Ex litteris" .
+sctar:cice-l4t1-Dd1e214 sctap:incipit "Sponsam autem alterius" .
+sctar:cice-l4t1-Dd1e229 sctap:incipit "Ex parte C." .
+sctar:cice-l4t1-Dd1e244 sctap:incipit "Ex litteris Silvani" .
+sctar:cice-l4t1-Dd1e260 sctap:incipit "Non est vobis" .
+sctar:cice-l4t1-Dd1e275 sctap:incipit "Praeterea de muliere" .
+sctar:cice-l4t1-Dd1e290 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l4t1-Dd1e305 sctap:incipit "Cum locum non" .
+sctar:cice-l4t1-Dd1e320 sctap:incipit "Veniens ad nos" .
+sctar:cice-l4t1-Dd1e335 sctap:incipit "Commissum" .
+sctar:cice-l4t1-Dd1e351 sctap:incipit "Requisivit a nobis" .
+sctar:cice-l4t1-Dd1e366 sctap:incipit "Cum in apostolica" .
+sctar:cice-l4t1-Dd1e381 sctap:incipit "In praesentia nostra" .
+sctar:cice-l4t1-Dd1e396 sctap:incipit "Inter opera caritatis" .
+sctar:cice-l4t1-Dd1e411 sctap:incipit "Ad id quod" .
+sctar:cice-l4t1-Dd1e426 sctap:incipit "Sicut ex litteris" .
+sctar:cice-l4t1-Dd1e442 sctap:incipit "Cum apud sedem" .
+sctar:cice-l4t1-Dd1e457 sctap:incipit "Dilectus filius R." .
+sctar:cice-l4t1-Dd1e472 sctap:incipit "Tuae fraternitati/Tuae fraternitatis" .
+sctar:cice-l4t1-Dd1e487 sctap:incipit "Tua nos duxit" .
+sctar:cice-l4t1-Dd1e502 sctap:incipit "Cum in tua" .
+sctar:cice-l4t1-Dd1e517 sctap:incipit "Consultationi tuae breviter" .
+sctar:cice-l4t1-Dd1e533 sctap:incipit "Gemma mulier nobis" .
+sctar:cice-l4t1-Dd1e548 sctap:incipit "Is qui fidem" .
+sctar:cice-l4t1-Dd1e563 sctap:incipit "Si inter virum" .
+sctar:cice-l4t1-Dd1e578 sctap:incipit "Adolescens qui desponsatam" .
+sctar:cice-l4t2-Dd1e108 sctap:incipit "Tua nos requisivit/Tua requisivit" .
+sctar:cice-l4t2-Dd1e123 sctap:incipit "Ubi non est" .
+sctar:cice-l4t2-Dd1e138 sctap:incipit "Puberes a pube" .
+sctar:cice-l4t2-Dd1e153 sctap:incipit "Litteras tuae fraternitatis" .
+sctar:cice-l4t2-Dd1e169 sctap:incipit "Accessit ad praesentiam" .
+sctar:cice-l4t2-Dd1e184 sctap:incipit "Continebatur in litteris" .
+sctar:cice-l4t2-Dd1e199 sctap:incipit "De illis qui" .
+sctar:cice-l4t2-Dd1e214 sctap:incipit "A nobis tua" .
+sctar:cice-l4t2-Dd1e229 sctap:incipit "De illis qui" .
+sctar:cice-l4t2-Dd1e244 sctap:incipit "Attestationes super causa" .
+sctar:cice-l4t2-Dd1e260 sctap:incipit "Ex litteris tuae" .
+sctar:cice-l4t2-Dd1e275 sctap:incipit "Duo pueri" .
+sctar:cice-l4t2-Dd1e290 sctap:incipit "Ad dissolvendum quod" .
+sctar:cice-l4t2-Dd1e305 sctap:incipit "Tuae nobis exhibitae" .
+sctar:cice-l4t3-Dd1e108 sctap:incipit "Si quis clam" .
+sctar:cice-l4t3-Dd1e123 sctap:incipit "Quod nobis" .
+sctar:cice-l4t3-Dd1e138 sctap:incipit "Cum inhibitio copulae" .
+sctar:cice-l4t4-Dd1e108 sctap:incipit "Duobus modis dicitur" .
+sctar:cice-l4t4-Dd1e123 sctap:incipit "Accepisti illam in" .
+sctar:cice-l4t4-Dd1e138 sctap:incipit "Licet praeter solitum" .
+sctar:cice-l4t4-Dd1e153 sctap:incipit "Tua fraternitas nos" .
+sctar:cice-l4t4-Dd1e169 sctap:incipit "Tuas dudum" .
+sctar:cice-l4t5-Dd1e108 sctap:incipit "Quicunque sub conditionis" .
+sctar:cice-l4t5-Dd1e123 sctap:incipit "Cum sit proprium" .
+sctar:cice-l4t5-Dd1e138 sctap:incipit "De illis/De illis autem" .
+sctar:cice-l4t5-Dd1e153 sctap:incipit "Verum cum alicui" .
+sctar:cice-l4t5-Dd1e169 sctap:incipit "Super eo vero" .
+sctar:cice-l4t5-Dd1e184 sctap:incipit "Per tuas nobis/Per tuas litteras" .
+sctar:cice-l4t5-Dd1e199 sctap:incipit "Si conditiones contra" .
+sctar:cice-l4t6-Dd1e108 sctap:incipit "De diacono qui" .
+sctar:cice-l4t6-Dd1e123 sctap:incipit "Ex litterarum tuarum" .
+sctar:cice-l4t6-Dd1e138 sctap:incipit "Meminimus" .
+sctar:cice-l4t6-Dd1e153 sctap:incipit "Consuluit nos tua" .
+sctar:cice-l4t6-Dd1e169 sctap:incipit "Veniens ad praesentiam" .
+sctar:cice-l4t6-Dd1e184 sctap:incipit "Rursus quidam votum" .
+sctar:cice-l4t6-Dd1e199 sctap:incipit "Insinuante I. nobili" .
+sctar:cice-l4t7-Dd1e108 sctap:incipit "Propositum est nobis" .
+sctar:cice-l4t7-Dd1e123 sctap:incipit "Significavit nobis O." .
+sctar:cice-l4t7-Dd1e138 sctap:incipit "Super hoc quod" .
+sctar:cice-l4t7-Dd1e153 sctap:incipit "Ex litterarum tuarum" .
+sctar:cice-l4t7-Dd1e169 sctap:incipit "Cum haberet uxorem" .
+sctar:cice-l4t7-Dd1e184 sctap:incipit "Signifiasti nobis quod" .
+sctar:cice-l4t7-Dd1e199 sctap:incipit "Veniens ad praesentiam" .
+sctar:cice-l4t7-Dd1e214 sctap:incipit "Si quis uxore" .
+sctar:cice-l4t8-Dd1e108 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l4t8-Dd1e123 sctap:incipit "Quoniam nemini licet" .
+sctar:cice-l4t8-Dd1e138 sctap:incipit "Litteras" .
+sctar:cice-l4t9-Dd1e108 sctap:incipit "Dignum est" .
+sctar:cice-l4t9-Dd1e123 sctap:incipit "Proposuit nobis M." .
+sctar:cice-l4t9-Dd1e138 sctap:incipit "Licet" .
+sctar:cice-l4t9-Dd1e153 sctap:incipit "Ad nostrram noveris" .
+sctar:cice-l4t10-Dd1e108 sctap:incipit "Indecens esse credimus" .
+sctar:cice-l4t11-Dd1e108 sctap:incipit "Utrum autem filii" .
+sctar:cice-l4t11-Dd1e123 sctap:incipit "Si vir vel" .
+sctar:cice-l4t11-Dd1e138 sctap:incipit "Super eo quod" .
+sctar:cice-l4t11-Dd1e153 sctap:incipit "Martinus Bertham duxit" .
+sctar:cice-l4t11-Dd1e169 sctap:incipit "Contracto matrimonio inter" .
+sctar:cice-l4t11-Dd1e184 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l4t11-Dd1e199 sctap:incipit "Tua nos duxit" .
+sctar:cice-l4t11-Dd1e214 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l4t12-Dd1e108 sctap:incipit "Si qua per" .
+sctar:cice-l4t13-Dd1e108 sctap:incipit "Si quis cum" .
+sctar:cice-l4t13-Dd1e123 sctap:incipit "Veniens ad nos" .
+sctar:cice-l4t13-Dd1e138 sctap:incipit "De illo qui" .
+sctar:cice-l4t13-Dd1e153 sctap:incipit "Transmissae nobis tuae" .
+sctar:cice-l4t13-Dd1e169 sctap:incipit "Super eo quod" .
+sctar:cice-l4t13-Dd1e184 sctap:incipit "Discretionem tuam" .
+sctar:cice-l4t13-Dd1e199 sctap:incipit "Fraternitati tuae" .
+sctar:cice-l4t13-Dd1e214 sctap:incipit "Ex litteris fraternitatis" .
+sctar:cice-l4t13-Dd1e229 sctap:incipit "Veniens ad apostolicam" .
+sctar:cice-l4t13-Dd1e244 sctap:incipit "Tuae fraternitatis devotio" .
+sctar:cice-l4t13-Dd1e260 sctap:incipit "Iordanae mulieris petitio" .
+sctar:cice-l4t14-Dd1e108 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l4t14-Dd1e123 sctap:incipit "Super eo quod" .
+sctar:cice-l4t14-Dd1e138 sctap:incipit "Quod dilecto" .
+sctar:cice-l4t14-Dd1e153 sctap:incipit "De infidelibus ad" .
+sctar:cice-l4t14-Dd1e169 sctap:incipit "Quod super his" .
+sctar:cice-l4t14-Dd1e184 sctap:incipit "Quia circa" .
+sctar:cice-l4t14-Dd1e199 sctap:incipit "Tua nos duxit" .
+sctar:cice-l4t14-Dd1e214 sctap:incipit "Non debet reprehnsibile" .
+sctar:cice-l4t14-Dd1e229 sctap:incipit "Vir qui a" .
+sctar:cice-l4t15-Dd1e108 sctap:incipit "Accepisti mulierem et" .
+sctar:cice-l4t15-Dd1e123 sctap:incipit "Quod sedem" .
+sctar:cice-l4t15-Dd1e138 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l4t15-Dd1e153 sctap:incipit "Consultatioini tuae qua" .
+sctar:cice-l4t15-Dd1e169 sctap:incipit "Laudabilem" .
+sctar:cice-l4t15-Dd1e184 sctap:incipit "Fraternitatis tuae litteras" .
+sctar:cice-l4t15-Dd1e199 sctap:incipit "Litterae vestrae nobis" .
+sctar:cice-l4t16-Dd1e108 sctap:incipit "Litteras quas tua" .
+sctar:cice-l4t16-Dd1e123 sctap:incipit "Ex litteris Cantuariensis" .
+sctar:cice-l4t16-Dd1e138 sctap:incipit "De muliere" .
+sctar:cice-l4t17-Dd1e108 sctap:incipit "Conquestus est nobis" .
+sctar:cice-l4t17-Dd1e123 sctap:incipit "Cum inter I." .
+sctar:cice-l4t17-Dd1e138 sctap:incipit "Transmissae nobis tuae" .
+sctar:cice-l4t17-Dd1e153 sctap:incipit "Causam quae" .
+sctar:cice-l4t17-Dd1e169 sctap:incipit "Lator praesentium R." .
+sctar:cice-l4t17-Dd1e184 sctap:incipit "Tanta est vis" .
+sctar:cice-l4t17-Dd1e199 sctap:incipit "Causam quae inter" .
+sctar:cice-l4t17-Dd1e214 sctap:incipit "Perlatum est ad" .
+sctar:cice-l4t17-Dd1e229 sctap:incipit "Quod nobis" .
+sctar:cice-l4t17-Dd1e244 sctap:incipit "Referente nobis" .
+sctar:cice-l4t17-Dd1e260 sctap:incipit "Pervenit sane ad" .
+sctar:cice-l4t17-Dd1e275 sctap:incipit "Per tuas litteras" .
+sctar:cice-l4t17-Dd1e290 sctap:incipit "Per venerabilem fratrem" .
+sctar:cice-l4t17-Dd1e305 sctap:incipit "Ex tenore litterarum" .
+sctar:cice-l4t17-Dd1e320 sctap:incipit "Gaudemus" .
+sctar:cice-l4t18-Dd1e108 sctap:incipit "Relatum est quod" .
+sctar:cice-l4t18-Dd1e123 sctap:incipit "A nobis est" .
+sctar:cice-l4t18-Dd1e138 sctap:incipit "Videtur nobis" .
+sctar:cice-l4t18-Dd1e153 sctap:incipit "Insuper adiecisti quod" .
+sctar:cice-l4t18-Dd1e169 sctap:incipit "Significante M. de" .
+sctar:cice-l4t18-Dd1e184 sctap:incipit "Cum in tua" .
+sctar:cice-l4t19-Dd1e108 sctap:incipit "Si qua mulier" .
+sctar:cice-l4t19-Dd1e123 sctap:incipit "Quaesivit a nobis" .
+sctar:cice-l4t19-Dd1e138 sctap:incipit "Porro de comite" .
+sctar:cice-l4t19-Dd1e153 sctap:incipit "Significasti quod quidam" .
+sctar:cice-l4t19-Dd1e169 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l4t19-Dd1e184 sctap:incipit "De illa quae" .
+sctar:cice-l4t19-Dd1e199 sctap:incipit "Quanto te novimus" .
+sctar:cice-l4t19-Dd1e214 sctap:incipit "Gaudemus in Domino" .
+sctar:cice-l4t19-Dd1e229 sctap:incipit "Deus qui ecclesiam" .
+sctar:cice-l4t20-Dd1e108 sctap:incipit "Mulieres cum pro" .
+sctar:cice-l4t20-Dd1e123 sctap:incipit "Significavit P. mulier" .
+sctar:cice-l4t20-Dd1e138 sctap:incipit "De prudentia vestra" .
+sctar:cice-l4t20-Dd1e153 sctap:incipit "Plerumque" .
+sctar:cice-l4t20-Dd1e169 sctap:incipit "Etsi necesse sit" .
+sctar:cice-l4t20-Dd1e184 sctap:incipit "Nuper a nobis" .
+sctar:cice-l4t20-Dd1e199 sctap:incipit "Per vestras liutteras" .
+sctar:cice-l4t20-Dd1e214 sctap:incipit "Donatio quae constante" .
+sctar:cice-l4t21-Dd1e108 sctap:incipit "Capellanum quem benedictionem" .
+sctar:cice-l4t21-Dd1e123 sctap:incipit "Dominus ac redemptor" .
+sctar:cice-l4t21-Dd1e138 sctap:incipit "Vir autem vel" .
+sctar:cice-l4t21-Dd1e153 sctap:incipit "Super illa quaestione" .
+sctar:cice-l4t21-Dd1e169 sctap:incipit "Cum secundum Apostolum" .
+sctar:cice-l5t1-Dd1e108 sctap:incipit "Si legitimus non" .
+sctar:cice-l5t1-Dd1e123 sctap:incipit "Si quis episcopus" .
+sctar:cice-l5t1-Dd1e138 sctap:incipit "Illa praepositorum" .
+sctar:cice-l5t1-Dd1e153 sctap:incipit "Omnipotens Deus" .
+sctar:cice-l5t1-Dd1e169 sctap:incipit "Nulli episcoporum ab" .
+sctar:cice-l5t1-Dd1e184 sctap:incipit "De his criminibus" .
+sctar:cice-l5t1-Dd1e199 sctap:incipit "Repellantur" .
+sctar:cice-l5t1-Dd1e214 sctap:incipit "Accusati aliquem" .
+sctar:cice-l5t1-Dd1e229 sctap:incipit "Evidentia patrati sceleris" .
+sctar:cice-l5t1-Dd1e244 sctap:incipit "Cum P. manconella" .
+sctar:cice-l5t1-Dd1e260 sctap:incipit "Ex parte tua" .
+sctar:cice-l5t1-Dd1e275 sctap:incipit "Si constiterit quod" .
+sctar:cice-l5t1-Dd1e290 sctap:incipit "Meminimus tibi mandasse" .
+sctar:cice-l5t1-Dd1e305 sctap:incipit "Licet in beato" .
+sctar:cice-l5t1-Dd1e320 sctap:incipit "Veniens ad sedem" .
+sctar:cice-l5t1-Dd1e335 sctap:incipit "Super his de" .
+sctar:cice-l5t1-Dd1e351 sctap:incipit "Qualiter et quando" .
+sctar:cice-l5t1-Dd1e366 sctap:incipit "Cum dilecti filii" .
+sctar:cice-l5t1-Dd1e381 sctap:incipit "Cum oporteat episcoporum" .
+sctar:cice-l5t1-Dd1e396 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l5t1-Dd1e411 sctap:incipit "Inquisitionis negotium quam" .
+sctar:cice-l5t1-Dd1e426 sctap:incipit "Ad petitionem Galterii" .
+sctar:cice-l5t1-Dd1e442 sctap:incipit "Accedens ad praesentiam" .
+sctar:cice-l5t1-Dd1e457 sctap:incipit "Qualiter et quando" .
+sctar:cice-l5t1-Dd1e472 sctap:incipit "Sicut olim a" .
+sctar:cice-l5t1-Dd1e487 sctap:incipit "Olim I. et" .
+sctar:cice-l5t1-Dd1e502 sctap:incipit "Praelatorum excessus" .
+sctar:cice-l5t2-Dd1e108 sctap:incipit "Cum fortius punienda" .
+sctar:cice-l5t2-Dd1e123 sctap:incipit "Cum dilectus filius" .
+sctar:cice-l5t3-Dd1e108 sctap:incipit "In ordinando" .
+sctar:cice-l5t3-Dd1e123 sctap:incipit "Qui alium in" .
+sctar:cice-l5t3-Dd1e138 sctap:incipit "Si Dominus et" .
+sctar:cice-l5t3-Dd1e153 sctap:incipit "Accusatum simoniacum necesse" .
+sctar:cice-l5t3-Dd1e169 sctap:incipit "Quotiens" .
+sctar:cice-l5t3-Dd1e184 sctap:incipit "Sicut simoniaca pestis" .
+sctar:cice-l5t3-Dd1e199 sctap:incipit "Tanta est labes" .
+sctar:cice-l5t3-Dd1e214 sctap:incipit "Non satis" .
+sctar:cice-l5t3-Dd1e229 sctap:incipit "Cum in ecclesiae" .
+sctar:cice-l5t3-Dd1e244 sctap:incipit "Cum sit Romana" .
+sctar:cice-l5t3-Dd1e260 sctap:incipit "De hoc autem" .
+sctar:cice-l5t3-Dd1e275 sctap:incipit "Cum essent in" .
+sctar:cice-l5t3-Dd1e290 sctap:incipit "Insinuatum est quod" .
+sctar:cice-l5t3-Dd1e305 sctap:incipit "Nemo presbyterorum xenium" .
+sctar:cice-l5t3-Dd1e320 sctap:incipit "Querelam monachorum" .
+sctar:cice-l5t3-Dd1e335 sctap:incipit "Ea quae de" .
+sctar:cice-l5t3-Dd1e351 sctap:incipit "Ex diligenti tua" .
+sctar:cice-l5t3-Dd1e366 sctap:incipit "Etsi quaestiones tuas" .
+sctar:cice-l5t3-Dd1e381 sctap:incipit "Veniens ad nos" .
+sctar:cice-l5t3-Dd1e396 sctap:incipit "Ex tuae fraternitatis" .
+sctar:cice-l5t3-Dd1e411 sctap:incipit "Ad nostram" .
+sctar:cice-l5t3-Dd1e426 sctap:incipit "De simoniace ordinatis" .
+sctar:cice-l5t3-Dd1e442 sctap:incipit "Matthaeus cardinalis secreta" .
+sctar:cice-l5t3-Dd1e457 sctap:incipit "Ad aures nostras" .
+sctar:cice-l5t3-Dd1e472 sctap:incipit "De regularibus canonicis" .
+sctar:cice-l5t3-Dd1e487 sctap:incipit "Ex insinuatione tua" .
+sctar:cice-l5t3-Dd1e502 sctap:incipit "Nobis fuit ex" .
+sctar:cice-l5t3-Dd1e517 sctap:incipit "Dilectus filius R." .
+sctar:cice-l5t3-Dd1e533 sctap:incipit "Suam nobis parochiani" .
+sctar:cice-l5t3-Dd1e548 sctap:incipit "Dilectus filius A." .
+sctar:cice-l5t3-Dd1e563 sctap:incipit "Licet Heli summus" .
+sctar:cice-l5t3-Dd1e578 sctap:incipit "Per tuas nobis/Per tuas litteras" .
+sctar:cice-l5t3-Dd1e593 sctap:incipit "Sicut tuis litteris" .
+sctar:cice-l5t3-Dd1e608 sctap:incipit "Tua nos duxit" .
+sctar:cice-l5t3-Dd1e624 sctap:incipit "Per tuas litteras" .
+sctar:cice-l5t3-Dd1e639 sctap:incipit "In tantum peccatis" .
+sctar:cice-l5t3-Dd1e654 sctap:incipit "Per tuas nobis" .
+sctar:cice-l5t3-Dd1e669 sctap:incipit "Consulere" .
+sctar:cice-l5t3-Dd1e684 sctap:incipit "Sicut pro certo" .
+sctar:cice-l5t3-Dd1e699 sctap:incipit "Quoniam simoniaca labes" .
+sctar:cice-l5t3-Dd1e715 sctap:incipit "Audivimus de quibusdam" .
+sctar:cice-l5t3-Dd1e730 sctap:incipit "Ad apostolicam audientiam" .
+sctar:cice-l5t3-Dd1e745 sctap:incipit "Ne Dei ecclesiam" .
+sctar:cice-l5t3-Dd1e760 sctap:incipit "Iacobus canonicus Esculanus" .
+sctar:cice-l5t3-Dd1e775 sctap:incipit "Si quis ordinaverit" .
+sctar:cice-l5t3-Dd1e790 sctap:incipit "Mandato nostro recepto" .
+sctar:cice-l5t4-Dd1e108 sctap:incipit "Praeterea quoniam quidam" .
+sctar:cice-l5t4-Dd1e123 sctap:incipit "Quoniam in quibusdam" .
+sctar:cice-l5t4-Dd1e138 sctap:incipit "Quonmiam enormis quaedam" .
+sctar:cice-l5t4-Dd1e153 sctap:incipit "Querelam magistri" .
+sctar:cice-l5t5-Dd1e108 sctap:incipit "Quoniam ecclesia Dei" .
+sctar:cice-l5t5-Dd1e123 sctap:incipit "Prohibeas ne in" .
+sctar:cice-l5t5-Dd1e138 sctap:incipit "Quanto Gallicana ecclesia" .
+sctar:cice-l5t5-Dd1e153 sctap:incipit "Quia nonnullis propter" .
+sctar:cice-l5t5-Dd1e169 sctap:incipit "Super specula" .
+sctar:cice-l5t6-Dd1e108 sctap:incipit "Praesenti concilio sancimus" .
+sctar:cice-l5t6-Dd1e123 sctap:incipit "Multorum ad nos" .
+sctar:cice-l5t6-Dd1e138 sctap:incipit "Iudaei de civitate" .
+sctar:cice-l5t6-Dd1e153 sctap:incipit "Quia super his" .
+sctar:cice-l5t6-Dd1e169 sctap:incipit "Iudaei sive Sarraceni" .
+sctar:cice-l5t6-Dd1e184 sctap:incipit "Ita quorundam animos" .
+sctar:cice-l5t6-Dd1e199 sctap:incipit "Consuluit" .
+sctar:cice-l5t6-Dd1e214 sctap:incipit "Ad haec" .
+sctar:cice-l5t6-Dd1e229 sctap:incipit "Sicut Iudaei" .
+sctar:cice-l5t6-Dd1e244 sctap:incipit "Quam sit laudabile" .
+sctar:cice-l5t6-Dd1e260 sctap:incipit "Significavit nobis tua" .
+sctar:cice-l5t6-Dd1e275 sctap:incipit "Quod olim praeceptum" .
+sctar:cice-l5t6-Dd1e290 sctap:incipit "Etsi Iudaeos quos" .
+sctar:cice-l5t6-Dd1e305 sctap:incipit "Postulasti qualiter contra" .
+sctar:cice-l5t6-Dd1e320 sctap:incipit "In nonnullis provinciis" .
+sctar:cice-l5t6-Dd1e335 sctap:incipit "Cum sit nimis" .
+sctar:cice-l5t6-Dd1e351 sctap:incipit "Ad liberandam terram" .
+sctar:cice-l5t6-Dd1e366 sctap:incipit "Ex speciali quem" .
+sctar:cice-l5t6-Dd1e381 sctap:incipit "Nulii Iudaeo baptizatum" .
+sctar:cice-l5t7-Dd1e108 sctap:incipit "Dubius in fide" .
+sctar:cice-l5t7-Dd1e123 sctap:incipit "Qui alios cum" .
+sctar:cice-l5t7-Dd1e138 sctap:incipit "Firmissime tene et" .
+sctar:cice-l5t7-Dd1e153 sctap:incipit "Fraternitatis tuae" .
+sctar:cice-l5t7-Dd1e169 sctap:incipit "Si quis episcopus" .
+sctar:cice-l5t7-Dd1e184 sctap:incipit "In eos qui" .
+sctar:cice-l5t7-Dd1e199 sctap:incipit "Cum Christus perfectus" .
+sctar:cice-l5t7-Dd1e214 sctap:incipit "Sicut ait beatus" .
+sctar:cice-l5t7-Dd1e229 sctap:incipit "Ad abolendam" .
+sctar:cice-l5t7-Dd1e244 sctap:incipit "Vergentis in senium" .
+sctar:cice-l5t7-Dd1e260 sctap:incipit "Si adversus nos" .
+sctar:cice-l5t7-Dd1e275 sctap:incipit "Cum ex iniuncto" .
+sctar:cice-l5t7-Dd1e290 sctap:incipit "Excommunicamus itaque et" .
+sctar:cice-l5t7-Dd1e305 sctap:incipit "Sicut in uno" .
+sctar:cice-l5t7-Dd1e320 sctap:incipit "Excommunicamus et anathematizamus" .
+sctar:cice-l5t7-Dd1e335 sctap:incipit "Absolutos se noverint" .
+sctar:cice-l5t8-Dd1e108 sctap:incipit "Quod a praedecessore" .
+sctar:cice-l5t8-Dd1e123 sctap:incipit "Fraternitati tuae" .
+sctar:cice-l5t9-Dd1e108 sctap:incipit "Praeterea clerici qui" .
+sctar:cice-l5t9-Dd1e123 sctap:incipit "Ex litterarum tuarum" .
+sctar:cice-l5t9-Dd1e138 sctap:incipit "Tuae fraternitati/Tuae fraternitatis" .
+sctar:cice-l5t9-Dd1e153 sctap:incipit "Quidam sicut accepimus" .
+sctar:cice-l5t9-Dd1e169 sctap:incipit "A nobis expetiit" .
+sctar:cice-l5t9-Dd1e184 sctap:incipit "Consultationi tuae breviter" .
+sctar:cice-l5t10-Dd1e108 sctap:incipit "Veniens ad nos" .
+sctar:cice-l5t10-Dd1e123 sctap:incipit "Intelleximus quod M." .
+sctar:cice-l5t10-Dd1e138 sctap:incipit "De infantibus autem" .
+sctar:cice-l5t11-Dd1e108 sctap:incipit "Si a patre" .
+sctar:cice-l5t12-Dd1e108 sctap:incipit "Si quis per" .
+sctar:cice-l5t12-Dd1e123 sctap:incipit "Interfecisti furem aut" .
+sctar:cice-l5t12-Dd1e138 sctap:incipit "Si perfodiens inventus" .
+sctar:cice-l5t12-Dd1e153 sctap:incipit "Cum iuramento pollicitus" .
+sctar:cice-l5t12-Dd1e169 sctap:incipit "Si aliquis causa" .
+sctar:cice-l5t12-Dd1e184 sctap:incipit "Sicut dignum" .
+sctar:cice-l5t12-Dd1e199 sctap:incipit "Presbyterum qui quendam" .
+sctar:cice-l5t12-Dd1e214 sctap:incipit "Continebatur in litteris" .
+sctar:cice-l5t12-Dd1e229 sctap:incipit "Lator praesentium P." .
+sctar:cice-l5t12-Dd1e244 sctap:incipit "Suscepimus litteras tuas" .
+sctar:cice-l5t12-Dd1e260 sctap:incipit "De caetero noveris" .
+sctar:cice-l5t12-Dd1e275 sctap:incipit "Ad audientiam apostolatus" .
+sctar:cice-l5t12-Dd1e290 sctap:incipit "Dilectus filius A." .
+sctar:cice-l5t12-Dd1e305 sctap:incipit "Ex litteris tuae" .
+sctar:cice-l5t12-Dd1e320 sctap:incipit "Ex litteris tuae" .
+sctar:cice-l5t12-Dd1e335 sctap:incipit "Significasti nobis quod/Significasti quod" .
+sctar:cice-l5t12-Dd1e351 sctap:incipit "Petrus diaconus et" .
+sctar:cice-l5t12-Dd1e366 sctap:incipit "Significasti nobis quod" .
+sctar:cice-l5t12-Dd1e381 sctap:incipit "Tua nos duxit" .
+sctar:cice-l5t12-Dd1e396 sctap:incipit "Sicut ex litterarum" .
+sctar:cice-l5t12-Dd1e411 sctap:incipit "Postulasti" .
+sctar:cice-l5t12-Dd1e426 sctap:incipit "Exhibita nobis I." .
+sctar:cice-l5t12-Dd1e442 sctap:incipit "Ioannes sacerdos" .
+sctar:cice-l5t12-Dd1e457 sctap:incipit "Petitio tua nobis" .
+sctar:cice-l5t12-Dd1e472 sctap:incipit "Quidam ut asseris" .
+sctar:cice-l5t13-Dd1e108 sctap:incipit "Felicis memoriae Innocentii" .
+sctar:cice-l5t13-Dd1e123 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l5t14-Dd1e108 sctap:incipit "Porro si clericus" .
+sctar:cice-l5t14-Dd1e123 sctap:incipit "Henricus presbyter nobis" .
+sctar:cice-l5t15-Dd1e108 sctap:incipit "Artem illam mortiferam" .
+sctar:cice-l5t16-Dd1e108 sctap:incipit "Si seduxerit quis" .
+sctar:cice-l5t16-Dd1e123 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l5t16-Dd1e138 sctap:incipit "Si vir sciens" .
+sctar:cice-l5t16-Dd1e153 sctap:incipit "Maritis etiam ex" .
+sctar:cice-l5t16-Dd1e169 sctap:incipit "Significasti nobis quendam" .
+sctar:cice-l5t16-Dd1e184 sctap:incipit "Intelleximus quod cum" .
+sctar:cice-l5t16-Dd1e199 sctap:incipit "Tua fraternitas requisivit" .
+sctar:cice-l5t17-Dd1e108 sctap:incipit "De illis autem" .
+sctar:cice-l5t17-Dd1e116 sctap:incipit "Super eo vero" .
+sctar:cice-l5t17-Dd1e136 sctap:incipit "Excommunicationi subdantur" .
+sctar:cice-l5t17-Dd1e151 sctap:incipit "In archiepiscopatu tuo" .
+sctar:cice-l5t17-Dd1e166 sctap:incipit "In litteris tuis" .
+sctar:cice-l5t17-Dd1e182 sctap:incipit "Cum causam quae" .
+sctar:cice-l5t17-Dd1e197 sctap:incipit "Accedens ad apostolicam" .
+sctar:cice-l5t18-Dd1e108 sctap:incipit "Qui furatur hominem" .
+sctar:cice-l5t18-Dd1e120 sctap:incipit "Fures et latrones" .
+sctar:cice-l5t18-Dd1e135 sctap:incipit "Si quis propter" .
+sctar:cice-l5t18-Dd1e150 sctap:incipit "Qui cum fure" .
+sctar:cice-l5t18-Dd1e166 sctap:incipit "Ex litteris tuis" .
+sctar:cice-l5t19-Dd1e108 sctap:incipit "Plures clericorum" .
+sctar:cice-l5t19-Dd1e123 sctap:incipit "Quoniam non solum" .
+sctar:cice-l5t19-Dd1e138 sctap:incipit "Quia in omnibus" .
+sctar:cice-l5t19-Dd1e153 sctap:incipit "Super eo vero" .
+sctar:cice-l5t19-Dd1e169 sctap:incipit "Cum tu manifestos" .
+sctar:cice-l5t19-Dd1e184 sctap:incipit "In civitate tua" .
+sctar:cice-l5t19-Dd1e199 sctap:incipit "Praeterea parrochianis tuis" .
+sctar:cice-l5t19-Dd1e214 sctap:incipit "Conquestus est nobis" .
+sctar:cice-l5t19-Dd1e229 sctap:incipit "Tua nos duxit" .
+sctar:cice-l5t19-Dd1e244 sctap:incipit "Consuluit nos tua" .
+sctar:cice-l5t19-Dd1e260 sctap:incipit "Quam perniciosum" .
+sctar:cice-l5t19-Dd1e275 sctap:incipit "Post miserabilem" .
+sctar:cice-l5t19-Dd1e290 sctap:incipit "Tuas dudum recepimus" .
+sctar:cice-l5t19-Dd1e305 sctap:incipit "Quia frustra legis" .
+sctar:cice-l5t19-Dd1e320 sctap:incipit "Cum in diocesi" .
+sctar:cice-l5t19-Dd1e335 sctap:incipit "Salubriter" .
+sctar:cice-l5t19-Dd1e351 sctap:incipit "Michael laicus suam" .
+sctar:cice-l5t19-Dd1e366 sctap:incipit "Quanto amplius Christiana" .
+sctar:cice-l5t19-Dd1e381 sctap:incipit "Naviganti vel eunti" .
+sctar:cice-l5t20-Dd1e108 sctap:incipit "Falsidicus testis tribus" .
+sctar:cice-l5t20-Dd1e123 sctap:incipit "Super eo vero" .
+sctar:cice-l5t20-Dd1e138 sctap:incipit "Ad audientiam nostram" .
+sctar:cice-l5t20-Dd1e153 sctap:incipit "Dura saepe mandata" .
+sctar:cice-l5t20-Dd1e169 sctap:incipit "Licet ad regimen" .
+sctar:cice-l5t20-Dd1e184 sctap:incipit "Quam gravi poenae" .
+sctar:cice-l5t20-Dd1e199 sctap:incipit "Ad falsariorum confundendam" .
+sctar:cice-l5t20-Dd1e214 sctap:incipit "Accedens" .
+sctar:cice-l5t20-Dd1e229 sctap:incipit "Ex continentia" .
+sctar:cice-l5t21-Dd1e108 sctap:incipit "In tabulis" .
+sctar:cice-l5t21-Dd1e123 sctap:incipit "Ex tuarum tenore" .
+sctar:cice-l5t21-Dd1e138 sctap:incipit "Ecclesia vestra episcopo" .
+sctar:cice-l5t22-Dd1e108 sctap:incipit "Scripta fraternitatis vestrae" .
+sctar:cice-l5t22-Dd1e123 sctap:incipit "Crimina semel audita" .
+sctar:cice-l5t22-Dd1e138 sctap:incipit "Audivimus usque adeo" .
+sctar:cice-l5t22-Dd1e153 sctap:incipit "In tantum clamor" .
+sctar:cice-l5t23-Dd1e108 sctap:incipit "Pueris grandiusculis peccatum" .
+sctar:cice-l5t23-Dd1e123 sctap:incipit "Referente nobis H." .
+sctar:cice-l5t24-Dd1e108 sctap:incipit "Episcopum presbyterum aut" .
+sctar:cice-l5t24-Dd1e123 sctap:incipit "Omnibus servis Dei" .
+sctar:cice-l5t25-Dd1e108 sctap:incipit "Si quis in" .
+sctar:cice-l5t25-Dd1e123 sctap:incipit "Praeterea quoniam mulierem" .
+sctar:cice-l5t25-Dd1e138 sctap:incipit "Praesentium lator in" .
+sctar:cice-l5t25-Dd1e153 sctap:incipit "Continentia litterarum" .
+sctar:cice-l5t26-Dd1e108 sctap:incipit "Innotuit nobis" .
+sctar:cice-l5t26-Dd1e123 sctap:incipit "Statuimus ut si" .
+sctar:cice-l5t27-Dd1e108 sctap:incipit "Si quis episcopus" .
+sctar:cice-l5t27-Dd1e123 sctap:incipit "Si quis presbyter" .
+sctar:cice-l5t27-Dd1e138 sctap:incipit "Clerici autem si" .
+sctar:cice-l5t27-Dd1e153 sctap:incipit "Latores praesentium" .
+sctar:cice-l5t27-Dd1e169 sctap:incipit "Illud Dominus in" .
+sctar:cice-l5t27-Dd1e184 sctap:incipit "Fraternitati tuae" .
+sctar:cice-l5t27-Dd1e199 sctap:incipit "Postulastus per sedem" .
+sctar:cice-l5t27-Dd1e214 sctap:incipit "Proposuit coram" .
+sctar:cice-l5t27-Dd1e229 sctap:incipit "Apostolicae sedis" .
+sctar:cice-l5t27-Dd1e244 sctap:incipit "Si celebrat minori" .
+sctar:cice-l5t28-Dd1e108 sctap:incipit "Si quis baptizaverit" .
+sctar:cice-l5t28-Dd1e123 sctap:incipit "Ex litteris tuae" .
+sctar:cice-l5t29-Dd1e108 sctap:incipit "Tuae litterae continebant" .
+sctar:cice-l5t30-Dd1e108 sctap:incipit "Veniens ad nos" .
+sctar:cice-l5t30-Dd1e123 sctap:incipit "Cum H. lator" .
+sctar:cice-l5t30-Dd1e138 sctap:incipit "Innotuit nobis quod" .
+sctar:cice-l5t31-Dd1e108 sctap:incipit "Pervenit ad audientiam" .
+sctar:cice-l5t31-Dd1e123 sctap:incipit "Ad haec quoniam" .
+sctar:cice-l5t31-Dd1e138 sctap:incipit "Ad aures nostras" .
+sctar:cice-l5t31-Dd1e153 sctap:incipit "Clerici" .
+sctar:cice-l5t31-Dd1e169 sctap:incipit "Sane si episcopi" .
+sctar:cice-l5t31-Dd1e184 sctap:incipit "Illud etiam de" .
+sctar:cice-l5t31-Dd1e199 sctap:incipit "Cum ad quorundam" .
+sctar:cice-l5t31-Dd1e214 sctap:incipit "Sicut unire episcopatus" .
+sctar:cice-l5t31-Dd1e229 sctap:incipit "Quam sit grave" .
+sctar:cice-l5t31-Dd1e244 sctap:incipit "Ex litteris vestris" .
+sctar:cice-l5t31-Dd1e260 sctap:incipit "Inter dilectos filios" .
+sctar:cice-l5t31-Dd1e275 sctap:incipit "Accedentibus ad nos" .
+sctar:cice-l5t31-Dd1e290 sctap:incipit "Dilectus filius Ioannes" .
+sctar:cice-l5t31-Dd1e305 sctap:incipit "Dilecta in Christo" .
+sctar:cice-l5t31-Dd1e320 sctap:incipit "Gravem et dolore" .
+sctar:cice-l5t31-Dd1e335 sctap:incipit "Nimis iniqua" .
+sctar:cice-l5t31-Dd1e351 sctap:incipit "Nimis prava" .
+sctar:cice-l5t31-Dd1e366 sctap:incipit "Tanta est clavis" .
+sctar:cice-l5t32-Dd1e108 sctap:incipit "Intelleximus ex litteris" .
+sctar:cice-l5t32-Dd1e123 sctap:incipit "Cum ex iniuncto" .
+sctar:cice-l5t32-Dd1e138 sctap:incipit "Significantibus canonicis sanctae" .
+sctar:cice-l5t32-Dd1e153 sctap:incipit "Is cui opus" .
+sctar:cice-l5t33-Dd1e108 sctap:incipit "Episcopalia gubernacula" .
+sctar:cice-l5t33-Dd1e123 sctap:incipit "Sicut in iudiciis" .
+sctar:cice-l5t33-Dd1e138 sctap:incipit "Cum et plantare" .
+sctar:cice-l5t33-Dd1e153 sctap:incipit "Dilecti filii fratres" .
+sctar:cice-l5t33-Dd1e169 sctap:incipit "Ad haec" .
+sctar:cice-l5t33-Dd1e184 sctap:incipit "Si de terra" .
+sctar:cice-l5t33-Dd1e199 sctap:incipit "Porro quamvis Templarii" .
+sctar:cice-l5t33-Dd1e214 sctap:incipit "Recepimus litteras quas" .
+sctar:cice-l5t33-Dd1e229 sctap:incipit "Sane" .
+sctar:cice-l5t33-Dd1e244 sctap:incipit "Patentibus litteris" .
+sctar:cice-l5t33-Dd1e260 sctap:incipit "Tuarum nos tenot" .
+sctar:cice-l5t33-Dd1e275 sctap:incipit "Cum olim essemus" .
+sctar:cice-l5t33-Dd1e290 sctap:incipit "Ex parte abbatissae" .
+sctar:cice-l5t33-Dd1e305 sctap:incipit "Cum olim propter" .
+sctar:cice-l5t33-Dd1e320 sctap:incipit "Accedentibus ad praesentiam" .
+sctar:cice-l5t33-Dd1e335 sctap:incipit "Cum capella ducis" .
+sctar:cice-l5t33-Dd1e351 sctap:incipit "Ex ore sedentis" .
+sctar:cice-l5t33-Dd1e366 sctap:incipit "Ex parte tua" .
+sctar:cice-l5t33-Dd1e381 sctap:incipit "Pastoralis officii" .
+sctar:cice-l5t33-Dd1e396 sctap:incipit "Petiistis per sedem" .
+sctar:cice-l5t33-Dd1e411 sctap:incipit "Quoniam per confessionem" .
+sctar:cice-l5t33-Dd1e426 sctap:incipit "Quia circa" .
+sctar:cice-l5t33-Dd1e442 sctap:incipit "Antiqua patriarchalium sedium" .
+sctar:cice-l5t33-Dd1e457 sctap:incipit "Ut privilegia quae" .
+sctar:cice-l5t33-Dd1e472 sctap:incipit "Quod nonnullis est" .
+sctar:cice-l5t33-Dd1e487 sctap:incipit "Quanto amplius" .
+sctar:cice-l5t33-Dd1e502 sctap:incipit "Ex parte tua" .
+sctar:cice-l5t33-Dd1e517 sctap:incipit "Super specula" .
+sctar:cice-l5t33-Dd1e533 sctap:incipit "Quia inmtentionis nostrae" .
+sctar:cice-l5t33-Dd1e548 sctap:incipit "In his quae" .
+sctar:cice-l5t33-Dd1e563 sctap:incipit "Dudum inter priorem" .
+sctar:cice-l5t33-Dd1e578 sctap:incipit "Quidam sicut asseris" .
+sctar:cice-l5t33-Dd1e593 sctap:incipit "Consultationi vestrae breviter" .
+sctar:cice-l5t34-Dd1e108 sctap:incipit "Nobilis homo vel" .
+sctar:cice-l5t34-Dd1e123 sctap:incipit "Si quis presbyter" .
+sctar:cice-l5t34-Dd1e138 sctap:incipit "Moniales si libidinibus" .
+sctar:cice-l5t34-Dd1e153 sctap:incipit "Si quis de" .
+sctar:cice-l5t34-Dd1e169 sctap:incipit "Quoties Tridentinus episcopus" .
+sctar:cice-l5t34-Dd1e184 sctap:incipit "Nos inter alios" .
+sctar:cice-l5t34-Dd1e199 sctap:incipit "Cum P. Manconella" .
+sctar:cice-l5t34-Dd1e214 sctap:incipit "Ex tuarum intelleximus" .
+sctar:cice-l5t34-Dd1e229 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l5t34-Dd1e244 sctap:incipit "Inter sollicitudines nostras" .
+sctar:cice-l5t34-Dd1e260 sctap:incipit "Cum dilectus" .
+sctar:cice-l5t34-Dd1e275 sctap:incipit "Cum in iuventute" .
+sctar:cice-l5t34-Dd1e290 sctap:incipit "De testibus" .
+sctar:cice-l5t34-Dd1e305 sctap:incipit "Accedens ad praesentiam" .
+sctar:cice-l5t34-Dd1e320 sctap:incipit "Cum dilectis filiis" .
+sctar:cice-l5t34-Dd1e335 sctap:incipit "Accepimus litteras quibus" .
+sctar:cice-l5t35-Dd1e108 sctap:incipit "Cura suscepti regiminis" .
+sctar:cice-l5t35-Dd1e123 sctap:incipit "Significantibus V. laico" .
+sctar:cice-l5t35-Dd1e138 sctap:incipit "Dilecti filii noviter" .
+sctar:cice-l5t36-Dd1e108 sctap:incipit "Si rixati fuerint" .
+sctar:cice-l5t36-Dd1e123 sctap:incipit "Si qua aperuerit" .
+sctar:cice-l5t36-Dd1e138 sctap:incipit "Si bos alienus" .
+sctar:cice-l5t36-Dd1e153 sctap:incipit "Si laeserit quispiam" .
+sctar:cice-l5t36-Dd1e166 sctap:incipit "Si egressus ignis" .
+sctar:cice-l5t36-Dd1e181 sctap:incipit "Si quis domum" .
+sctar:cice-l5t36-Dd1e196 sctap:incipit "Olim scribentibus nobis" .
+sctar:cice-l5t36-Dd1e211 sctap:incipit "In nostra et " .
+sctar:cice-l5t36-Dd1e226 sctap:incipit "Si culpa tua" .
+sctar:cice-l5t37-Dd1e108 sctap:incipit "Ea quae frequenti" .
+sctar:cice-l5t37-Dd1e123 sctap:incipit "Presbyteri interfecti compositio" .
+sctar:cice-l5t37-Dd1e138 sctap:incipit "Licet iuxta Apostolum" .
+sctar:cice-l5t37-Dd1e153 sctap:incipit "Calumniam et audaciam" .
+sctar:cice-l5t37-Dd1e169 sctap:incipit "Quod in dubiis" .
+sctar:cice-l5t37-Dd1e184 sctap:incipit "Tuae discretionis prudentiam" .
+sctar:cice-l5t37-Dd1e199 sctap:incipit "Constitutus in praesentia" .
+sctar:cice-l5t37-Dd1e214 sctap:incipit "Super his de" .
+sctar:cice-l5t37-Dd1e229 sctap:incipit "Suam ad nos" .
+sctar:cice-l5t37-Dd1e244 sctap:incipit "Ad aures nostri" .
+sctar:cice-l5t37-Dd1e260 sctap:incipit "Dilectus filius electus" .
+sctar:cice-l5t37-Dd1e275 sctap:incipit "IN quibusdam provinciis" .
+sctar:cice-l5t37-Dd1e290 sctap:incipit "Gravem capituli Lund." .
+sctar:cice-l5t38-Dd1e108 sctap:incipit "Manifesta peccata non" .
+sctar:cice-l5t38-Dd1e123 sctap:incipit "Qui presbyterum occiderit" .
+sctar:cice-l5t38-Dd1e138 sctap:incipit "Significavit nobis vir" .
+sctar:cice-l5t38-Dd1e153 sctap:incipit "Quod autem consuluisti" .
+sctar:cice-l5t38-Dd1e169 sctap:incipit "Quod quidam ad" .
+sctar:cice-l5t38-Dd1e184 sctap:incipit "Licet tam veteris" .
+sctar:cice-l5t38-Dd1e199 sctap:incipit "Quaesitum est a" .
+sctar:cice-l5t38-Dd1e214 sctap:incipit "Deus qui ecclesiam" .
+sctar:cice-l5t38-Dd1e229 sctap:incipit "Officii" .
+sctar:cice-l5t38-Dd1e244 sctap:incipit "Nova quaedam nostris" .
+sctar:cice-l5t38-Dd1e260 sctap:incipit "Quod in te" .
+sctar:cice-l5t38-Dd1e275 sctap:incipit "Omnis utriusque sexus" .
+sctar:cice-l5t38-Dd1e290 sctap:incipit "Cum infirmitas corporalis" .
+sctar:cice-l5t38-Dd1e305 sctap:incipit "Cum ex eo" .
+sctar:cice-l5t38-Dd1e320 sctap:incipit "Nostro postulasti certificari" .
+sctar:cice-l5t38-Dd1e335 sctap:incipit "Ne pro dilatione" .
+sctar:cice-l5t39-Dd1e108 sctap:incipit "Super eo vero" .
+sctar:cice-l5t39-Dd1e123 sctap:incipit "Monachi vero et" .
+sctar:cice-l5t39-Dd1e138 sctap:incipit "Si vero alicuius" .
+sctar:cice-l5t39-Dd1e153 sctap:incipit "Si vero aliquis" .
+sctar:cice-l5t39-Dd1e169 sctap:incipit "Non dubium est" .
+sctar:cice-l5t39-Dd1e184 sctap:incipit "Mulieres vel aliae" .
+sctar:cice-l5t39-Dd1e199 sctap:incipit "Porro si aliqui" .
+sctar:cice-l5t39-Dd1e214 sctap:incipit "Nulli se possunt" .
+sctar:cice-l5t39-Dd1e229 sctap:incipit "Parochianos vestros si" .
+sctar:cice-l5t39-Dd1e244 sctap:incipit "Ex tenore litterarum" .
+sctar:cice-l5t39-Dd1e260 sctap:incipit "De caetero noveris" .
+sctar:cice-l5t39-Dd1e275 sctap:incipit "Ad haec" .
+sctar:cice-l5t39-Dd1e290 sctap:incipit "Ea noscitur" .
+sctar:cice-l5t39-Dd1e305 sctap:incipit "Cum non ab" .
+sctar:cice-l5t39-Dd1e320 sctap:incipit "Cum desideres" .
+sctar:cice-l5t39-Dd1e335 sctap:incipit "Veniens ad sedem" .
+sctar:cice-l5t39-Dd1e351 sctap:incipit "Pervenit ad nos" .
+sctar:cice-l5t39-Dd1e366 sctap:incipit "Significavit nobis" .
+sctar:cice-l5t39-Dd1e381 sctap:incipit "Tua nos duxit" .
+sctar:cice-l5t39-Dd1e396 sctap:incipit "Ad eminentiam sedis" .
+sctar:cice-l5t39-Dd1e411 sctap:incipit "A nobis fuit" .
+sctar:cice-l5t39-Dd1e426 sctap:incipit "Conquesti sunt nobis" .
+sctar:cice-l5t39-Dd1e442 sctap:incipit "Perpendimus ex litteris" .
+sctar:cice-l5t39-Dd1e457 sctap:incipit "Universitatis vestrae consultationem" .
+sctar:cice-l5t39-Dd1e472 sctap:incipit "In audientia nostra" .
+sctar:cice-l5t39-Dd1e487 sctap:incipit "Quod de his" .
+sctar:cice-l5t39-Dd1e502 sctap:incipit "Cum pro causa" .
+sctar:cice-l5t39-Dd1e517 sctap:incipit "A nobis est" .
+sctar:cice-l5t39-Dd1e533 sctap:incipit "Nuper a nobis" .
+sctar:cice-l5t39-Dd1e548 sctap:incipit "Quod in dubiis" .
+sctar:cice-l5t39-Dd1e563 sctap:incipit "Inter alia quae" .
+sctar:cice-l5t39-Dd1e578 sctap:incipit "Cum illorum absolutio" .
+sctar:cice-l5t39-Dd1e593 sctap:incipit "De monialibus tua" .
+sctar:cice-l5t39-Dd1e608 sctap:incipit "Si vere" .
+sctar:cice-l5t39-Dd1e624 sctap:incipit "Ut famae tuae" .
+sctar:cice-l5t39-Dd1e639 sctap:incipit "Contingit interdum quod" .
+sctar:cice-l5t39-Dd1e654 sctap:incipit "Relatum est nobis" .
+sctar:cice-l5t39-Dd1e669 sctap:incipit "Sacris est canonibus" .
+sctar:cice-l5t39-Dd1e684 sctap:incipit "Sicut nobis" .
+sctar:cice-l5t39-Dd1e699 sctap:incipit "Per tuas litteras" .
+sctar:cice-l5t39-Dd1e715 sctap:incipit "Si aliquando forte" .
+sctar:cice-l5t39-Dd1e730 sctap:incipit "Officii" .
+sctar:cice-l5t39-Dd1e745 sctap:incipit "Responso nostro npostulas" .
+sctar:cice-l5t39-Dd1e760 sctap:incipit "Inquisitioni tuae respondentes" .
+sctar:cice-l5t39-Dd1e775 sctap:incipit "Contingit interdum" .
+sctar:cice-l5t39-Dd1e790 sctap:incipit "In praesentia dilecti" .
+sctar:cice-l5t39-Dd1e806 sctap:incipit "Quantae praesumptionis et" .
+sctar:cice-l5t39-Dd1e821 sctap:incipit "Sacro approbante concilio" .
+sctar:cice-l5t39-Dd1e836 sctap:incipit "Noverit fraternitas tua" .
+sctar:cice-l5t39-Dd1e851 sctap:incipit "Canonica constitutione cavetur" .
+sctar:cice-l5t39-Dd1e866 sctap:incipit "Super eo quod" .
+sctar:cice-l5t39-Dd1e881 sctap:incipit "Venerabili fratre nostro" .
+sctar:cice-l5t39-Dd1e897 sctap:incipit "Gravem venerabilis fratris" .
+sctar:cice-l5t39-Dd1e912 sctap:incipit "Cum voluntate ac" .
+sctar:cice-l5t39-Dd1e927 sctap:incipit "Si concubinae publicae" .
+sctar:cice-l5t39-Dd1e942 sctap:incipit "Duobus collata potestas" .
+sctar:cice-l5t39-Dd1e957 sctap:incipit "Permittimus ecclesiarum ministris" .
+sctar:cice-l5t39-Dd1e972 sctap:incipit "Quamvis incidens in" .
+sctar:cice-l5t39-Dd1e988 sctap:incipit "Si quem sub" .
+sctar:cice-l5t39-Dd1e1003 sctap:incipit "Puris qui in" .
+sctar:cice-l5t40-Dd1e108 sctap:incipit "Innovate novale" .
+sctar:cice-l5t40-Dd1e123 sctap:incipit "Nam et rex" .
+sctar:cice-l5t40-Dd1e138 sctap:incipit "Nam et ego" .
+sctar:cice-l5t40-Dd1e153 sctap:incipit "Quod dicitur antequam" .
+sctar:cice-l5t40-Dd1e169 sctap:incipit "Iodeph non cognovit" .
+sctar:cice-l5t40-Dd1e184 sctap:incipit "Intelligentia dictorum" .
+sctar:cice-l5t40-Dd1e199 sctap:incipit "Nihil obstat narrandi" .
+sctar:cice-l5t40-Dd1e214 sctap:incipit "Propterea si prolixam" .
+sctar:cice-l5t40-Dd1e229 sctap:incipit "Quamvis omnes qui" .
+sctar:cice-l5t40-Dd1e244 sctap:incipit "Forus est exercendarum" .
+sctar:cice-l5t40-Dd1e260 sctap:incipit "Pctum dicitur inter" .
+sctar:cice-l5t40-Dd1e275 sctap:incipit "Ius dictum est" .
+sctar:cice-l5t40-Dd1e290 sctap:incipit "Causa Carpensis plebis" .
+sctar:cice-l5t40-Dd1e305 sctap:incipit "Quaesivit fraternitas tua" .
+sctar:cice-l5t40-Dd1e320 sctap:incipit "In his quae" .
+sctar:cice-l5t40-Dd1e335 sctap:incipit "Olim tibi scripsisse" .
+sctar:cice-l5t40-Dd1e351 sctap:incipit "Cum in partibus" .
+sctar:cice-l5t40-Dd1e366 sctap:incipit "Cum tibi de" .
+sctar:cice-l5t40-Dd1e381 sctap:incipit "Cum clerici Placentini" .
+sctar:cice-l5t40-Dd1e396 sctap:incipit "Quaerenti quid per" .
+sctar:cice-l5t40-Dd1e411 sctap:incipit "Quid per novale" .
+sctar:cice-l5t40-Dd1e426 sctap:incipit "Venerabili fratre nostro" .
+sctar:cice-l5t40-Dd1e442 sctap:incipit "Ex parte in" .
+sctar:cice-l5t40-Dd1e457 sctap:incipit "Cum olim pro" .
+sctar:cice-l5t40-Dd1e472 sctap:incipit "Abbate sancti Silvani" .
+sctar:cice-l5t40-Dd1e487 sctap:incipit "Super quibusdam mandatorum" .
+sctar:cice-l5t40-Dd1e502 sctap:incipit "Novimus expedire ut" .
+sctar:cice-l5t40-Dd1e517 sctap:incipit "Dilecto filio Iacobo" .
+sctar:cice-l5t40-Dd1e533 sctap:incipit "Cum inter vos" .
+sctar:cice-l5t40-Dd1e548 sctap:incipit "Ex parte vestra" .
+sctar:cice-l5t40-Dd1e563 sctap:incipit "Ex parte vestra" .
+sctar:cice-l5t40-Dd1e578 sctap:incipit "Tua nobis fraternitas" .
+sctar:cice-l5t40-Dd1e593 sctap:incipit "Transmissae nobis litterae" .
+sctar:cice-l5t41-Dd1e108 sctap:incipit "Omnis res per" .
+sctar:cice-l5t41-Dd1e123 sctap:incipit "Estote misericordes" .
+sctar:cice-l5t41-Dd1e138 sctap:incipit "Qui scandalizaverit" .
+sctar:cice-l5t41-Dd1e153 sctap:incipit "Quod non est" .
+sctar:cice-l5t41-Dd1e169 sctap:incipit "Quod latenter aut" .
+sctar:cice-l5t41-Dd1e184 sctap:incipit "Cum in contemplatione" .
+sctar:cice-l5t41-Dd1e199 sctap:incipit "Quae multotiens" .
+sctar:cice-l5t41-Dd1e214 sctap:incipit "Qui ex timore" .
+sctar:cice-l5t41-Dd1e229 sctap:incipit "Defleat peccator quia" .
+sctar:cice-l5t41-Dd1e244 sctap:incipit "Quamvis causae" .
+sctar:cice-l5t41-Dd1e260 sctap:incipit "Indignum est" .
