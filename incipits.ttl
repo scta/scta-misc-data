@@ -28580,9 +28580,9 @@ sctar:gd-p2c25q1-Dd1e331 sctap:incipit "Ideo permittente Domino" .
 sctar:gd-p2c25q1-Dd1e125 sctap:incipit "Diuinis preceptis et" .
 sctar:gd-p2c25q1-Dd1e137 sctap:incipit "Que ad perpetuam" .
 sctar:gd-p2c25q1-Dd1e149 sctap:incipit "Nulli fas sit" .
-sctar:gd-p2c25q1-Dd1e164 sctap:incipit "Item Damasus Papa" .
-sctar:gd-p2c25q1-Dd1e179 sctap:incipit "Item Urbanus Papa" .
-sctar:gd-p2c25q1-Dd1e194 sctap:incipit "Item Zosimus Papa" .
+sctar:gd-p2c25q1-Dd1e164 sctap:incipit "Violatores canonum uoluntarie" .
+sctar:gd-p2c25q1-Dd1e179 sctap:incipit "Sunt quidam dicentes" .
+sctar:gd-p2c25q1-Dd1e194 sctap:incipit "Contra Patrum statuta" .
 sctar:gd-p2c25q1-Dd1e213 sctap:incipit "Omne quod inreprehensibile" .
 sctar:gd-p2c25q1-Dd1e228 sctap:incipit "Prima salus est" .
 sctar:gd-p2c25q1-Dd1e100 sctap:incipit "Quod uero auctoritate" .
