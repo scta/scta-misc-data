@@ -1258,7 +1258,7 @@ sctar:cice-l3t38-Dd1e533 sctap:incipit "Pastoralis officii" .
 sctar:cice-l3t38-Dd1e548 sctap:incipit "Postulasti per sedem" .
 sctar:cice-l3t38-Dd1e563 sctap:incipit "Transmissae ad nos" .
 sctar:cice-l3t39-Dd1e108 sctap:incipit "Sancitum est ut" .
-sctar:cice-l3t39-Dd1e123 sctap:incipit "Omnes anima sublimioribus" .
+sctar:cice-l3t39-Dd1e123 sctap:incipit "Omnis anima sublimioribus" .
 sctar:cice-l3t39-Dd1e138 sctap:incipit "Scientes" .
 sctar:cice-l3t39-Dd1e153 sctap:incipit "Licet multum" .
 sctar:cice-l3t39-Dd1e169 sctap:incipit "Pervenit ad nos" .
