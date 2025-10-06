@@ -3936,6 +3936,7 @@ sctar:azsw2e-d1e3438-Dd1e116 sctap:incipit "Requirendi fugitivos potestatem" .
 sctar:azsw2e-d1e3438-Dd1e126 sctap:incipit "Si fugitivi servi" .
 sctar:azsw2e-d1e3438-Dd1e137 sctap:incipit "Quicumque fugitivum servum" .
 sctar:azsw2e-d1e3438-Dd1e163 sctap:incipit "Mancipia diversis artibus" .
+sctar:azsw2e-d1e3438-Dd1e173 sctap:incipit "cum servum quispiam" .
 sctar:azsw2e-d1e3438-Dd1e183 sctap:incipit "Si quis servum" .
 sctar:azsw2e-d1e3438-Dd1e193 sctap:incipit "Si qui publicorum" .
 sctar:azsw2e-d1e3449-Dd1e106 sctap:incipit "Si pecunia tua" .
