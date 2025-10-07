@@ -27043,7 +27043,7 @@ sctar:gd-p2c7q1-Dd1e641 sctap:incipit "Item Pelagius Papa" .
 sctar:gd-p2c7q1-Dd1e657 sctap:incipit "Idem ad eundem" .
 sctar:gd-p2c7q1-Dd1e672 sctap:incipit "Episcopus de loco" .
 sctar:gd-p2c7q1-Dd1e724 sctap:incipit "Episcopi uel presbiteri" .
-sctar:gd-p2c7q1-Dd1e694 sctap:incipit "Item Calix tus" .
+sctar:gd-p2c7q1-Dd1e694 sctap:incipit "Sicut alterius" .
 sctar:gd-p2c7q1-Dd1e158 sctap:incipit "Pontifices qui aliqua" .
 sctar:gd-p2c7q1-Dd1e712 sctap:incipit "Eum qui contra" .
 sctar:gd-p2c7q1-Dd1e721 sctap:incipit "In apibus princeps" .
