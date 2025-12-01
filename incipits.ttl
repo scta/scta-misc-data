@@ -28597,6 +28597,7 @@ sctar:gd-p2c25q2-Dd1e316 sctap:incipit "Dicenti sacras iussiones" .
 sctar:gd-p2c25q2-Dd1e334 sctap:incipit "Priuilegia ecclesiarum sanctorum" .
 sctar:gd-p2c25q2-Dd1e353 sctap:incipit "Si quis dogmata" .
 sctar:gd-p2c25q2-Dd1e368 sctap:incipit "Decessorum statuta sicut" .
+sctar:gd-p2c25q2-Dd1e395 sctap:incipit "Quaecumque inquiunt a"
 sctar:gd-p2c25q2-Dd1e121 sctap:incipit "Priuilegia ecclesiarum et" .
 sctar:gd-p2c25q2-Dd1e393 sctap:incipit "Posteaquam ecclesiae iura" .
 sctar:gd-p2c25q2-Dd1e411 sctap:incipit "Sic decet fidem" .
@@ -29264,6 +29265,7 @@ sctar:gd-p2c33q3d2-Dd1e649 sctap:incipit "Talibus Deus diligentibus" .
 sctar:gd-p2c33q3d2-Dd1e667 sctap:incipit "Circumcisio non est" .
 sctar:gd-p2c33q3d2-Dd1e685 sctap:incipit "Non est tam" .
 sctar:gd-p2c33q3d2-Dd1e142 sctap:incipit "Radicata est karitas" .
+sctar:gd-p2c33q3d2-Dd1e169 sctap:incipit "Valida est ut" .
 sctar:gd-p2c33q3d2-Dd1e707 sctap:incipit "ait Tolle karitatem" .
 sctar:gd-p2c33q3d2-Dd1e829 sctap:incipit "Quomodo renouari dicimur" .
 sctar:gd-p2c33q3d2-Dd1e780 sctap:incipit "Princeps uiciorum omnium" .
